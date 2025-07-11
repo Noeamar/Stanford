@@ -1,0 +1,7 @@
+,Lasso,RandomForest,XGBoost,STABL Lasso,STABL RandomForest,STABL XGBoost
+Lasso,1.0,0.381,0.236,0.355,0.005,0.312
+RandomForest,0.381,1.0,0.49,0.504,0.0,0.411
+XGBoost,0.229,0.44,1.0,0.413,0.001,0.488
+STABL Lasso,0.361,0.497,0.451,1.0,0.0,0.425
+STABL RandomForest,0.005,0.0,0.002,0.003,1.0,0.001
+STABL XGBoost,0.278,0.443,0.476,0.429,0.002,1.0

@@ -1,0 +1,2 @@
+,ROC AUC,Average Precision,N features,CVS
+RF on Combined,"0.875 [0.712, 1.000]","0.860 [0.653, 1.000]","5.000 [2.000, 8.650]","0.510 [0.007, 1.732]"
