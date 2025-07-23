@@ -1,0 +1,8 @@
+,Lasso,RandomForest,XGBoost,STABL Lasso,STABL RandomForest,STABL XGBoost,STABL_Combined
+Lasso,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RandomForest,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+XGBoost,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+STABL Lasso,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+STABL RandomForest,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+STABL XGBoost,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+STABL_Combined,1.0,1.0,1.0,1.0,1.0,1.0,1.0
