@@ -1,0 +1,101 @@
+,Fold selected features,Fold #features
+Fold_0,['GDF15'],1
+Fold_1,"['MZB1', 'PLAUR']",2
+Fold_2,"['GNLY', 'MZB1', 'PLAUR', 'TNFRSF13B']",4
+Fold_3,['PLAUR'],1
+Fold_4,"['CASP1', 'MZB1', 'TFPI2']",3
+Fold_5,"['GNLY', 'NOMO1']",2
+Fold_6,"['GNLY', 'MZB1']",2
+Fold_7,"['CASP1', 'MZB1', 'PLAUR']",3
+Fold_8,"['CTSH', 'MZB1', 'PLAUR']",3
+Fold_9,"['IL2RA', 'MZB1', 'PLAUR']",3
+Fold_10,"['GNLY', 'PLAUR']",2
+Fold_11,"['MZB1', 'PLAUR']",2
+Fold_12,"['CCL7', 'CD74', 'MZB1', 'PLAUR']",4
+Fold_13,"['MZB1', 'PLAUR']",2
+Fold_14,['MZB1'],1
+Fold_15,"['ANGPTL2', 'GNLY', 'MZB1', 'PLAUR']",4
+Fold_16,[],0
+Fold_17,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_18,"['DLL1', 'MZB1']",2
+Fold_19,"['GPKOW', 'JUN', 'PLAUR']",3
+Fold_20,[],0
+Fold_21,['MZB1'],1
+Fold_22,"['IL2RA', 'JUN', 'MZB1', 'PLAUR']",4
+Fold_23,"['GNLY', 'MZB1']",2
+Fold_24,"['CEP164', 'PLAUR']",2
+Fold_25,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_26,"['LGALS9', 'PLAUR']",2
+Fold_27,"['CCL7', 'CTSS', 'CXCL13', 'MZB1', 'PLAUR']",5
+Fold_28,['CCL7'],1
+Fold_29,"['GNLY', 'MZB1']",2
+Fold_30,"['GNLY', 'MZB1']",2
+Fold_31,"['JUN', 'PLAUR']",2
+Fold_32,[],0
+Fold_33,"['MZB1', 'PLAUR']",2
+Fold_34,"['MZB1', 'PLAUR']",2
+Fold_35,"['GNLY', 'IL2RA']",2
+Fold_36,"['MZB1', 'PLAUR']",2
+Fold_37,['PLAUR'],1
+Fold_38,"['MZB1', 'PLAUR']",2
+Fold_39,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_40,['PLAUR'],1
+Fold_41,"['MZB1', 'PLAUR']",2
+Fold_42,"['GPKOW', 'JUN', 'MZB1', 'PLAUR', 'TFPI2']",5
+Fold_43,[],0
+Fold_44,"['IL2RA', 'MZB1']",2
+Fold_45,"['CCL7', 'MZB1', 'TFPI2']",3
+Fold_46,"['JUN', 'PLAUR']",2
+Fold_47,['MZB1'],1
+Fold_48,['PLAUR'],1
+Fold_49,"['DLL1', 'GNLY', 'MZB1']",3
+Fold_50,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_51,['PLAUR'],1
+Fold_52,"['MZB1', 'PLAUR']",2
+Fold_53,['PLAUR'],1
+Fold_54,"['GNLY', 'MZB1']",2
+Fold_55,"['MZB1', 'PLAUR']",2
+Fold_56,"['GNLY', 'JUN']",2
+Fold_57,"['CDCP1', 'MZB1']",2
+Fold_58,"['MZB1', 'PLAUR']",2
+Fold_59,"['GNLY', 'PLAUR']",2
+Fold_60,"['MZB1', 'PLAUR']",2
+Fold_61,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_62,"['JUN', 'MZB1']",2
+Fold_63,['PLAUR'],1
+Fold_64,"['CDCP1', 'GNLY', 'MZB1']",3
+Fold_65,"['CAPG', 'PLAUR']",2
+Fold_66,['MZB1'],1
+Fold_67,"['CCL7', 'MZB1', 'TFPI2']",3
+Fold_68,['PLAUR'],1
+Fold_69,"['MZB1', 'PLAUR']",2
+Fold_70,"['GNLY', 'IL2RA', 'PLAUR']",3
+Fold_71,"['CAPG', 'PLAUR']",2
+Fold_72,"['GNLY', 'MZB1']",2
+Fold_73,"['APBB1IP', 'JUN', 'MZB1']",3
+Fold_74,"['DLL1', 'MZB1', 'PLAUR']",3
+Fold_75,['PLAUR'],1
+Fold_76,['PLAUR'],1
+Fold_77,"['MZB1', 'TFPI2']",2
+Fold_78,"['MZB1', 'PLAUR']",2
+Fold_79,"['MZB1', 'PLAUR']",2
+Fold_80,"['DLL1', 'GNLY', 'MZB1', 'TFPI2']",4
+Fold_81,"['MZB1', 'PLAUR']",2
+Fold_82,"['MZB1', 'PLAUR']",2
+Fold_83,"['GNLY', 'PLAUR']",2
+Fold_84,"['JUN', 'MZB1', 'PLAUR', 'ULBP2']",4
+Fold_85,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold_86,['MZB1'],1
+Fold_87,"['CCL7', 'JUN', 'MZB1', 'PLAUR']",4
+Fold_88,"['CCL7', 'GNLY', 'MZB1']",3
+Fold_89,['MZB1'],1
+Fold_90,"['GNLY', 'MZB1']",2
+Fold_91,"['MZB1', 'PLAUR']",2
+Fold_92,"['IL2RA', 'MZB1', 'PLAUR']",3
+Fold_93,"['CCL7', 'CDCP1']",2
+Fold_94,"['MZB1', 'PLAUR']",2
+Fold_95,"['GNLY', 'MZB1', 'TFPI2']",3
+Fold_96,"['CASP1', 'GNLY', 'PLAUR']",3
+Fold_97,['PLAUR'],1
+Fold_98,"['CCL7', 'PLAUR', 'TFPI2']",3
+Fold_99,['MZB1'],1
