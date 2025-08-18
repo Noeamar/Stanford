@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['MT-TM', 'MT-TH', 'MTRNR2L8']",3
+Fold 1,"['RPL23AP7', 'MTRNR2L8']",2
+Fold 2,"['ACACB', 'MT-TR', 'RPL23AP7']",3
+Fold 3,"['RNA5SP387', 'MT-TV', 'MT-TM', 'MT-TH']",4
+Fold 4,"['ACACB', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",4
+Fold 5,"['TRIO', 'RNY3P1', 'MT-TH', 'RPL23AP7']",4
+Fold 6,"['ACACB', 'IGF2', 'MT-TR', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",6
+Fold 7,"['RNA5SP387', 'Y_RNA.201', 'MT-TM', 'RPL23AP7']",4
+Fold 8,"['MIRLET7D', 'RNA5SP387', 'MT-TH', 'MTRNR2L8']",4
+Fold 9,"['RNY3P1', 'MT-TM', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",5
+Fold 10,"['IGF2', 'MTRNR2L8']",2
+Fold 11,"['MT-TV', 'MT-TH', 'MTRNR2L8']",3
+Fold 12,"['ACACB', 'RNA5SP387', 'MT-TH', 'RPL23AP7']",4
+Fold 13,"['MT-TV', 'MT-TM', 'RPL23AP7']",3
+Fold 14,"['RNY3P1', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",4
+Fold 15,"['TRIO', 'ACACB', 'MT-TH', 'RPL23AP7']",4
+Fold 16,"['RNA5SP387', 'MT-TV', 'MT-TM', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",6
+Fold 17,"['MT-TM', 'RPL23AP7']",2
+Fold 18,"['ACACB', 'RPL23AP7', 'MTRNR2L8']",3
+Fold 19,"['MT-TM', 'MT-TR', 'MT-TH', 'MTRNR2L8']",4
+Fold 20,"['MT-TH', 'RPL23AP7']",2
+Fold 21,"['ACACB', 'MIRLET7D', 'RNY3P1', 'MT-TM', 'MT-TH', 'MTRNR2L8']",6
+Fold 22,"['MT-TR', 'HNRNPA3P6', 'RPL23AP7', 'MTRNR2L8']",4
+Fold 23,"['ACACB', 'MT-TV', 'MT-TM', 'MT-TR', 'MT-TH', 'RPL23AP7', 'MTRNR2L8']",7
+Fold 24,"['MT-TH', 'HNRNPA3P6', 'RPL23AP7']",3

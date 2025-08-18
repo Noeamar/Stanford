@@ -1,0 +1,2 @@
+,ROC AUC,Average Precision,N features,CVS
+STABL XGBoost,"0.507 [0.341, 0.664]","0.202 [0.123, 0.378]","8.000 [6.000, 10.000]","0.132 [0.067, 0.200]"

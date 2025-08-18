@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['AARSD1', 'GDF15', 'LTBP3', 'TFPI2']",4
+Fold 1,"['IL2RA', 'JUN', 'MZB1', 'PLAUR']",4
+Fold 2,"['CTSS', 'GNLY', 'MZB1', 'PLAUR', 'TNFRSF13B']",5
+Fold 3,"['CEP164', 'CTSH', 'GNLY', 'MZB1', 'PLAUR', 'TNC']",6
+Fold 4,"['CASP1', 'CCL20', 'CCL7', 'CRTAC1', 'EGLN1', 'FURIN', 'GNLY', 'GPKOW', 'LYAR', 'MZB1', 'PLAUR', 'TFPI2']",12
+Fold 5,"['CCL7', 'CNTN1', 'CTSH', 'DLL1', 'GNLY', 'IL33', 'JUN', 'LGALS9', 'MZB1', 'NOMO1', 'PCSK9', 'PLAUR', 'TFPI2']",13
+Fold 6,"['ACE2', 'CTSH', 'CTSS', 'CXCL13', 'GNLY', 'IL2RA', 'JUN', 'MUC13', 'MZB1', 'PLAUR']",10
+Fold 7,"['AARSD1', 'ABHD14B', 'ACE2', 'CAPG', 'CASP1', 'CD5', 'CRTAC1', 'JUN', 'MZB1', 'PLAUR', 'TNFRSF13C']",11
+Fold 8,"['ACAN', 'CTSH', 'CTSS', 'DLL1', 'GDF15', 'GNLY', 'MZB1', 'PLAUR']",8
+Fold 9,"['IL2RA', 'JUN', 'MZB1', 'PLAUR', 'TFPI2']",5
+Fold 10,"['AARSD1', 'ACTA2', 'GNLY', 'MZB1', 'PLAUR']",5
+Fold 11,"['ADAMTS13', 'GNLY', 'MET', 'MZB1', 'PLAUR', 'TFPI2']",6
+Fold 12,"['CCL7', 'CD74', 'IL2RA', 'MZB1', 'PLAUR', 'TFPI2']",6
+Fold 13,"['AARSD1', 'ACAN', 'ACE2', 'ACP5', 'ACP6', 'CNTN5', 'CRTAC1', 'FABP4', 'GNLY', 'IL2RA', 'LTBP3', 'LY96', 'MET', 'MZB1', 'PLAUR', 'TFPI2']",16
+Fold 14,"['BTN3A2', 'CCL7', 'CTSH', 'CTSS', 'MZB1', 'PLAUR']",6
+Fold 15,"['ANGPTL2', 'CRTAC1', 'CTSS', 'DLL1', 'GNLY', 'MZB1', 'PLAUR']",7
+Fold 16,"['AARSD1', 'ACE2', 'ADAMTS13', 'CCL7', 'FABP4', 'GNLY', 'IL2RA', 'JUN', 'MZB1', 'TFPI2']",10
+Fold 17,"['AARSD1', 'ABL1', 'ACE2', 'CCL7', 'CTSH', 'DSG4', 'GNLY', 'IL32', 'JUN', 'LTBP3', 'MZB1', 'NOMO1', 'PLAUR', 'SMOC2', 'TFPI2']",15
+Fold 18,"['CTSH', 'DLL1', 'GNLY', 'MZB1']",4
+Fold 19,"['ACE2', 'CASP1', 'GPKOW', 'JUN', 'LTBP3', 'MZB1', 'PLAUR', 'TFPI2', 'TNFRSF13C', 'XPNPEP2']",10
+Fold 20,"['AARSD1', 'ACE2', 'ACTA2', 'CCL15', 'CRTAC1', 'EGLN1', 'LTBP3', 'LYAR', 'MET', 'MZB1', 'PLAUR', 'TFPI2', 'TNFRSF11A']",13
+Fold 21,"['AARSD1', 'ADAMTS13', 'CCL7', 'GNLY', 'GRN', 'MZB1', 'TFPI2']",7
+Fold 22,"['CCL7', 'FABP4', 'FCAR', 'IL2RA', 'JUN', 'MZB1', 'PLAUR', 'TNFRSF13B']",8
+Fold 23,"['GNLY', 'MZB1']",2
+Fold 24,"['CAPG', 'CEP164', 'CTSH', 'CTSS', 'DSG4', 'GNLY', 'MZB1', 'PLAUR', 'TNC']",9

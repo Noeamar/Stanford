@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['GDF15', 'TFPI2']",2
+Fold 1,"['JUN', 'MZB1', 'PLAUR']",3
+Fold 2,"['LGALS1', 'MZB1', 'PLAUR', 'TNFRSF13B']",4
+Fold 3,"['CTSH', 'PLAUR']",2
+Fold 4,"['CASP1', 'MZB1', 'TFPI2']",3
+Fold 5,[],0
+Fold 6,"['GDF15', 'MZB1']",2
+Fold 7,"['CASP1', 'MZB1', 'PLAUR']",3
+Fold 8,"['CTSH', 'GDF15', 'PLAUR']",3
+Fold 9,"['IL2RA', 'MZB1', 'PLAUR']",3
+Fold 10,"['GDF15', 'GNLY', 'PLAUR']",3
+Fold 11,"['MZB1', 'PLAUR']",2
+Fold 12,"['CD74', 'PLAUR']",2
+Fold 13,"['CNTN5', 'MZB1']",2
+Fold 14,"['CCL20', 'MZB1']",2
+Fold 15,"['ANGPTL2', 'PLAUR', 'PON3']",3
+Fold 16,[],0
+Fold 17,"['MZB1', 'PLAUR']",2
+Fold 18,"['CDCP1', 'DLL1', 'MZB1']",3
+Fold 19,"['JUN', 'MZB1', 'PLAUR']",3
+Fold 20,"['MZB1', 'PLAUR', 'TFPI2']",3
+Fold 21,"['CCL7', 'CXCL8', 'IL22RA1', 'MZB1']",4
+Fold 22,"['IL2RA', 'JUN', 'MZB1', 'PLAUR']",4
+Fold 23,"['GNLY', 'MZB1', 'PON3']",3
+Fold 24,['PLAUR'],1

@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['unstim_Baso_149Sm_CREB', 'unstim_Baso_155Gd_S6', 'unstim_CD4Tnaive_Frequency', 'unstim_NK_Frequency', 'TNF_Th1_149Sm_CREB', 'DUSP4', 'HSPH1', 'UPP1', 'BTN3A2', 'HBA1|HBB', 'HERPUD2']",11
+Fold 1,"['unstim_Baso_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'TNF_Th1_149Sm_CREB', 'PSMB4', 'UPP1', 'CCL3']",7
+Fold 2,"['unstim_Baso_155Gd_S6', 'unstim_Baso_164Dy_IkB', 'unstim_DC_159Tb_MAPKAPK2', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'AOC3']",6
+Fold 3,"['unstim_Baso_150Nd_STAT5', 'unstim_Th1naive_167Er_ERK', 'unstim_CD4Trm_Frequency', 'DUSP4', 'CBS', 'WWOX', 'HERPUD2']",7
+Fold 4,"['unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_gdT_Frequency', 'unstim_NK_Frequency', 'unstim_Tregmem_Frequency', 'LPS_Baso_155Gd_S6', 'LPS_Granulocytes_155Gd_S6', 'PSMB4', 'CCL3', 'HERPUD2']",10
+Fold 5,[],0
+Fold 6,"['unstim_Baso_155Gd_S6', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_NK_Frequency', 'IL246_DC_155Gd_S6', 'IL246_Granulocytes_154Sm_STAT3', 'TNF_Th1_149Sm_CREB', 'CRYBB2', 'PSMB4', 'UPP1', 'ITGAV|ITGB3', 'AOC3', 'HERPUD2']",13
+Fold 7,"['CXADR', 'PSMB4', 'EIF4G1']",3
+Fold 8,"['unstim_Baso_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_gdT_Frequency', 'IL246_Th1_164Dy_IkB', 'TNF_Th1_149Sm_CREB', 'DUSP4', 'UPP1', 'AOC3', 'CCL3']",9
+Fold 9,"['unstim_Baso_155Gd_S6', 'unstim_DC_159Tb_MAPKAPK2', 'unstim_Th1naive_167Er_ERK', 'unstim_CD4Trm_Frequency', 'unstim_Tregmem_Frequency', 'DUSP4', 'PSMB4', 'UPP1', 'HERPUD2']",9
+Fold 10,"['unstim_Baso_150Nd_STAT5', 'unstim_CD4Tnaive_150Nd_STAT5', 'IL246_Th1naive_164Dy_IkB', 'DUSP4', 'TLR3', 'AOC3', 'THSD1']",7
+Fold 11,"['unstim_CD4Trm_Frequency', 'UPP1', 'PPIB']",3
+Fold 12,"['unstim_intMC_159Tb_MAPKAPK2', 'unstim_Th1naive_167Er_ERK', 'unstim_CD4Trm_Frequency', 'CRYBB2', 'FOXM1', 'WWOX', 'PSMB4', 'IFNL3']",8
+Fold 13,"['unstim_Baso_149Sm_CREB', 'unstim_Th1naive_167Er_ERK', 'unstim_CD4Tnaive_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'IL246_Tregnaive_154Sm_STAT3', 'LPS_Baso_155Gd_S6', 'BLK', 'PSMB4', 'MCAM', 'AOC3', 'NTF3', 'HERPUD2']",12
+Fold 14,"['unstim_Baso_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'unstim_gdT_Frequency', 'unstim_NK_Frequency', 'TNF_Th1_149Sm_CREB', 'PSMB4', 'UPP1', 'CCL3', 'HERPUD2']",10
+Fold 15,"['unstim_Baso_164Dy_IkB', 'unstim_DC_159Tb_MAPKAPK2', 'DUSP4', 'WWOX', 'PSMB4', 'CEBPA', 'UPP1', 'IGFBP3', 'CCL3', 'NTF3']",10
+Fold 16,"['unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'IL246_Th1naive_164Dy_IkB', 'TNF_Th1_149Sm_CREB', 'PSMB4', 'UPP1']",6
+Fold 17,"['unstim_Baso_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'LPS_Granulocytes_159Tb_MAPKAPK2', 'PSMB4', 'MCAM', 'AOC3', 'HPSE', 'IFNL3', 'HERPUD2']",9
+Fold 18,"['unstim_Baso_149Sm_CREB', 'unstim_CD8Tcm_164Dy_IkB', 'unstim_Th1naive_167Er_ERK', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_gdT_Frequency', 'unstim_NK_Frequency', 'SH2B3', 'CCL3', 'HERPUD2']",10
+Fold 19,"['unstim_Baso_155Gd_S6', 'unstim_Tregnaive_150Nd_STAT5', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'IL246_gdT_150Nd_STAT5', 'TNF_Th1_149Sm_CREB', 'UPP1', 'CNTN3', 'IL1B', 'CCL3', 'HBA1|HBB', 'IFNL3']",12
+Fold 20,"['DUSP4', 'IL12B|IL23A', 'TGFB2', 'HERPUD2']",4
+Fold 21,"['unstim_Baso_155Gd_S6', 'unstim_CD4Trm_Frequency', 'IL246_Granulocytes_154Sm_STAT3', 'TNF_Granulocytes_155Gd_S6', 'PSMB4', 'OGG1', 'AOC3', 'CCL3']",8
+Fold 22,"['unstim_Th1naive_167Er_ERK', 'unstim_CD4Tnaive_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'unstim_NK_Frequency']",4
+Fold 23,"['unstim_Baso_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'unstim_NK_Frequency', 'TNF_Th1_149Sm_CREB', 'DUSP4', 'FOXM1', 'WWOX', 'PSMB4', 'HERPUD2']",9
+Fold 24,"['DUSP4', 'KIF3A', 'UPP1', 'CNTN3', 'SH2B3']",5

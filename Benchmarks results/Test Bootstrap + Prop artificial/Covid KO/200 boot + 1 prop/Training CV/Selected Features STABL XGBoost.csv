@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['GDF15', 'TFPI2']",2
+Fold 1,"['MZB1', 'PLAUR']",2
+Fold 2,"['MZB1', 'PLAUR']",2
+Fold 3,['PLAUR'],1
+Fold 4,"['CASP1', 'MZB1', 'TFPI2']",3
+Fold 5,['CCL7'],1
+Fold 6,['MZB1'],1
+Fold 7,"['CASP1', 'MZB1', 'PLAUR']",3
+Fold 8,"['GDF15', 'MZB1', 'PLAUR']",3
+Fold 9,"['MZB1', 'PLAUR']",2
+Fold 10,"['GNLY', 'PLAUR']",2
+Fold 11,"['MZB1', 'PLAUR']",2
+Fold 12,['PLAUR'],1
+Fold 13,"['MZB1', 'PLAUR']",2
+Fold 14,['MZB1'],1
+Fold 15,"['MZB1', 'PLAUR']",2
+Fold 16,[],0
+Fold 17,"['MZB1', 'PLAUR']",2
+Fold 18,"['DLL1', 'MZB1']",2
+Fold 19,"['GPKOW', 'JUN', 'PLAUR']",3
+Fold 20,"['MZB1', 'TFPI2']",2
+Fold 21,"['CCL7', 'MZB1']",2
+Fold 22,"['IL2RA', 'JUN', 'PLAUR']",3
+Fold 23,"['GNLY', 'MZB1', 'PLAUR']",3
+Fold 24,[],0

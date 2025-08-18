@@ -1,7 +1,0 @@
-,Unstim,TNFa,LPS,IL246,IFNa,GMCSF,PI,IL33
-rf__n_estimators,800,1200,800,300,1200,500,800,500
-rf__min_samples_split,5,10,2,5,5,5,5,5
-rf__min_samples_leaf,1,4,1,2,1,4,4,4
-rf__max_features,0.2,0.6,0.6,0.6,0.2,0.6,0.6,0.6
-rf__max_depth,,20,10,,5,,10,
-rf__bootstrap,False,True,True,True,False,True,True,True

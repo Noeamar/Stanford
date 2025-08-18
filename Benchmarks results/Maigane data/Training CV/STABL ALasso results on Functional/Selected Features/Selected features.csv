@@ -1,0 +1,10 @@
+,Feature Name
+Feature n°1,CD8_T_cells_FoxP3+_glandfront_pP38
+Feature n°2,CD4_T_cells_HLA-DR+_glandfront_VEGF
+Feature n°3,NK_cells_CD56brCD16-NKG2AhiTIM3hi_stromal_HLA-DR
+Feature n°4,NK_cells_CD56dimCD16+CD9hi_stromal_NKG2C
+Feature n°5,NK_cells_CD56brCD16-CD9hi_stromal_Ki67
+Feature n°6,Neutrophils_glandfront_PR
+Feature n°7,NKT_glandfront_Ki67
+Feature n°8,Gland_fibroblast_intragland_HLA-DR
+Feature n°9,NA_glandfront_Ki67

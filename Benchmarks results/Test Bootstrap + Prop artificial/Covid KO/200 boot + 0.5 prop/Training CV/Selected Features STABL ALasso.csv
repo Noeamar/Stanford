@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['CCL20', 'CRTAC1', 'MZB1', 'PON3', 'S100A16', 'SCP2']",6
+Fold 1,"['MDGA1', 'MZB1', 'PON3', 'S100A16']",4
+Fold 2,"['CRTAC1', 'FOSB', 'HLA-DRA', 'KIR2DL3', 'LILRB1', 'MDGA1', 'PON3', 'SIGLEC9', 'TNFRSF8']",9
+Fold 3,"['CTSH', 'MDGA1']",2
+Fold 4,"['CCL20', 'CRTAC1']",2
+Fold 5,"['BAIAP2', 'CCL20', 'CRTAC1', 'CTSH', 'FBP1', 'GFRA2', 'MDGA1', 'NOMO1']",8
+Fold 6,"['CCL20', 'CHIT1', 'MZB1']",3
+Fold 7,"['CCL20', 'CRTAC1', 'MDGA1', 'TMPRSS5']",4
+Fold 8,"['CPA2', 'CRTAC1', 'CTSH', 'MDGA1', 'TNFRSF8']",5
+Fold 9,"['CCL20', 'PON3']",2
+Fold 10,"['CCL20', 'CLSPN', 'CRTAC1', 'CTSF', 'CTSH', 'CTSV', 'FOSB', 'GNLY', 'GPA33', 'IL17C', 'IL5RA', 'KIR2DL3', 'MDGA1', 'MZB1', 'NDRG1', 'PON3', 'SIGLEC9', 'SSB', 'TNFRSF8', 'XPNPEP2']",20
+Fold 11,[],0
+Fold 12,"['BAIAP2', 'C19orf12', 'CHIT1', 'CRTAC1', 'CXCL8', 'DPT', 'DSG4', 'GPA33', 'HPGDS', 'IL16', 'KIR2DL3', 'KLK12', 'LILRA5', 'LY9', 'MARCO', 'MDGA1', 'MZB1', 'PON3', 'RANGAP1', 'REN', 'SDC1', 'SPINT1', 'SRP14', 'TNC', 'VWF']",25
+Fold 13,"['CCL20', 'HLA-DRA']",2
+Fold 14,"['CCL20', 'CTSH', 'MDGA1', 'NINJ1']",4
+Fold 15,"['AMY2A', 'ANGPTL2', 'CCL20', 'CPA2', 'CRTAC1', 'FCAR', 'FOSB', 'HLA-DRA', 'IGF2R', 'KIR2DL3', 'MDGA1', 'PON3', 'TNFRSF8']",13
+Fold 16,"['ADGRG1', 'AOC1', 'CCL20', 'CDHR1', 'CES2', 'CHIT1', 'CXCL8', 'FABP4', 'FGF21', 'FOSB', 'HLA-DRA', 'IL22RA1', 'LGALS1', 'LILRA5', 'LTA', 'MDGA1', 'MSLN', 'MUC13', 'MZB1', 'NPTN', 'PON3', 'PRSS8', 'S100A16', 'TFPI2', 'TMPRSS5', 'TP53INP1']",26
+Fold 17,"['CCL20', 'CPA2', 'DSG4', 'MDGA1', 'MZB1', 'SDC1']",6
+Fold 18,"['CCL15', 'CRTAC1', 'FBP1', 'MDGA1', 'MZB1', 'TMPRSS5']",6
+Fold 19,"['CCL20', 'CRTAC1', 'MDGA1', 'MZB1', 'NDRG1', 'S100A16']",6
+Fold 20,['CRTAC1'],1
+Fold 21,"['CCL20', 'MDGA1']",2
+Fold 22,"['CCL20', 'JUN', 'MZB1', 'TNFRSF8']",4
+Fold 23,"['ADGRG2', 'AOC1', 'BAIAP2', 'CCL20', 'CES2', 'CHIT1', 'CPA2', 'CRTAC1', 'CXCL8', 'DSG4', 'FBP1', 'FOSB', 'GPA33', 'HDGF', 'JUN', 'KIR2DL3', 'LYPD1', 'MDGA1', 'PDGFC', 'PON3', 'SCP2', 'SIGLEC9', 'SSB', 'TDGF1', 'TMPRSS5', 'TNFRSF8', 'XPNPEP2']",27
+Fold 24,"['CES2', 'CPA2', 'CTSH', 'DSG4', 'IGF2R', 'MDGA1', 'TNC']",7
