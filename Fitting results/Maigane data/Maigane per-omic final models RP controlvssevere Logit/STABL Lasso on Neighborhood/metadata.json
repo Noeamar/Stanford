@@ -1,0 +1,7 @@
+{
+  "omic": "Neighborhood",
+  "model_label": "STABL Lasso",
+  "model_choice": "logit",
+  "n_features": 5,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere Logit/STABL Lasso on Neighborhood/used_features.txt"
+}

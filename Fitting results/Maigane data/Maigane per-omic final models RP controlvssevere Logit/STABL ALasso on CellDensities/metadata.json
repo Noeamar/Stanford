@@ -1,0 +1,7 @@
+{
+  "omic": "CellDensities",
+  "model_label": "STABL ALasso",
+  "model_choice": "logit",
+  "n_features": 2,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere Logit/STABL ALasso on CellDensities/used_features.txt"
+}

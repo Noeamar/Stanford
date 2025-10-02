@@ -1,0 +1,7 @@
+{
+  "omic": "Functional",
+  "model_label": "STABL Lasso",
+  "model_choice": "xgboost",
+  "n_features": 1,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere XGB/STABL Lasso on Functional/used_features.txt"
+}

@@ -1,0 +1,5 @@
+,ROC AUC,Average Precision
+STABL Lasso,"0.745 [0.695, 0.790]","0.929 [0.907, 0.948]"
+STABL ALasso,"0.768 [0.715, 0.818]","0.930 [0.902, 0.953]"
+Union STABL Lasso & STABL ALasso,"0.781 [0.733, 0.824]","0.937 [0.914, 0.958]"
+Intersect STABL Lasso & STABL ALasso,"0.737 [0.687, 0.788]","0.920 [0.894, 0.944]"

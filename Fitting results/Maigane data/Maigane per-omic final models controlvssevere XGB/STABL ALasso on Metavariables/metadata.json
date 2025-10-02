@@ -1,0 +1,7 @@
+{
+  "omic": "Metavariables",
+  "model_label": "STABL ALasso",
+  "model_choice": "dummy_prior",
+  "n_features": 0,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere XGB/STABL ALasso on Metavariables/used_features.txt"
+}

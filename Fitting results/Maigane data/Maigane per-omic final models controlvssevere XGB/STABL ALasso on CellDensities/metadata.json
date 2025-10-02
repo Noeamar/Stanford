@@ -1,0 +1,7 @@
+{
+  "omic": "CellDensities",
+  "model_label": "STABL ALasso",
+  "model_choice": "xgboost",
+  "n_features": 2,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere XGB/STABL ALasso on CellDensities/used_features.txt"
+}

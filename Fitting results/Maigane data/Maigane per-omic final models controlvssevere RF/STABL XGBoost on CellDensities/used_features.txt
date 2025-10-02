@@ -1,0 +1,2 @@
+CD4_T_cells_CD11b+_stromal_cellfrequency
+Gland_glandular_epithelium_intragland_cellfrequency

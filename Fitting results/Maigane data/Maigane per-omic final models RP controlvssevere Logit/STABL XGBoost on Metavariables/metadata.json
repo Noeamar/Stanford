@@ -1,0 +1,7 @@
+{
+  "omic": "Metavariables",
+  "model_label": "STABL XGBoost",
+  "model_choice": "logit",
+  "n_features": 30,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models controlvssevere Logit/STABL XGBoost on Metavariables/used_features.txt"
+}

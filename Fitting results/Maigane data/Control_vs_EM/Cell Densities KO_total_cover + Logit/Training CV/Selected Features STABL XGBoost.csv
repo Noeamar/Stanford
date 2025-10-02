@@ -1,0 +1,101 @@
+,Fold selected features,Fold #features
+Fold_0,"['Gland_glandular_epithelium_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_1,[],0
+Fold_2,['Macrophages_M1-like_glandfront_cellfrequency'],1
+Fold_3,['CD4_T_cells_CD11b+_glandfront_cellfrequency'],1
+Fold_4,['B_cells_stromal_cellfrequency'],1
+Fold_5,[],0
+Fold_6,[],0
+Fold_7,[],0
+Fold_8,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency']",7
+Fold_9,[],0
+Fold_10,"['aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_11,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_FoxP3+_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Dendritic_Cells_CD33+_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",7
+Fold_12,[],0
+Fold_13,"['CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_14,[],0
+Fold_15,[],0
+Fold_16,['B_cells_stromal_cellfrequency'],1
+Fold_17,"['CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_fibroblast_stromal_cellfrequency']",3
+Fold_18,"['CD8_T_cells_CD80_CD86+_glandfront_cellfrequency', 'CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'Macrophages_M1-like_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_mesenchymal_intragland_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency', 'NA_intragland_cellfrequency']",7
+Fold_19,['B_cells_stromal_cellfrequency'],1
+Fold_20,['Gland_fibroblast_stromal_cellfrequency'],1
+Fold_21,[],0
+Fold_22,[],0
+Fold_23,"['aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_24,[],0
+Fold_25,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency']",6
+Fold_26,"['CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_27,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Dendritic_Cells_CD33+_stromal_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'aSMA-br_fibroblast_intragland_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",11
+Fold_28,[],0
+Fold_29,"['CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency']",3
+Fold_30,"['CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'Macrophages_M1-like_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency']",3
+Fold_31,['B_cells_stromal_cellfrequency'],1
+Fold_32,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Stroma_vascular_endothelium_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'NA_intragland_cellfrequency']",7
+Fold_33,[],0
+Fold_34,[],0
+Fold_35,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'NK_cells_CD56dimCD16+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_36,['CD4_T_cells_CD11b+_glandfront_cellfrequency'],1
+Fold_37,"['NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency']",2
+Fold_38,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",7
+Fold_39,[],0
+Fold_40,[],0
+Fold_41,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_42,"['B_cells_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency']",2
+Fold_43,"['B_cells_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency']",4
+Fold_44,[],0
+Fold_45,[],0
+Fold_46,[],0
+Fold_47,"['B_cells_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_48,"['B_cells_stromal_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_49,"['CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'NK_cells_CD56brCD16-_stromal_cellfrequency', 'Macrophages_M1-like_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Macrophages_M1_M2_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",6
+Fold_50,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Stroma_vascular_endothelium_stromal_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency', 'NK_cells_CD56brCD16-_stromal_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_fibroblast_stromal_cellfrequency', 'Gland_vascular_endothelium_stromal_cellfrequency']",11
+Fold_51,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_52,"['CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Stroma_fibroblast_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'NA_stromal_cellfrequency']",6
+Fold_53,"['B_cells_stromal_cellfrequency', 'NK_cells_CD56brCD16-_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_fibroblast_stromal_cellfrequency']",5
+Fold_54,[],0
+Fold_55,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency']",4
+Fold_56,"['CD4_T_cells_CD11b+_stromal_cellfrequency', 'Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_57,"['Macrophages_M1_M2_stromal_cellfrequency', 'Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency']",3
+Fold_58,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_FoxP3+_stromal_cellfrequency']",2
+Fold_59,[],0
+Fold_60,[],0
+Fold_61,[],0
+Fold_62,"['CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_63,[],0
+Fold_64,[],0
+Fold_65,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_FoxP3+_stromal_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'aSMA-br_fibroblast_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_66,[],0
+Fold_67,['CD4_T_cells_CD11b+_glandfront_cellfrequency'],1
+Fold_68,[],0
+Fold_69,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Neutrophils_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_70,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'aSMA-br_fibroblast_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",8
+Fold_71,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_72,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_73,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_74,['aSMA-br_vascular_endothelium_stromal_cellfrequency'],1
+Fold_75,[],0
+Fold_76,[],0
+Fold_77,[],0
+Fold_78,[],0
+Fold_79,[],0
+Fold_80,"['B_cells_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",6
+Fold_81,"['B_cells_stromal_cellfrequency', 'NK_cells_CD56dimCD16+_stromal_cellfrequency', 'Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency']",3
+Fold_82,['aSMA-br_vascular_endothelium_stromal_cellfrequency'],1
+Fold_83,[],0
+Fold_84,"['B_cells_stromal_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency']",4
+Fold_85,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency']",2
+Fold_86,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Stroma_fibroblast_stromal_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Neutrophils_glandfront_cellfrequency', 'NKT_intragland_cellfrequency', 'aSMA-br_fibroblast_glandfront_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_mesenchymal_intragland_cellfrequency', 'Gland_fibroblast_intragland_cellfrequency']",14
+Fold_87,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_88,[],0
+Fold_89,"['CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_90,[],0
+Fold_91,"['B_cells_stromal_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'aSMA-br_vascular_endothelium_stromal_cellfrequency']",3
+Fold_92,[],0
+Fold_93,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_94,"['B_cells_stromal_cellfrequency', 'NK_cells_CD56brCD16-_stromal_cellfrequency', 'Gland_fibroblast_stromal_cellfrequency']",3
+Fold_95,"['B_cells_stromal_cellfrequency', 'CD4_T_cells_CD11b+_glandfront_cellfrequency']",2
+Fold_96,[],0
+Fold_97,"['B_cells_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_98,[],0
+Fold_99,['Dendritic_Cells_CD86CD33dp_glandfront_cellfrequency'],1

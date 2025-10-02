@@ -1,0 +1,26 @@
+,Fold selected features,Fold #features
+Fold_0,"['Gland_glandular_epithelium_intragland_cellfrequency', 'Macrophages_M1_M2_stromal_GranzymeB']",2
+Fold_1,[],0
+Fold_2,[],0
+Fold_3,['NKT_glandfront_area'],1
+Fold_4,"['Gland_glandular_epithelium_intragland_cellfrequency', 'NKT_glandfront_area']",2
+Fold_5,"['NA_glandfront_Ki67', 'Macrophages_M1_M2_stromal_GranzymeB']",2
+Fold_6,"['NKT_glandfront_Ki67', 'Stroma_fibroblast_glandfront_Ki67', 'NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast']",4
+Fold_7,"['NKT_glandfront_area', 'NA_glandfront_Ki67', 'Macrophages_M1_M2_stromal_area']",3
+Fold_8,"['CD4_T_cells_CD11b+_stromal_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'NA_glandfront_Ki67', 'Macrophages_M1_M2_stromal_GranzymeB']",4
+Fold_9,"['NA_glandfront_Ki67', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast']",2
+Fold_10,"['Macrophages_M1-like_glandfront_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.fibroblast']",3
+Fold_11,[],0
+Fold_12,['aSMA-br_mesenchymal_stromal_area'],1
+Fold_13,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'CD8_T_cells_HLA-DR+_stromal_area', 'NKT_glandfront_area', 'Macrophages_M1_M2_stromal_area']",4
+Fold_14,"['Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium', 'Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium', 'NKT_glandfront_area', 'Stroma_vascular_endothelium_stromal_area', 'Macrophages_M1_M2_stromal_HLA-DR', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast']",8
+Fold_15,"['NKT_glandfront_Ki67', 'Macrophages_M1-like_stromal_area', 'CD8_T_cells_CD80_CD86+_stromal_area']",3
+Fold_16,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",2
+Fold_17,[],0
+Fold_18,[],0
+Fold_19,"['Gland_glandular_epithelium_intragland_cellfrequency', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",3
+Fold_20,[],0
+Fold_21,"['Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast']",3
+Fold_22,[],0
+Fold_23,"['Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium', 'NK_cells_CD56dimCD16+CD9hi_stromal_area', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Macrophages_M1-like_glandfront_area', 'NKT_glandfront_area', 'NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'aSMA-br_mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Macrophages_MDSC_stromal_aggregatedNeighbors.Macrophages.MDSC', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'NK_cells_CD56brCD16-CD9hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi']",13
+Fold_24,"['aSMA-br_mesenchymal_stromal_area', 'NK_cells_CD56dimCD16+CD9hi_stromal_area']",2

@@ -1,0 +1,5 @@
+file,folds,mean,median,std,min,max,25%,75%,unique_feats
+Selected Features Intersect STABL Lasso & STABL ALasso.csv,25,2.2,2.0,1.04,1,4,1.0,3.0,18
+Selected Features STABL ALasso.csv,25,3.28,3.0,1.1,1,5,3.0,4.0,26
+Selected Features STABL Lasso.csv,25,3.32,3.0,0.9,2,5,3.0,4.0,22
+Selected Features Union STABL Lasso & STABL ALasso.csv,25,4.4,4.0,1.19,2,6,4.0,5.0,30

@@ -1,0 +1,17 @@
+file,folds,mean,median,std,min,max,25%,75%,unique_feats
+Selected Features Intersect STABL ALasso & STABL ElasticNet.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features Intersect STABL Lasso & STABL ALasso.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features Intersect STABL Lasso & STABL ElasticNet.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features Intersect STABL Lasso & STABL XGBoost.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features Intersect STABL XGBoost & STABL ALasso.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features Intersect STABL XGBoost & STABL ElasticNet.csv,100,2819.0,2819.0,0.0,2819,2819,2819.0,2819.0,2819
+Selected Features STABL ALasso.csv,100,19.57,18.0,9.83,5,55,13.0,22.25,186
+Selected Features STABL ElasticNet.csv,100,68.11,48.0,52.62,15,282,34.75,84.5,499
+Selected Features STABL Lasso.csv,100,19.28,17.0,9.82,5,53,13.0,23.25,176
+Selected Features STABL XGBoost.csv,100,7.97,8.0,1.61,4,12,7.0,9.0,25
+Selected Features Union STABL ALasso & STABL ElasticNet.csv,100,73.5,56.0,51.81,19,285,39.75,89.0,517
+Selected Features Union STABL Lasso & STABL ALasso.csv,100,21.41,19.0,10.73,5,56,15.0,26.0,196
+Selected Features Union STABL Lasso & STABL ElasticNet.csv,100,73.06,57.0,51.88,19,284,38.75,89.0,516
+Selected Features Union STABL Lasso & STABL XGBoost.csv,100,23.35,21.0,9.66,9,58,16.0,28.0,186
+Selected Features Union STABL XGBoost & STABL ALasso.csv,100,23.77,21.0,9.66,9,60,17.0,27.0,197
+Selected Features Union STABL XGBoost & STABL ElasticNet.csv,100,69.73,48.5,52.36,16,283,35.5,86.25,501

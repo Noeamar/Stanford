@@ -1,0 +1,101 @@
+,Fold selected features,Fold #features
+Fold_0,"['Macrophages_M1_M2_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_1,"['NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_2,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NA_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'NK_cells_CD56dimCD16+_glandfront_cellfrequency']",4
+Fold_3,[],0
+Fold_4,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_5,['CD4_T_cells_FoxP3+_stromal_cellfrequency'],1
+Fold_6,[],0
+Fold_7,"['Macrophages_M1-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_8,[],0
+Fold_9,[],0
+Fold_10,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M1-like_glandfront_cellfrequency']",2
+Fold_11,[],0
+Fold_12,['Macrophages_M2-like_glandfront_cellfrequency'],1
+Fold_13,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_mesenchymal_stromal_cellfrequency']",2
+Fold_14,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_15,[],0
+Fold_16,[],0
+Fold_17,[],0
+Fold_18,['aSMA-br_epithelial_stem_intragland_cellfrequency'],1
+Fold_19,"['Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_20,[],0
+Fold_21,['NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency'],1
+Fold_22,"['Macrophages_M1-like_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_vascular_endothelium_intragland_cellfrequency']",3
+Fold_23,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NA_intragland_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_24,[],0
+Fold_25,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_26,['CD4_T_cells_FoxP3+_stromal_cellfrequency'],1
+Fold_27,"['Macrophages_M1-like_glandfront_cellfrequency', 'NA_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_mesenchymal_stromal_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency']",5
+Fold_28,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_29,"['Dendritic_Cells_CD33+_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_30,"['aSMA-br_fibroblast_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_31,[],0
+Fold_32,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_33,"['Macrophages_M2-like_glandfront_cellfrequency', 'NK_cells_CD56dimCD16+_glandfront_cellfrequency', 'Macrophages_M1_M2_intragland_cellfrequency']",3
+Fold_34,[],0
+Fold_35,[],0
+Fold_36,"['Dendritic_Cells_CD33+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_37,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_38,"['Macrophages_M1_M2_intragland_cellfrequency', 'B_cells_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_39,['Macrophages_M2-like_glandfront_cellfrequency'],1
+Fold_40,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_41,"['Gland_mesenchymal_intragland_cellfrequency', 'Macrophages_M1-like_glandfront_cellfrequency', 'NK_cells_CD56dimCD16+_glandfront_cellfrequency']",3
+Fold_42,[],0
+Fold_43,['Macrophages_M2-like_glandfront_cellfrequency'],1
+Fold_44,[],0
+Fold_45,"['B_cells_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_mesenchymal_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'NK_cells_CD56brCD16-_glandfront_cellfrequency']",5
+Fold_46,[],0
+Fold_47,"['Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_48,[],0
+Fold_49,[],0
+Fold_50,[],0
+Fold_51,"['Macrophages_M1-like_glandfront_cellfrequency', 'Macrophages_M1_M2_intragland_cellfrequency', 'Macrophages_M1-like_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_52,['CD4_T_cells_FoxP3+_stromal_cellfrequency'],1
+Fold_53,[],0
+Fold_54,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_mesenchymal_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_55,"['Gland_vascular_endothelium_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_56,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_57,['Macrophages_M1-like_glandfront_cellfrequency'],1
+Fold_58,"['Macrophages_M2-like_glandfront_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_59,['aSMA-br_vascular_endothelium_stromal_cellfrequency'],1
+Fold_60,"['NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'NA_glandfront_cellfrequency']",4
+Fold_61,"['aSMA-br_fibroblast_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_62,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_63,"['NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_64,[],0
+Fold_65,[],0
+Fold_66,"['NA_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_glandular_epithelium_stromal_cellfrequency', 'NK_cells_CD56dimCD16+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_67,"['Macrophages_M1-like_glandfront_cellfrequency', 'NA_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",5
+Fold_68,['Dendritic_Cells_CD33+_stromal_cellfrequency'],1
+Fold_69,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NK_cells_CD56brCD16-CD9hi_stromal_cellfrequency']",2
+Fold_70,[],0
+Fold_71,[],0
+Fold_72,[],0
+Fold_73,"['Dendritic_Cells_CD33+_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Macrophages_M1-like_glandfront_cellfrequency']",4
+Fold_74,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'NA_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",4
+Fold_75,"['Macrophages_M2-like_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",3
+Fold_76,"['Gland_mesenchymal_glandfront_cellfrequency', 'Gland_mesenchymal_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'NA_intragland_cellfrequency']",4
+Fold_77,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_78,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Stroma_fibroblast_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency', 'Gland_vascular_endothelium_intragland_cellfrequency']",4
+Fold_79,"['Macrophages_M1_M2_intragland_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_80,[],0
+Fold_81,[],0
+Fold_82,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_83,[],0
+Fold_84,"['CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",2
+Fold_85,[],0
+Fold_86,"['aSMA-br_epithelial_stem_intragland_cellfrequency', 'NA_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_stromal_cellfrequency', 'Gland_mesenchymal_glandfront_cellfrequency', 'aSMA-br_glandular_epithelium_intragland_cellfrequency']",5
+Fold_87,"['Macrophages_M2-like_glandfront_cellfrequency', 'CD4_T_cells_CD11b+_stromal_cellfrequency']",2
+Fold_88,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_89,[],0
+Fold_90,"['NA_intragland_cellfrequency', 'CD8_T_cells_FoxP3+_glandfront_cellfrequency', 'CD4_T_cells_CD80_CD86+_stromal_cellfrequency', 'Macrophages_M1_M2_intragland_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Gland_glandular_epithelium_intragland_cellfrequency']",6
+Fold_91,[],0
+Fold_92,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_93,['aSMA-br_fibroblast_stromal_cellfrequency'],1
+Fold_94,['Gland_glandular_epithelium_intragland_cellfrequency'],1
+Fold_95,[],0
+Fold_96,[],0
+Fold_97,[],0
+Fold_98,[],0
+Fold_99,[],0

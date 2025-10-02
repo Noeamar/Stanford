@@ -1,0 +1,2 @@
+,ROC AUC,Average Precision
+STABL XGBoost,"0.740 [0.684, 0.790]","0.909 [0.879, 0.939]"

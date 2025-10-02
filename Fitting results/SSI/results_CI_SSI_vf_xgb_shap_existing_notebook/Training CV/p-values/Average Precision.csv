@@ -1,0 +1,9 @@
+,STABL Lasso,STABL ElasticNet,STABL ALasso,STABL XGBoost,STABL Lasso (existing-fit),STABL ElasticNet (existing-fit),STABL ALasso (existing-fit),STABL XGBoost (existing-fit)
+STABL Lasso,1.0,0.098,0.0,0.011,0.238,0.013,0.0,0.01
+STABL ElasticNet,0.091,1.0,0.0,0.003,0.078,0.206,0.0,0.004
+STABL ALasso,0.0,0.0,1.0,0.0,0.0,0.002,1.0,0.0
+STABL XGBoost,0.018,0.007,0.0,1.0,0.017,0.0,0.0,0.301
+STABL Lasso (existing-fit),0.229,0.093,0.0,0.024,1.0,0.013,0.0,0.009
+STABL ElasticNet (existing-fit),0.017,0.186,0.0,0.0,0.005,1.0,0.002,0.0
+STABL ALasso (existing-fit),0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+STABL XGBoost (existing-fit),0.012,0.001,0.0,0.308,0.011,0.0,0.0,1.0

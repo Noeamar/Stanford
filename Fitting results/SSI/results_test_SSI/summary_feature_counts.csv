@@ -1,0 +1,5 @@
+file,folds,mean,median,std,min,max,25%,75%,unique_feats
+Selected Features Intersect STABL XGBoost & STABL ALasso.csv,25,1846.0,1846.0,0.0,1846,1846,1846.0,1846.0,1846
+Selected Features STABL ALasso.csv,25,26.56,27.0,11.69,8,50,16.0,38.0,148
+Selected Features STABL XGBoost.csv,25,14.36,13.0,6.99,2,32,10.0,18.0,95
+Selected Features Union STABL XGBoost & STABL ALasso.csv,25,36.52,36.0,11.37,20,59,28.0,46.0,198

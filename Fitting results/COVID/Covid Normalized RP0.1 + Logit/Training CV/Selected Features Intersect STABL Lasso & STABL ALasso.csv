@@ -1,0 +1,26 @@
+,Fold selected features,Fold #features
+Fold_0,['CCL20'],1
+Fold_1,"['MZB1', 'JUN', 'PON3']",3
+Fold_2,['MZB1'],1
+Fold_3,['CTSH'],1
+Fold_4,"['CRTAC1', 'MZB1', 'TFPI2', 'CCL20']",4
+Fold_5,['MZB1'],1
+Fold_6,"['MUC13', 'MZB1', 'CXCL13', 'CCL20']",4
+Fold_7,"['CRTAC1', 'MZB1', 'CCL20']",3
+Fold_8,['MZB1'],1
+Fold_9,"['LILRB1', 'MZB1', 'PON3']",3
+Fold_10,"['FOSB', 'GNLY']",2
+Fold_11,"['CRTAC1', 'MZB1']",2
+Fold_12,['PON3'],1
+Fold_13,"['CRTAC1', 'MZB1', 'HLA-DRA']",3
+Fold_14,"['MZB1', 'CCL20']",2
+Fold_15,"['CRTAC1', 'PON3']",2
+Fold_16,['LGALS1'],1
+Fold_17,"['MZB1', 'DSG4']",2
+Fold_18,['MZB1'],1
+Fold_19,"['MZB1', 'JUN']",2
+Fold_20,"['CRTAC1', 'MZB1', 'CCL20']",3
+Fold_21,"['CRTAC1', 'LGALS1', 'CCL20']",3
+Fold_22,"['MZB1', 'TNFRSF8']",2
+Fold_23,"['MZB1', 'MDGA1', 'PON3']",3
+Fold_24,"['DSG4', 'TNC', 'MDGA1', 'CTSH']",4

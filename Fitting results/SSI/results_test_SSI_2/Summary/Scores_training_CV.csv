@@ -1,0 +1,5 @@
+,ROC AUC,Average Precision
+STABL XGBoost,"0.610 [0.450, 0.762]","0.314 [0.163, 0.533]"
+STABL ALasso,"0.662 [0.521, 0.777]","0.249 [0.143, 0.451]"
+Union STABL XGBoost & STABL ALasso,"0.610 [0.479, 0.737]","0.215 [0.135, 0.378]"
+Intersect STABL XGBoost & STABL ALasso,"0.568 [0.417, 0.722]","0.224 [0.122, 0.424]"

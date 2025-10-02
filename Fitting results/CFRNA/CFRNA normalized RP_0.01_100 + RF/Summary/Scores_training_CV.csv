@@ -1,0 +1,10 @@
+,ROC AUC,Average Precision
+STABL Lasso,"0.831 [0.762, 0.891]","0.891 [0.831, 0.936]"
+STABL ALasso,"0.793 [0.719, 0.858]","0.871 [0.812, 0.921]"
+STABL ElasticNet,"0.832 [0.767, 0.891]","0.893 [0.831, 0.942]"
+Union STABL Lasso & STABL ALasso,"0.831 [0.762, 0.890]","0.895 [0.845, 0.937]"
+Intersect STABL Lasso & STABL ALasso,"0.762 [0.688, 0.833]","0.845 [0.770, 0.906]"
+Union STABL Lasso & STABL ElasticNet,"0.832 [0.765, 0.891]","0.894 [0.839, 0.940]"
+Intersect STABL Lasso & STABL ElasticNet,"0.834 [0.770, 0.895]","0.899 [0.847, 0.944]"
+Union STABL ALasso & STABL ElasticNet,"0.831 [0.769, 0.892]","0.890 [0.827, 0.941]"
+Intersect STABL ALasso & STABL ElasticNet,"0.763 [0.687, 0.837]","0.853 [0.789, 0.909]"

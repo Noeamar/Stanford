@@ -1,0 +1,4 @@
+CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast
+Stroma_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+aSMA-br_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium

@@ -1,0 +1,10 @@
+,ROC AUC,Average Precision
+STABL Lasso,"0.652 [0.581, 0.731]","0.680 [0.593, 0.761]"
+STABL XGBoost,"0.568 [0.494, 0.640]","0.540 [0.460, 0.640]"
+STABL ALasso,"0.643 [0.569, 0.711]","0.644 [0.550, 0.743]"
+Union STABL Lasso & STABL XGBoost,"0.652 [0.580, 0.724]","0.690 [0.605, 0.766]"
+Intersect STABL Lasso & STABL XGBoost,"0.509 [0.447, 0.578]","0.511 [0.445, 0.598]"
+Union STABL Lasso & STABL ALasso,"0.657 [0.584, 0.727]","0.661 [0.568, 0.762]"
+Intersect STABL Lasso & STABL ALasso,"0.636 [0.564, 0.705]","0.653 [0.563, 0.739]"
+Union STABL XGBoost & STABL ALasso,"0.649 [0.576, 0.723]","0.659 [0.564, 0.758]"
+Intersect STABL XGBoost & STABL ALasso,"0.502 [0.442, 0.561]","0.505 [0.435, 0.583]"

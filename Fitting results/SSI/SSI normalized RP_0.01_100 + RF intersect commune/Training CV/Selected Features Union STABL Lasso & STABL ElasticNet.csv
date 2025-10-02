@@ -1,0 +1,101 @@
+,Fold selected features,Fold #features
+Fold_0,"['PRO_IL1B', 'PRO_RAP2A', 'PRO_ALK', 'PRO_LDLR', 'PRO_HSPH1']",5
+Fold_1,"['PRO_CD36', 'PRO_B3GNT2', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_KIF3A', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_BLK', 'PRO_FCGR1A', 'PRO_LDLR', 'PRO_CCL3']",13
+Fold_2,['unstim_CD4Trm_Frequency'],1
+Fold_3,"['PRO_EHMT2', 'PRO_CD36', 'PRO_SERPINA1', 'PRO_B3GNT2', 'TNF_Th1_149Sm_CREB', 'PRO_HRAS', 'PRO_CNTN3', 'PRO_IRF6', 'PRO_HSPH1', 'PRO_OGG1', 'PRO_PSMB9', 'PRO_NTRK1', 'PRO_STAC', 'PRO_WWOX', 'PRO_IFNL3', 'PRO_ALDOB', 'PRO_ITGAV|ITGB3', 'PRO_CD55', 'PRO_KITLG', 'PRO_FCGR1A', 'PRO_CREBBP', 'PRO_BIRC3', 'PRO_CCL3', 'PRO_CTNNA3', 'PRO_OASL', 'PRO_SAMHD1', 'PRO_PSMB4', 'PRO_PROS1', 'PRO_IL31', 'PRO_PPIB', 'PRO_C1R', 'PRO_KIF3A', 'PRO_OTC', 'PRO_XRCC4', 'PRO_CTCF', 'PRO_IGHM', 'PRO_IL1B', 'PRO_HYOU1', 'PRO_RAP2A', 'PRO_FTCD', 'PRO_ASAH1', 'PRO_TXNDC5']",42
+Fold_4,"['unstim_CD4Tnaive_Frequency', 'PRO_FCRL3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_IRF6', 'PRO_CCL3']",7
+Fold_5,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_CTNNA3', 'unstim_Th1naive_149Sm_CREB', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_HSPH1', 'LPS_Granulocytes_159Tb_MAPKAPK2']",10
+Fold_6,"['TNF_Th1_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_CCL3']",8
+Fold_7,"['PRO_CD36', 'PRO_CD4', 'PRO_CSF2RA', 'PRO_IL1R1', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_ALK', 'PRO_IRF6', 'PRO_ALDH3A1', 'PRO_HERPUD2', 'PRO_NTRK1', 'PRO_WWOX', 'PRO_TLR5', 'PRO_ALDOB', 'PRO_IL18', 'PRO_ITGAV|ITGB3', 'PRO_PDE4D', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_CCL3', 'PRO_CTNNA3', 'PRO_CSF2', 'PRO_PSMB4', 'PRO_TNFAIP3', 'PRO_IL31', 'PRO_ARL11', 'PRO_MCAM', 'PRO_OTC', 'PRO_CBS', 'PRO_TLR4', 'PRO_IGHM', 'PRO_IL1B', 'PRO_BLK', 'PRO_FTCD', 'PRO_ASAH1', 'PRO_IL12A|EBI3']",36
+Fold_8,"['PRO_WWOX', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_HRAS', 'unstim_CD4Trm_Frequency', 'PRO_PPIB', 'PRO_ALK', 'PRO_ASAH1', 'PRO_PSMB9', 'PRO_CCL3', 'PRO_NTRK1']",11
+Fold_9,"['PRO_GTF2I', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",5
+Fold_10,"['PRO_RFXAP', 'PRO_CD36', 'PRO_B3GNT2', 'PRO_IL1R1', 'PRO_THSD1', 'PRO_HRAS', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_LIFR', 'PRO_IRF6', 'PRO_PSMB9', 'PRO_IFNL3', 'PRO_TOPBP1', 'PRO_WWOX', 'TNF_ncMC_167Er_ERK', 'PRO_ITGAV|ITGB3', 'PRO_ACP5', 'PRO_CCL3', 'PRO_PSMB4', 'PRO_IL17RA', 'PRO_GTF2I', 'PRO_TLR3', 'PRO_PPIB', 'PRO_ARL11', 'unstim_Tregnaive_Frequency', 'PRO_MTHFD2', 'PRO_IGHM', 'PRO_IL1B', 'PRO_RAP2A', 'PRO_ASAH1']",30
+Fold_11,"['unstim_Tregnaive_Frequency', 'PRO_IL18', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",5
+Fold_12,"['TNF_Th1_149Sm_CREB', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_CCL3']",8
+Fold_13,"['PRO_WWOX', 'PRO_IRF6', 'PRO_IL1B', 'PRO_BLK', 'PRO_ALK', 'PRO_ASAH1']",6
+Fold_14,"['unstim_Th1naive_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'unstim_NK_Frequency', 'PRO_CCL3']",10
+Fold_15,"['PRO_WWOX', 'PRO_IL1B', 'PRO_IL20', 'unstim_CD4Trm_Frequency', 'unstim_pDC_Frequency', 'PRO_ALK', 'PRO_BIRC3', 'PRO_CCL3']",8
+Fold_16,"['unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",6
+Fold_17,"['TNF_Th1_149Sm_CREB', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_HSPH1']",7
+Fold_18,['unstim_CD4Trm_Frequency'],1
+Fold_19,"['PRO_CD36', 'PRO_PSMB4', 'PRO_IL1R1', 'PRO_ADAMTS13', 'PRO_TNFAIP3', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_PPIB', 'PRO_LGALS1', 'PRO_ALK', 'PRO_MGA', 'PRO_PSMB9', 'PRO_NTRK1', 'PRO_IFNL3', 'PRO_TLR5', 'PRO_MTHFD2', 'PRO_ATF6', 'PRO_IGHM', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_BLK', 'PRO_FTCD', 'PRO_LDLR', 'PRO_CCL3']",24
+Fold_20,"['PRO_RFXAP', 'PRO_HRAS', 'PRO_PPIB', 'PRO_ALK', 'PRO_IRF6', 'PRO_NTRK1', 'PRO_WWOX', 'PRO_ALDOB', 'PRO_IGHM', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_CELF2']",13
+Fold_21,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_IRF6', 'PRO_CCL3']",5
+Fold_22,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'unstim_CD4Tnaive_Frequency']",4
+Fold_23,"['TNF_Th1_149Sm_CREB', 'PRO_GTF2I', 'unstim_CD4Trm_Frequency', 'PRO_IL31', 'PRO_ALK', 'PRO_HSPH1', 'PRO_PSMB9', 'PRO_WWOX', 'PRO_TOPBP1', 'PRO_TLR5', 'PRO_SIGLEC1', 'PRO_TLR4', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_BLK', 'PRO_RAP2A', 'PRO_LDLR', 'PRO_CCL3']",18
+Fold_24,"['unstim_Tregnaive_Frequency', 'unstim_CD8Tcm_Frequency', 'unstim_CD4Tnaive_Frequency', 'PRO_FCRL3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_CCL3']",9
+Fold_25,"['PRO_WWOX', 'PRO_ALK']",2
+Fold_26,"['PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ASAH1', 'PRO_HSPH1', 'PRO_CCL3']",6
+Fold_27,"['unstim_Tregnaive_Frequency', 'unstim_Th1naive_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Tcm_Frequency', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'unstim_pDC_Frequency', 'PRO_ALK']",9
+Fold_28,"['PRO_WWOX', 'PRO_TOPBP1', 'PRO_ASAH1', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_CCL3']",9
+Fold_29,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_MTHFD2', 'unstim_CD4Tnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_RAP2A', 'PRO_ALK', 'PRO_ASAH1', 'PRO_HSPH1']",10
+Fold_30,"['PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_RAP2A', 'PRO_ALK', 'PRO_LDLR', 'PRO_MGA', 'PRO_CCL3']",8
+Fold_31,"['unstim_Tregnaive_Frequency', 'PRO_IRF6', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_ALK', 'PRO_ASAH1']",7
+Fold_32,"['PRO_IL1B', 'PRO_ALK']",2
+Fold_33,"['PRO_CTNNA3', 'TNF_Th1_149Sm_CREB', 'PRO_TNFAIP3', 'PRO_HRAS', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_RPS6KA1', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_OTC', 'PRO_ALDOB', 'PRO_IGHM', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_CCL3']",16
+Fold_34,"['PRO_WWOX', 'PRO_IL1B', 'PRO_LDLR']",3
+Fold_35,"['PRO_WWOX', 'PRO_ALK', 'PRO_IRF6', 'PRO_ARL11']",4
+Fold_36,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_CCL3']",5
+Fold_37,"['PRO_WWOX', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_CCL3']",6
+Fold_38,"['unstim_Tregnaive_Frequency', 'PRO_CD36', 'PRO_PSMB4', 'PRO_IGHM', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_IRF6', 'PRO_PSMB9', 'PRO_CCL3']",11
+Fold_39,"['unstim_Tregnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_Th1naive_149Sm_CREB']",3
+Fold_40,"['PRO_WWOX', 'PRO_IL1B', 'PRO_HSPH1', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'TNF_Th1_149Sm_CREB', 'PRO_CCL3']",7
+Fold_41,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'unstim_Th1naive_149Sm_CREB', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_BIRC3', 'unstim_Th1naive_164Dy_IkB', 'LPS_Granulocytes_159Tb_MAPKAPK2']",8
+Fold_42,"['PRO_WWOX', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_CCL3']",4
+Fold_43,"['unstim_Tregnaive_Frequency', 'PRO_IRF6', 'unstim_CD4Tnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_PPIB', 'PRO_ALK', 'PRO_ASAH1', 'PRO_BIRC3']",9
+Fold_44,"['PRO_MTHFD2', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_ALK']",6
+Fold_45,"['PRO_CTNNA3', 'TNF_Th1_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_NTRK1', 'PRO_IFNL3', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_KIF3A', 'PRO_MTHFD2', 'PRO_TLR4', 'unstim_CD4Tnaive_Frequency', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_KITLG', 'PRO_FCGR1A', 'PRO_FTCD', 'PRO_ASAH1', 'PRO_LDLR']",19
+Fold_46,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",4
+Fold_47,['PRO_BLK'],1
+Fold_48,"['PRO_IL1B', 'PRO_WWOX', 'PRO_ALK', 'PRO_CCL3']",4
+Fold_49,"['PRO_CTNNA3', 'PRO_PSMB4', 'PRO_IL1R1', 'unstim_CD4Trm_Frequency', 'PRO_LGALS1', 'PRO_HSPH1', 'PRO_ARL11', 'unstim_Tregnaive_Frequency', 'PRO_TLR5', 'IL246_Granulocytes_154Sm_STAT3', 'PRO_IL1B', 'PRO_LDLR', 'PRO_CCL3']",13
+Fold_50,"['PRO_WWOX', 'PRO_TOPBP1', 'PRO_SAMHD1', 'PRO_IRF6', 'PRO_GTF2I', 'PRO_IL1B', 'PRO_BLK', 'PRO_PPIB', 'PRO_LDLR']",9
+Fold_51,"['PRO_WWOX', 'PRO_IL18', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",6
+Fold_52,"['unstim_Tregnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_CCL3']",6
+Fold_53,"['unstim_Tregnaive_Frequency', 'PRO_TLR5', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_MGA', 'PRO_HSPH1', 'PRO_CCL3']",10
+Fold_54,"['PRO_PSMB4', 'PRO_B3GNT2', 'PRO_IL1R1', 'PRO_TNFAIP3', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_WWOX', 'PRO_IL12A|EBI3', 'unstim_CD4Tnaive_Frequency', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_CCL3']",12
+Fold_55,"['unstim_Tregnaive_Frequency', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'unstim_CD4Tnaive_Frequency']",4
+Fold_56,"['PRO_IL18', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_CCL3']",6
+Fold_57,"['PRO_EHMT2', 'PRO_CD36', 'PRO_PSMB4', 'TNF_Th1_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_ALK', 'PRO_IRF6', 'PRO_AOC3', 'PRO_PSMB9', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'unstim_CD4Tnaive_Frequency', 'TNF_ncMC_167Er_ERK', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_KITLG', 'PRO_ASAH1', 'PRO_CCL3']",19
+Fold_58,"['PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_CCL3']",6
+Fold_59,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_IRF6', 'PRO_LDLR']",7
+Fold_60,"['PRO_WWOX', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_ALK', 'PRO_LDLR', 'PRO_CCL3']",6
+Fold_61,"['PRO_WWOX', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",6
+Fold_62,"['PRO_WWOX', 'PRO_IL18', 'PRO_IL1B', 'PRO_PPIB', 'PRO_FCGR1A', 'PRO_ASAH1', 'PRO_LDLR']",7
+Fold_63,"['unstim_Tregnaive_Frequency', 'unstim_CD4Tnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_MGA', 'PRO_CCL3']",6
+Fold_64,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'TNF_Th1_149Sm_CREB', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_CCL3']",10
+Fold_65,"['unstim_Tregnaive_Frequency', 'PRO_TLR4', 'unstim_CD4Tnaive_Frequency', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_IRF6', 'PRO_ARL11']",9
+Fold_66,"['unstim_Tregnaive_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_RAP2A', 'PRO_ASAH1', 'unstim_NK_Frequency', 'PRO_CCL3']",8
+Fold_67,"['PRO_RFXAP', 'PRO_HPSE', 'PRO_PSMB4', 'PRO_IL1R1', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_PPIB', 'PRO_ALK', 'PRO_HSPH1', 'PRO_NTRK1', 'PRO_IFNL3', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_ASAH1', 'PRO_TLR4', 'unstim_Tregnaive_150Nd_STAT5', 'PRO_IGHM', 'PRO_IL1B', 'PRO_LDLR', 'PRO_CCL3']",20
+Fold_68,"['PRO_WWOX', 'PRO_IL1B', 'PRO_SIGLEC1', 'PRO_ALK']",4
+Fold_69,"['PRO_SAMHD1', 'TNF_Th1_149Sm_CREB', 'TNF_Th1_164Dy_IkB', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_WWOX', 'TNF_Granulocytes_155Gd_S6', 'TNF_ncMC_167Er_ERK', 'PRO_IL18', 'PRO_IL1B', 'TNF_CXCR4neutro_155Gd_S6', 'PRO_LDLR', 'PRO_CCL3']",13
+Fold_70,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_FTCD', 'TNF_Th1_149Sm_CREB', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_HSPH1', 'PRO_CCL3']",11
+Fold_71,"['PRO_PSMB4', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_ALK', 'PRO_PSMB9', 'unstim_Tregnaive_Frequency', 'unstim_CD8Tcm_Frequency', 'unstim_CD4Tnaive_Frequency', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_BLK', 'PRO_ASAH1', 'PRO_CCL3', 'PRO_LDLR']",14
+Fold_72,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_SAMHD1', 'PRO_IRF6', 'PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_HSPH1']",10
+Fold_73,"['PRO_WWOX', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'PRO_ALK', 'PRO_LDLR', 'PRO_CCL3']",6
+Fold_74,"['unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_TOPBP1', 'PRO_MTHFD2', 'unstim_CD4Tnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1']",9
+Fold_75,"['unstim_Tregnaive_Frequency', 'unstim_Th1naive_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_Tregnaive_150Nd_STAT5', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_RAP2A', 'PRO_ALK', 'PRO_HSPH1', 'unstim_Th1naive_150Nd_STAT5', 'PRO_CCL3']",11
+Fold_76,"['PRO_CTNNA3', 'PRO_CD36', 'PRO_ALDH2', 'PRO_PSMB4', 'PRO_B3GNT2', 'PRO_DEFB4A', 'PRO_IL1R1', 'unstim_CD4Trm_Frequency', 'PRO_LGALS1', 'PRO_ALK', 'PRO_ARL11', 'PRO_IGFBP3', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_TLR5', 'PRO_OTC', 'PRO_ASAH1', 'unstim_CD4Tnaive_Frequency', 'PRO_ALDOB', 'PRO_IL18', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_BLK', 'PRO_RAP2A', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_CCL3']",27
+Fold_77,"['PRO_WWOX', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_ALK']",6
+Fold_78,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_MGA', 'PRO_CCL3']",6
+Fold_79,"['PRO_WWOX', 'PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ASAH1', 'PRO_KIF3A', 'PRO_LDLR', 'PRO_IFNL3']",8
+Fold_80,"['unstim_CD4Trm_Frequency', 'PRO_LGALS1', 'PRO_ALK', 'PRO_HSPH1', 'PRO_NPY', 'PRO_HERPUD2', 'PRO_WWOX', 'PRO_TLR5', 'unstim_CD4Tnaive_Frequency', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_CCL3', 'PRO_CTNNA3', 'PRO_GSTT1', 'PRO_SELP', 'PRO_ARL11', 'PRO_MYC', 'unstim_Tregnaive_Frequency', 'PRO_OTC', 'PRO_TLR4', 'PRO_BLK', 'PRO_ASAH1']",22
+Fold_81,"['PRO_WWOX', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",5
+Fold_82,"['PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1', 'PRO_IL18', 'PRO_CCL3']",6
+Fold_83,"['unstim_CD4Trm_Frequency', 'PRO_LGALS1', 'PRO_PPIB', 'PRO_ALK', 'PRO_HSPH1', 'PRO_PSMB9', 'PRO_TLR5', 'PRO_TLR4', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_RAP2A', 'PRO_LDLR', 'PRO_CCL3']",13
+Fold_84,"['PRO_WWOX', 'PRO_CTNNA3', 'TNF_Th1_149Sm_CREB', 'TNF_ncMC_167Er_ERK', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_HSPH1']",8
+Fold_85,"['PRO_WWOX', 'PRO_CTNNA3', 'unstim_Tregnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_BIRC3', 'PRO_HSPH1']",9
+Fold_86,"['PRO_CTNNA3', 'TNF_Th1_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'unstim_Tregnaive_Frequency', 'unstim_CD8Tcm_Frequency', 'PRO_FCRL3', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'unstim_CD4Tcm_Frequency', 'PRO_LDLR', 'PRO_CCL3']",12
+Fold_87,"['PRO_WWOX', 'unstim_CD56dimCD16posNK_Frequency', 'PRO_IL1R1', 'PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_LDLR', 'unstim_NK_Frequency', 'PRO_CCL3']",9
+Fold_88,"['PRO_IL1B', 'PRO_HRAS', 'unstim_CD4Trm_Frequency', 'PRO_CNTN3', 'PRO_IRF6']",5
+Fold_89,"['PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_PPIB', 'PRO_ALK', 'PRO_HSPH1', 'PRO_CCL3']",7
+Fold_90,"['PRO_CTNNA3', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_HSPH1', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'TNF_Granulocytes_155Gd_S6', 'unstim_Th1naive_149Sm_CREB', 'unstim_Tregnaive_150Nd_STAT5', 'TNF_ncMC_167Er_ERK', 'PRO_IL18', 'PRO_IL1B', 'unstim_CD4Tcm_Frequency', 'PRO_BIRC3', 'PRO_CCL3']",15
+Fold_91,"['PRO_CTNNA3', 'PRO_IRF6', 'PRO_IL1B', 'PRO_CNTN3', 'PRO_PPIB', 'PRO_ASAH1']",6
+Fold_92,"['PRO_WWOX', 'TNF_Th1_149Sm_CREB', 'TNF_ncMC_167Er_ERK', 'PRO_TNFAIP3', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_LDLR', 'PRO_CCL3']",9
+Fold_93,"['PRO_WWOX', 'PRO_IL1B', 'PRO_BLK', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_ASAH1']",6
+Fold_94,"['unstim_Tregnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_CD4Tnaive_Frequency']",3
+Fold_95,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK']",2
+Fold_96,"['PRO_CTNNA3', 'PRO_CD36', 'PRO_IL1R1', 'PRO_TNFAIP3', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_IRF6', 'PRO_ARL11', 'PRO_PSMB9', 'unstim_Tregnaive_Frequency', 'unstim_CD4Tnaive_Frequency', 'PRO_IGHM', 'PRO_ITGAV|ITGB3', 'PRO_ASAH1']",14
+Fold_97,"['unstim_Tregnaive_Frequency', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_ALK', 'PRO_CCL3']",5
+Fold_98,"['PRO_WWOX', 'PRO_IL1B', 'unstim_CD4Trm_Frequency', 'PRO_CCL3']",4
+Fold_99,"['PRO_WWOX', 'PRO_TLR5', 'PRO_ATF6', 'PRO_TLR4', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_ALK', 'PRO_LDLR', 'PRO_HSPH1']",9

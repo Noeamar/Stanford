@@ -1,0 +1,7 @@
+{
+  "omic": "Neighborhood",
+  "model_label": "STABL XGBoost",
+  "model_choice": "rf",
+  "n_features": 4,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models/STABL XGBoost on Neighborhood/used_features.txt"
+}

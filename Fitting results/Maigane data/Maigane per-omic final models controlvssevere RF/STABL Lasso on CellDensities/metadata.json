@@ -1,0 +1,7 @@
+{
+  "omic": "CellDensities",
+  "model_label": "STABL Lasso",
+  "model_choice": "rf",
+  "n_features": 2,
+  "features_file": "/Users/noeamar/Documents/Stanford/Fitting results/Maigane data/Maigane per-omic final models/STABL Lasso on CellDensities/used_features.txt"
+}

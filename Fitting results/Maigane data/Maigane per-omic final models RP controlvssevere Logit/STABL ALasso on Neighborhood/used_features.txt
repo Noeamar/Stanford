@@ -1,0 +1,3 @@
+CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast
+CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Dendritic_Cells_CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
