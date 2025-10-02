@@ -75,19 +75,6 @@ Le pipeline général se déroule en deux phases :
 
 ---
 
-## 📂 Structure du dépôt
-
-Stanford/
-├── src/             
-│   ├── stabl_linear/   *Implémentations classiques (Lasso, EN, ALasso)*
-│   ├── stabl_xgb/      *Implémentations STABL avec XGBoost*
-│   └── utils/          *Fonctions de support (normalisation, métriques…)*
-├── notebooks/          *Notebooks d’expérimentation et d’analyse*
-├── results/            *Résultats : perfs, features sélectionnées, plots*
-├── data/               *Jeux de données (non inclus dans le repo public)*
-└── README.md
-
-
 
 ---
 
