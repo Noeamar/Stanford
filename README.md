@@ -77,3 +77,29 @@ Le pipeline général se déroule en deux phases :
 
 ## 📂 Structure du dépôt
 
+Stanford/
+├── src/ # Code source STABL et variantes
+│ ├── stabl_linear/ # Implémentations classiques (Lasso, EN, ALasso)
+│ ├── stabl_xgb/ # Implémentations STABL avec XGBoost
+│ └── utils/ # Fonctions de support (normalisation, métriques…)
+├── notebooks/ # Notebooks d’expérimentation et d’analyse
+├── results/ # Résultats (performances, features sélectionnées, plots FDR/stabilité)
+├── data/ # Jeux de données (non inclus dans le repo public)
+└── README.md
+
+
+---
+
+## 🔧 Installation
+
+```bash
+# 1. Cloner le repo
+git clone https://github.com/Noeamar/Stanford.git
+cd Stanford
+
+# 2. Créer un environnement Python
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Installer les dépendances
+pip install -r requirements.txt
