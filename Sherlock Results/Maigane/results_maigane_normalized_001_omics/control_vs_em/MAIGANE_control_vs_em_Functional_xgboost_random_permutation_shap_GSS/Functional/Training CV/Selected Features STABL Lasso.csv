@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 1,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_fibroblast_intragland_VEGF']",3
+Fold 2,[],0
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,"['Macrophages_M1-like_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 6,[],0
+Fold 7,"['Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",5
+Fold 8,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 9,[],0
+Fold 10,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67']",2
+Fold 11,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67']",2
+Fold 12,[],0
+Fold 13,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 14,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 15,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 16,['NKT_glandfront_Ki67'],1
+Fold 17,"['Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'NKT_glandfront_Ki67']",4
+Fold 18,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 19,[],0
+Fold 20,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 21,['NKT_glandfront_Ki67'],1
+Fold 22,[],0
+Fold 23,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 24,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 25,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 26,"['Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 27,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 28,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 29,"['Macrophages_M1-like_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 30,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 31,[],0
+Fold 32,[],0
+Fold 33,[],0
+Fold 34,[],0
+Fold 35,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 36,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 37,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 38,"['NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 39,[],0
+Fold 40,[],0
+Fold 41,"['Gland_glandular_epithelium_glandfront_Ki67', 'Gland_glandular_epithelium_intragland_Ki67']",2
+Fold 42,[],0
+Fold 43,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 44,"['Macrophages_M1-like_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_glandular_epithelium_intragland_Ki67']",3
+Fold 45,[],0
+Fold 46,[],0
+Fold 47,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 48,[],0
+Fold 49,[],0
+Fold 50,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'NA_glandfront_Ki67']",4
+Fold 51,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 52,"['Macrophages_M1_M2_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_glandular_epithelium_intragland_Ki67']",3
+Fold 53,"['Macrophages_M1-like_stromal_GranzymeB', 'NKT_glandfront_Ki67']",2
+Fold 54,[],0
+Fold 55,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 56,[],0
+Fold 57,"['Macrophages_M1-like_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 58,"['Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_mesenchymal_stromal_GranzymeB', 'NA_glandfront_Ki67']",7
+Fold 59,['NKT_glandfront_Ki67'],1
+Fold 60,"['Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 61,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 62,"['Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 63,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67']",2
+Fold 64,[],0
+Fold 65,[],0
+Fold 66,"['Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB']",2
+Fold 67,"['Macrophages_M1-like_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'NA_glandfront_Ki67']",4
+Fold 68,"['NKT_glandfront_Ki67', 'NA_glandfront_Ki67']",2
+Fold 69,[],0
+Fold 70,"['NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 71,"['NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",2
+Fold 72,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'CD4_T_cells_CD11b+_stromal_GranzymeB', 'Stroma_fibroblast_glandfront_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'NA_glandfront_Ki67']",5
+Fold 73,[],0
+Fold 74,"['Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Dendritic_Cells_CD209CD33dp_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67', 'NA_glandfront_Ki67']",6
+Fold 75,"['Macrophages_M1_M2_stromal_GranzymeB', 'NA_glandfront_Ki67']",2
+Fold 76,[],0
+Fold 77,[],0
+Fold 78,"['NKT_glandfront_Ki67', 'NA_glandfront_Ki67']",2
+Fold 79,"['NKT_glandfront_Ki67', 'NA_glandfront_Ki67']",2
+Fold 80,"['Macrophages_M1-like_stromal_GranzymeB', 'NKT_glandfront_Ki67']",2
+Fold 81,"['NKT_glandfront_Ki67', 'Gland_mesenchymal_intragland_ERa']",2
+Fold 82,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 83,"['Macrophages_M1-like_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",3
+Fold 84,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 85,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 86,"['NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_mesenchymal_intragland_ERa', 'Gland_fibroblast_intragland_ERa', 'Gland_fibroblast_intragland_PR', 'Gland_fibroblast_intragland_HLA-DR', 'Gland_vascular_endothelium_glandfront_VEGF']",9
+Fold 87,[],0
+Fold 88,[],0
+Fold 89,['Gland_glandular_epithelium_glandfront_Ki67'],1
+Fold 90,[],0
+Fold 91,"['NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",4
+Fold 92,[],0
+Fold 93,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 94,"['Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67']",3
+Fold 95,[],0
+Fold 96,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 97,[],0
+Fold 98,[],0
+Fold 99,['Gland_glandular_epithelium_glandfront_Ki67'],1

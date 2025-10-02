@@ -1,0 +1,4 @@
+,STABL Lasso,STABL ALasso,STABL ElasticNet
+STABL Lasso,1.0,0.067,0.14
+STABL ALasso,0.059,1.0,0.446
+STABL ElasticNet,0.124,0.419,1.0

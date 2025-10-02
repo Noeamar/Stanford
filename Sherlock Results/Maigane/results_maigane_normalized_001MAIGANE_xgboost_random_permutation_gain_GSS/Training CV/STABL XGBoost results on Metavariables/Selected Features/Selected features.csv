@@ -1,0 +1,16 @@
+,Feature Name
+Feature n°1,Stroma_mesenchymal_stromal_area
+Feature n°2,Stroma_vascular_endothelium_stromal_area
+Feature n°3,Stroma_fibroblast_glandfront_area
+Feature n°4,Stroma_fibroblast_stromal_area
+Feature n°5,NK_cells_CD56brCD16-CD9hi_stromal_area
+Feature n°6,Macrophages_M1-like_stromal_area
+Feature n°7,Macrophages_M2-like_stromal_area
+Feature n°8,Macrophages_M1_M2_stromal_area
+Feature n°9,NKT_glandfront_area
+Feature n°10,aSMA-br_fibroblast_stromal_area
+Feature n°11,aSMA-br_vascular_endothelium_glandfront_area
+Feature n°12,aSMA-br_vascular_endothelium_stromal_area
+Feature n°13,Gland_glandular_epithelium_glandfront_area
+Feature n°14,CD4_T_cells_FoxP3+_stromal_eccentricity
+Feature n°15,CD4_T_cells_CD11b+_stromal_eccentricity

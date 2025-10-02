@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['Macrophages_M1_M2_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 1,"['Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 2,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 3,[],0
+Fold 4,"['CD4_T_cells_CD80_CD86+_stromal_area', 'NK_cells_CD56brCD16-_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_stromal_area', 'NK_cells_CD56dimCD16+CD9hi_stromal_area', 'Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'Neutrophils_glandfront_area', 'aSMA-br_vascular_endothelium_glandfront_area', 'Gland_fibroblast_glandfront_area', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Macrophages_MDSC_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",15
+Fold 5,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity']",4
+Fold 6,[],0
+Fold 7,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'CD4_T_cells_CD80_CD86+_glandfront_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity']",4
+Fold 8,"['Macrophages_M1-like_stromal_area', 'NKT_glandfront_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",3
+Fold 9,"['Macrophages_M1-like_stromal_area', 'Macrophages_MDSC_glandfront_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",3
+Fold 10,"['NK_cells_CD56brCD16-TIM3hi_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area']",3
+Fold 11,['NKT_glandfront_area'],1
+Fold 12,['CD4_T_cells_FoxP3+_glandfront_celldistance'],1
+Fold 13,"['Macrophages_M1_M2_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 14,"['Macrophages_M1-like_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 15,"['CD4_T_cells_CD80_CD86+_stromal_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 16,['CD4_T_cells_FoxP3+_glandfront_celldistance'],1
+Fold 17,[],0
+Fold 18,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Macrophages_MDSC_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",7
+Fold 19,[],0
+Fold 20,"['Macrophages_M1_M2_stromal_area', 'CD8_T_cells_CD11b+_glandfront_eccentricity']",2
+Fold 21,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area', 'CD4_T_cells_CD80_CD86+_glandfront_eccentricity']",3
+Fold 22,[],0
+Fold 23,"['CD4_T_cells_CD80_CD86+_stromal_area', 'CD8_T_cells_CD80_CD86+_stromal_area', 'CD4_T_cells_CD11b+_glandfront_area', 'CD8_T_cells_CD11b+_glandfront_area', 'Stroma_vascular_endothelium_glandfront_area', 'Stroma_fibroblast_glandfront_area', 'NK_cells_CD56brCD16-_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_stromal_area', 'NK_cells_CD56dimCD16+CD9hi_stromal_area', 'NK_cells_CD56brCD16-CD9hi_stromal_area', 'Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Neutrophils_glandfront_area', 'aSMA-br_mesenchymal_stromal_area', 'Gland_glandular_epithelium_glandfront_area', 'CD8_T_cells_CD80_CD86+_stromal_eccentricity', 'CD8_T_cells_CD11b+_glandfront_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_mesenchymal_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance', 'CD8_T_cells_CD11b+_glandfront_celldistance', 'Gland_fibroblast_glandfront_celldistance']",22
+Fold 24,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'NKT_glandfront_area', 'Gland_mesenchymal_intragland_eccentricity']",4
+Fold 25,"['CD4_T_cells_CD11b+_glandfront_area', 'Macrophages_M1-like_stromal_area', 'NKT_glandfront_area', 'CD4_T_cells_CD80_CD86+_glandfront_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",7
+Fold 26,['CD4_T_cells_FoxP3+_glandfront_celldistance'],1
+Fold 27,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",3
+Fold 28,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",3
+Fold 29,[],0
+Fold 30,[],0
+Fold 31,[],0
+Fold 32,[],0
+Fold 33,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 34,['Macrophages_M1-like_stromal_area'],1
+Fold 35,"['Macrophages_M1-like_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 36,[],0
+Fold 37,['NKT_glandfront_area'],1
+Fold 38,"['NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Dendritic_Cells_CD86+_glandfront_eccentricity']",2
+Fold 39,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area']",3
+Fold 40,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area']",3
+Fold 41,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'Gland_glandular_epithelium_glandfront_area']",4
+Fold 42,"['NK_cells_CD56brCD16-TIM3hi_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 43,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'aSMA-br_vascular_endothelium_glandfront_area']",3
+Fold 44,[],0
+Fold 45,['Macrophages_M1-like_stromal_area'],1
+Fold 46,[],0
+Fold 47,[],0
+Fold 48,[],0
+Fold 49,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 50,[],0
+Fold 51,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD4_T_cells_CD80_CD86+_glandfront_eccentricity', 'Gland_vascular_endothelium_glandfront_celldistance']",5
+Fold 52,"['Macrophages_M1_M2_stromal_area', 'NKT_glandfront_area']",2
+Fold 53,"['CD4_T_cells_CD80_CD86+_stromal_area', 'Stroma_vascular_endothelium_glandfront_area', 'Stroma_fibroblast_glandfront_area', 'NK_cells_CD56brCD16-TIM3hi_stromal_area', 'aSMA-br_vascular_endothelium_glandfront_area']",5
+Fold 54,[],0
+Fold 55,"['Macrophages_M1-like_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",4
+Fold 56,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD8_T_cells_CD80_CD86+_glandfront_eccentricity', 'Dendritic_Cells_CD86+_glandfront_eccentricity', 'Gland_mesenchymal_intragland_eccentricity']",5
+Fold 57,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area']",2
+Fold 58,"['CD4_T_cells_CD80_CD86+_stromal_area', 'Stroma_vascular_endothelium_glandfront_area', 'Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Gland_vascular_endothelium_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance', 'Gland_vascular_endothelium_glandfront_celldistance']",9
+Fold 59,[],0
+Fold 60,[],0
+Fold 61,[],0
+Fold 62,['Macrophages_M1-like_stromal_area'],1
+Fold 63,[],0
+Fold 64,"['Stroma_vascular_endothelium_stromal_area', 'Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'NKT_glandfront_area', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",6
+Fold 65,"['NK_cells_CD56dimCD16+_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'Gland_fibroblast_glandfront_area']",4
+Fold 66,[],0
+Fold 67,"['CD4_T_cells_CD80_CD86+_stromal_area', 'CD4_T_cells_CD11b+_glandfront_area', 'Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'CD4_T_cells_CD80_CD86+_glandfront_eccentricity', 'Macrophages_MDSC_glandfront_eccentricity']",6
+Fold 68,['Macrophages_M1_M2_stromal_area'],1
+Fold 69,"['CD8_T_cells_CD80_CD86+_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity']",4
+Fold 70,"['CD8_T_cells_CD80_CD86+_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'Dendritic_Cells_CD86CD33dp_glandfront_area', 'CD8_T_cells_CD80_CD86+_glandfront_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Dendritic_Cells_CD86CD33dp_glandfront_eccentricity']",7
+Fold 71,"['NK_cells_CD56brCD16-TIM3hi_stromal_area', 'Macrophages_M1-like_stromal_area', 'NKT_glandfront_area', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD8_T_cells_CD80_CD86+_glandfront_eccentricity', 'CD8_T_cells_CD11b+_glandfront_eccentricity', 'Macrophages_MDSC_glandfront_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",9
+Fold 72,"['CD4_T_cells_CD80_CD86+_stromal_area', 'CD8_T_cells_CD80_CD86+_stromal_area', 'CD4_T_cells_CD11b+_glandfront_area', 'Macrophages_M1-like_glandfront_area', 'Gland_fibroblast_glandfront_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",7
+Fold 73,['CD4_T_cells_FoxP3+_glandfront_celldistance'],1
+Fold 74,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Dendritic_Cells_CD33+_glandfront_celldistance']",5
+Fold 75,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area']",2
+Fold 76,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'Gland_fibroblast_intragland_eccentricity']",3
+Fold 77,['Macrophages_M1-like_stromal_area'],1
+Fold 78,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 79,[],0
+Fold 80,"['NK_cells_CD56brCD16-TIM3hi_stromal_area', 'Macrophages_M1-like_stromal_area', 'aSMA-br_vascular_endothelium_glandfront_area', 'Gland_fibroblast_intragland_eccentricity', 'Gland_vascular_endothelium_glandfront_celldistance']",5
+Fold 81,[],0
+Fold 82,[],0
+Fold 83,"['CD8_T_cells_HLA-DR+_stromal_area', 'Macrophages_M1-like_glandfront_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance', 'CD8_T_cells_CD11b+_glandfront_celldistance']",4
+Fold 84,[],0
+Fold 85,[],0
+Fold 86,"['Macrophages_M1-like_glandfront_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_mesenchymal_intragland_eccentricity', 'Gland_fibroblast_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",5
+Fold 87,[],0
+Fold 88,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area', 'CD8_T_cells_CD11b+_glandfront_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",4
+Fold 89,"['Macrophages_M1-like_stromal_area', 'CD8_T_cells_CD11b+_glandfront_celldistance']",2
+Fold 90,[],0
+Fold 91,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity', 'Gland_mesenchymal_intragland_eccentricity', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",6
+Fold 92,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area', 'NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity']",3
+Fold 93,[],0
+Fold 94,"['Macrophages_M1-like_stromal_area', 'Macrophages_M1_M2_stromal_area', 'Gland_vascular_endothelium_glandfront_celldistance']",3
+Fold 95,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1-like_stromal_area']",2
+Fold 96,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2
+Fold 97,"['aSMA-br_vascular_endothelium_glandfront_area', 'CD4_T_cells_FoxP3+_glandfront_celldistance']",2
+Fold 98,[],0
+Fold 99,"['Macrophages_M1-like_glandfront_area', 'Macrophages_M1_M2_stromal_area']",2

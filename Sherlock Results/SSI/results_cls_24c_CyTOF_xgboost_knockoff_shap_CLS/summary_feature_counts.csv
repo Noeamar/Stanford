@@ -1,0 +1,5 @@
+file,folds,mean,median,std,min,max,25%,75%,unique_feats
+Selected Features STABL Alasso.csv,100,0.0,0.0,0.0,0,0,0.0,0.0,n/a
+Selected Features STABL ElasticNet.csv,100,202.75,165.0,165.98,7,791,87.25,252.75,1244
+Selected Features STABL Lasso.csv,100,40.08,38.0,13.28,11,72,30.0,48.0,313
+Selected Features STABL XGBoost.csv,100,8.65,8.0,4.14,1,23,6.0,11.0,109

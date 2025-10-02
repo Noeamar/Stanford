@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'Dendritic_Cells_CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast']",3
+Fold 1,['CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 2,['Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,"['Dendritic_Cells_CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.fibroblast']",2
+Fold 6,"['CD8_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal']",3
+Fold 7,[],0
+Fold 8,[],0
+Fold 9,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 10,[],0
+Fold 11,[],0
+Fold 12,[],0
+Fold 13,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 14,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Stroma_vascular_endothelium_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Macrophages_M1_M2_glandfront_aggregatedNeighbors.Macrophages.M1.like', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",5
+Fold 15,[],0
+Fold 16,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Stroma_fibroblast_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'Dendritic_Cells_CD86+_stromal_aggregatedNeighbors.aSMA.br.fibroblast', 'Dendritic_Cells_CD209CD86dp_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",8
+Fold 17,[],0
+Fold 18,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 19,[],0
+Fold 20,[],0
+Fold 21,[],0
+Fold 22,[],0
+Fold 23,"['CD8_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'CD4_T_cells_CD11b+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'NK_cells_CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'NK_cells_CD56brCD16-CD9hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Macrophages_M1_M2_glandfront_aggregatedNeighbors.Macrophages.M1.like', 'Macrophages_MDSC_stromal_aggregatedNeighbors.Macrophages.MDSC', 'Dendritic_Cells_CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'aSMA-br_mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",13
+Fold 24,"['NK_cells_CD56dimCD16+CD9hi_intragland_aggregatedNeighbors.Gland.glandular.epithelium', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",2
+Fold 25,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.fibroblast']",2
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",2
+Fold 30,"['CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'NK_cells_CD56brCD16-CD9hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Macrophages_M1_M2_stromal_aggregatedNeighbors.Macrophages.M2.like', 'Dendritic_Cells_CD33+_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",7
+Fold 31,[],0
+Fold 32,['Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 33,[],0
+Fold 34,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",3
+Fold 35,[],0
+Fold 36,[],0
+Fold 37,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 38,[],0
+Fold 39,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 40,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 41,[],0
+Fold 42,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 43,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'aSMA-br_mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",3
+Fold 44,['Dendritic_Cells_CD86CD33dp_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 45,[],0
+Fold 46,[],0
+Fold 47,['Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 48,[],0
+Fold 49,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 50,"['Macrophages_M1_M2_stromal_aggregatedNeighbors.Macrophages.MDSC', 'Dendritic_Cells_CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast']",2
+Fold 51,[],0
+Fold 52,[],0
+Fold 53,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 54,[],0
+Fold 55,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 56,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 57,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Macrophages_M1_M2_stromal_aggregatedNeighbors.Macrophages.MDSC', 'aSMA-br_mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast']",3
+Fold 58,['Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium'],1
+Fold 59,[],0
+Fold 60,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 61,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 62,[],0
+Fold 63,[],0
+Fold 64,[],0
+Fold 65,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Stroma_vascular_endothelium_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium', 'Dendritic_Cells_CD86CD33dp_glandfront_aggregatedNeighbors.Stroma.mesenchymal', 'Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'aSMA-br_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium']",6
+Fold 66,[],0
+Fold 67,[],0
+Fold 68,[],0
+Fold 69,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 70,[],0
+Fold 71,[],0
+Fold 72,[],0
+Fold 73,['Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.fibroblast'],1
+Fold 74,[],0
+Fold 75,[],0
+Fold 76,"['CD8_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal']",2
+Fold 77,['Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 78,[],0
+Fold 79,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'CD4_T_cells_CD11b+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'NK_cells_CD56dimCD16+CD9hi_intragland_aggregatedNeighbors.Gland.glandular.epithelium', 'Macrophages_M1_M2_stromal_aggregatedNeighbors.Macrophages.MDSC', 'Dendritic_Cells_CD86+_glandfront_aggregatedNeighbors.Stroma.mesenchymal', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",8
+Fold 80,['Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 81,[],0
+Fold 82,"['CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'Dendritic_Cells_CD86CD33dp_glandfront_aggregatedNeighbors.Gland.mesenchymal', 'aSMA-br_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",5
+Fold 83,[],0
+Fold 84,[],0
+Fold 85,[],0
+Fold 86,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal']",2
+Fold 87,[],0
+Fold 88,['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast'],1
+Fold 89,[],0
+Fold 90,[],0
+Fold 91,[],0
+Fold 92,[],0
+Fold 93,[],0
+Fold 94,"['CD8_T_cells_FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast', 'CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast', 'Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium']",4
+Fold 95,[],0
+Fold 96,['Dendritic_Cells_CD86CD33dp_glandfront_aggregatedNeighbors.Gland.mesenchymal'],1
+Fold 97,"['CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast', 'Macrophages_M1_M2_stromal_aggregatedNeighbors.Macrophages.MDSC']",2
+Fold 98,[],0
+Fold 99,[],0

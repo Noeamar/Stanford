@@ -1,0 +1,8 @@
+,Feature Name
+Feature n°1,CD8_T_cells_FoxP3+_stromal_HLA-DR
+Feature n°2,CD8_T_cells_HLA-DR+_glandfront_Ki67
+Feature n°3,CD8_T_cells_CD80_CD86+_glandfront_Ki67
+Feature n°4,NK_cells_CD56brCD16-_stromal_TIM3
+Feature n°5,NK_cells_CD56brCD16-CD9hi_glandfront_pP38
+Feature n°6,Gland_mesenchymal_intragland_Ki67
+Feature n°7,NA_glandfront_Ki67

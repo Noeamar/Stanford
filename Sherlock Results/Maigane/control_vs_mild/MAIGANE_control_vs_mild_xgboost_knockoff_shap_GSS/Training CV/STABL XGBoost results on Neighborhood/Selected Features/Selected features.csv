@@ -1,0 +1,11 @@
+,Feature Name
+Feature n°1,CD4_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Gland.glandular.epithelium
+Feature n°2,Stroma_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+Feature n°3,NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi
+Feature n°4,Macrophages_M1_M2_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+Feature n°5,NKT_glandfront_aggregatedNeighbors.Gland.glandular.epithelium
+Feature n°6,aSMA-br_vascular_endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+Feature n°7,Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium
+Feature n°8,Gland_mesenchymal_glandfront_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°9,Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.glandular.epithelium
+Feature n°10,Gland_fibroblast_glandfront_aggregatedNeighbors.Gland.glandular.epithelium

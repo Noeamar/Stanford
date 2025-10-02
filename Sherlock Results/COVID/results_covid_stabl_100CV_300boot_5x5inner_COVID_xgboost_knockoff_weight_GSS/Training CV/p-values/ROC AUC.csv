@@ -1,0 +1,5 @@
+,STABL Lasso,STABL ALasso,STABL ElasticNet,STABL XGBoost
+STABL Lasso,1.0,0.0,0.026,0.0
+STABL ALasso,0.0,1.0,0.0,0.0
+STABL ElasticNet,0.023,0.0,1.0,0.004
+STABL XGBoost,0.0,0.0,0.006,1.0

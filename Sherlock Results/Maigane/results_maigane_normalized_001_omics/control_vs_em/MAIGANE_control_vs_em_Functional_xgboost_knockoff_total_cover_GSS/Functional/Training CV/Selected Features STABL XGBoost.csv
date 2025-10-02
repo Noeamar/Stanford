@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB']",2
+Fold 1,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'aSMA-br_vascular_endothelium_glandfront_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_GranzymeB', 'Gland_fibroblast_intragland_VEGF']",9
+Fold 2,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,[],0
+Fold 6,['NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB'],1
+Fold 7,"['CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67']",5
+Fold 8,[],0
+Fold 9,[],0
+Fold 10,"['Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'aSMA-br_vascular_endothelium_stromal_GranzymeB']",3
+Fold 11,"['CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_NKG2C', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'NKT_glandfront_Ki67']",4
+Fold 12,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'Macrophages_M1-like_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_GranzymeB']",7
+Fold 13,[],0
+Fold 14,[],0
+Fold 15,['Gland_fibroblast_glandfront_VEGF'],1
+Fold 16,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'aSMA-br_fibroblast_stromal_GranzymeB']",3
+Fold 17,[],0
+Fold 18,[],0
+Fold 19,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB']",3
+Fold 20,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 21,[],0
+Fold 22,[],0
+Fold 23,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'aSMA-br_fibroblast_stromal_GranzymeB']",5
+Fold 24,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'Gland_fibroblast_intragland_HLA-DR']",4
+Fold 25,[],0
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,"['CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB']",3
+Fold 30,[],0
+Fold 31,[],0
+Fold 32,[],0
+Fold 33,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'NA_stromal_pP38']",4
+Fold 34,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'Gland_fibroblast_intragland_HLA-DR', 'NA_glandfront_Ki67']",7
+Fold 35,['NKT_glandfront_Ki67'],1
+Fold 36,[],0
+Fold 37,['CD4_T_cells_CD80_CD86+_stromal_GranzymeB'],1
+Fold 38,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_glandfront_Ki67', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Macrophages_M1-like_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'Neutrophils_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'aSMA-br_vascular_endothelium_stromal_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_Ki67', 'NA_glandfront_Ki67']",16
+Fold 39,[],0
+Fold 40,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_stromal_GranzymeB']",7
+Fold 41,[],0
+Fold 42,[],0
+Fold 43,[],0
+Fold 44,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Macrophages_M1-like_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'NKT_glandfront_Ki67', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_glandular_epithelium_intragland_Ki67', 'Gland_mesenchymal_glandfront_ERa', 'Gland_vascular_endothelium_glandfront_VEGF']",13
+Fold 45,"['Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB']",2
+Fold 46,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_GranzymeB']",6
+Fold 47,['Dendritic_Cells_CD86CD33dp_stromal_GranzymeB'],1
+Fold 48,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_mesenchymal_glandfront_VEGF', 'Stroma_fibroblast_stromal_GranzymeB']",3
+Fold 49,[],0
+Fold 50,['CD4_T_cells_CD80_CD86+_stromal_GranzymeB'],1
+Fold 51,[],0
+Fold 52,[],0
+Fold 53,[],0
+Fold 54,[],0
+Fold 55,[],0
+Fold 56,['Stroma_fibroblast_stromal_GranzymeB'],1
+Fold 57,"['NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'NKT_glandfront_Ki67']",4
+Fold 58,[],0
+Fold 59,[],0
+Fold 60,[],0
+Fold 61,[],0
+Fold 62,[],0
+Fold 63,[],0
+Fold 64,"['Stroma_fibroblast_stromal_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_GranzymeB']",2
+Fold 65,[],0
+Fold 66,"['Stroma_fibroblast_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'aSMA-br_vascular_endothelium_stromal_GranzymeB']",3
+Fold 67,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB']",5
+Fold 68,[],0
+Fold 69,[],0
+Fold 70,[],0
+Fold 71,"['Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'Neutrophils_stromal_GranzymeB', 'NKT_glandfront_Ki67']",4
+Fold 72,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB']",5
+Fold 73,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB']",3
+Fold 74,"['NK_cells_CD56dimCD16+CD9hi_stromal_NKG2C', 'Macrophages_M1_M2_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Dendritic_Cells_CD209CD33dp_stromal_GranzymeB']",4
+Fold 75,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB']",3
+Fold 76,[],0
+Fold 77,['CD4_T_cells_CD80_CD86+_stromal_GranzymeB'],1
+Fold 78,['Stroma_fibroblast_stromal_GranzymeB'],1
+Fold 79,"['CD8_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB']",5
+Fold 80,"['Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB']",2
+Fold 81,[],0
+Fold 82,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'NA_glandfront_Ki67']",2
+Fold 83,"['Stroma_mesenchymal_glandfront_VEGF', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Gland_mesenchymal_glandfront_VEGF', 'Gland_vascular_endothelium_glandfront_VEGF']",6
+Fold 84,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_mesenchymal_glandfront_VEGF', 'Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Neutrophils_glandfront_GranzymeB', 'Neutrophils_stromal_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_fibroblast_intragland_PR', 'Gland_fibroblast_intragland_VEGF', 'Gland_fibroblast_intragland_HLA-DR']",11
+Fold 85,['CD4_T_cells_CD80_CD86+_stromal_GranzymeB'],1
+Fold 86,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB', 'Dendritic_Cells_CD86CD33dp_stromal_GranzymeB', 'Gland_mesenchymal_glandfront_VEGF', 'Gland_fibroblast_intragland_HLA-DR', 'Gland_vascular_endothelium_glandfront_VEGF']",8
+Fold 87,[],0
+Fold 88,[],0
+Fold 89,['NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB'],1
+Fold 90,['NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB'],1
+Fold 91,['Dendritic_Cells_CD86CD33dp_stromal_GranzymeB'],1
+Fold 92,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Stroma_fibroblast_stromal_GranzymeB', 'Macrophages_M1_M2_stromal_GranzymeB', 'aSMA-br_fibroblast_stromal_GranzymeB']",4
+Fold 93,[],0
+Fold 94,"['CD4_T_cells_CD80_CD86+_stromal_GranzymeB', 'Dendritic_Cells_CD33+_stromal_GranzymeB']",2
+Fold 95,"['Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB']",3
+Fold 96,['Macrophages_M1_M2_stromal_GranzymeB'],1
+Fold 97,"['NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'NA_glandfront_Ki67']",2
+Fold 98,"['Stroma_fibroblast_stromal_GranzymeB', 'NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB', 'Macrophages_M2-like_stromal_GranzymeB', 'Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB']",4
+Fold 99,[],0

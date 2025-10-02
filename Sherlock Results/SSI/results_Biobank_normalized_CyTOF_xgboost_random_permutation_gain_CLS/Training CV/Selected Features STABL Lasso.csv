@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['PRO_HSPH1', 'PRO_IL1B', 'PRO_ALK', 'PRO_RAP2A']",4
+Fold 1,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_LDLR', 'PRO_WWOX', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",8
+Fold 2,['unstim_CD4Trm_Frequency'],1
+Fold 3,"['TNF_Th1_149Sm_CREB', 'PRO_WWOX', 'PRO_IL1B']",3
+Fold 4,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_FCRL3', 'PRO_ALK', 'PRO_IRF6']",6
+Fold 5,"['unstim_Th1naive_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'LPS_Granulocytes_159Tb_MAPKAPK2', 'PRO_BLK', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_IL1B']",10
+Fold 6,"['unstim_CD4Tnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_ITGAV|ITGB3', 'PRO_IL1B']",6
+Fold 7,"['unstim_CD4Trm_Frequency', 'PRO_ALK']",2
+Fold 8,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK']",4
+Fold 9,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",4
+Fold 10,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_ncMC_167Er_ERK', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_PPIB', 'PRO_ASAH1', 'PRO_B3GNT2', 'PRO_TOPBP1']",9
+Fold 11,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_ALK']",3
+Fold 12,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_LDLR', 'PRO_IL1B', 'PRO_BIRC3', 'PRO_ALK']",7
+Fold 13,"['PRO_BLK', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK', 'PRO_IRF6']",6
+Fold 14,"['unstim_Th1naive_149Sm_CREB', 'unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_CD56dimCD16posNK_Frequency', 'unstim_NK_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_IL1B', 'PRO_ALK']",8
+Fold 15,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_BIRC3', 'PRO_ALK']",6
+Fold 16,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 17,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_HSPH1', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK']",7
+Fold 18,['unstim_CD4Trm_Frequency'],1
+Fold 19,"['unstim_CD4Trm_Frequency', 'PRO_TNFAIP3', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_CCL3', 'PRO_PPIB']",6
+Fold 20,"['PRO_WWOX', 'PRO_PPIB', 'PRO_ASAH1', 'PRO_IRF6']",4
+Fold 21,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK', 'PRO_IRF6']",5
+Fold 22,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_ALK']",3
+Fold 23,"['unstim_CD4Trm_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_LDLR', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK', 'PRO_RAP2A', 'PRO_TOPBP1']",8
+Fold 24,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_ASAH1', 'PRO_ALK']",4
+Fold 25,"['PRO_WWOX', 'PRO_ALK']",2
+Fold 26,"['PRO_TNFAIP3', 'PRO_HSPH1', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1']",5
+Fold 27,"['unstim_Th1naive_149Sm_CREB', 'unstim_CD4Trm_Frequency', 'unstim_pDC_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_ALK']",6
+Fold 28,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'PRO_LDLR', 'PRO_WWOX', 'PRO_IL1B', 'PRO_TOPBP1']",6
+Fold 29,"['unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK', 'PRO_RAP2A']",10
+Fold 30,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK', 'PRO_RAP2A']",6
+Fold 31,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK', 'PRO_IRF6']",6
+Fold 32,"['PRO_IL1B', 'PRO_ALK']",2
+Fold 33,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",9
+Fold 34,"['PRO_LDLR', 'PRO_WWOX', 'PRO_IL1B']",3
+Fold 35,"['PRO_ARL11', 'PRO_WWOX', 'PRO_ALK', 'PRO_IRF6']",4
+Fold 36,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_ALK']",3
+Fold 37,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",6
+Fold 38,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_IRF6']",4
+Fold 39,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency']",2
+Fold 40,"['unstim_CD4Trm_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",7
+Fold 41,"['unstim_Th1naive_164Dy_IkB', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'LPS_Granulocytes_159Tb_MAPKAPK2', 'PRO_WWOX', 'PRO_IL1B', 'PRO_BIRC3']",7
+Fold 42,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3']",4
+Fold 43,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_BIRC3', 'PRO_ASAH1', 'PRO_ALK', 'PRO_IRF6']",7
+Fold 44,"['unstim_CD4Trm_Frequency', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 45,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_WWOX', 'PRO_ALK']",5
+Fold 46,"['unstim_CD4Trm_Frequency', 'PRO_CCL3', 'PRO_ALK']",3
+Fold 47,['PRO_BLK'],1
+Fold 48,"['PRO_IL1B', 'PRO_ALK']",2
+Fold 49,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'IL246_Granulocytes_154Sm_STAT3', 'PRO_ARL11', 'PRO_HSPH1', 'PRO_CTNNA3', 'PRO_IL1R1', 'PRO_IL1B', 'PRO_LGALS1']",9
+Fold 50,"['PRO_SAMHD1', 'PRO_BLK', 'PRO_LDLR', 'PRO_GTF2I', 'PRO_WWOX', 'PRO_IL1B', 'PRO_PPIB', 'PRO_TOPBP1', 'PRO_IRF6']",9
+Fold 51,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_IL18', 'PRO_ALK']",5
+Fold 52,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",6
+Fold 53,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_MGA', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",9
+Fold 54,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_CCL3', 'PRO_BIRC3', 'PRO_ALK']",7
+Fold 55,"['unstim_CD4Trm_Frequency', 'PRO_ALK']",2
+Fold 56,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_IL1B', 'PRO_CCL3', 'PRO_IL18', 'PRO_ALK']",6
+Fold 57,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK']",7
+Fold 58,"['unstim_CD4Trm_Frequency', 'PRO_BLK', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",6
+Fold 59,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_LDLR', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_IL1B', 'PRO_IRF6']",7
+Fold 60,"['PRO_WWOX', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 61,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 62,"['PRO_LDLR', 'PRO_WWOX', 'PRO_FCGR1A', 'PRO_PPIB', 'PRO_IL18', 'PRO_ASAH1']",6
+Fold 63,"['unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_MGA', 'PRO_IL1B']",5
+Fold 64,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_BLK', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",8
+Fold 65,"['PRO_TLR4', 'PRO_ARL11', 'PRO_IL1B', 'PRO_ALK', 'PRO_IRF6']",5
+Fold 66,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_RAP2A']",5
+Fold 67,"['unstim_Tregnaive_150Nd_STAT5', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency']",3
+Fold 68,"['PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",3
+Fold 69,"['unstim_CD4Trm_Frequency', 'TNF_Granulocytes_155Gd_S6', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_SAMHD1', 'PRO_LDLR', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_IL18', 'PRO_ALK']",11
+Fold 70,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",10
+Fold 71,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_ITGAV|ITGB3', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ASAH1', 'PRO_ALK']",7
+Fold 72,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_SAMHD1', 'PRO_LDLR', 'PRO_TNFAIP3', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_IRF6']",9
+Fold 73,"['TNF_ncMC_167Er_ERK', 'PRO_LDLR', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",6
+Fold 74,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_WWOX', 'PRO_MTHFD2', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK', 'PRO_TOPBP1']",8
+Fold 75,"['unstim_Tregnaive_150Nd_STAT5', 'unstim_CD4Trm_Frequency', 'PRO_HSPH1', 'PRO_IL1B', 'PRO_ALK', 'PRO_RAP2A']",6
+Fold 76,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency']",2
+Fold 77,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'PRO_BLK', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",6
+Fold 78,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",5
+Fold 79,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_ASAH1']",5
+Fold 80,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_ARL11', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_GSTT1', 'PRO_BIRC3', 'PRO_ASAH1', 'PRO_ALK']",10
+Fold 81,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 82,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_IL18', 'PRO_ASAH1', 'PRO_ALK']",5
+Fold 83,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_IL1B', 'PRO_CCL3', 'PRO_PPIB', 'PRO_ALK']",7
+Fold 84,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_BLK', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_IL1B']",8
+Fold 85,"['unstim_CD4Trm_Frequency', 'PRO_LDLR', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_BIRC3', 'PRO_ALK']",7
+Fold 86,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_Th1_149Sm_CREB', 'PRO_LDLR', 'PRO_ITGAV|ITGB3', 'PRO_CTNNA3', 'PRO_IL1B', 'PRO_CCL3', 'PRO_FCRL3', 'PRO_ALK']",10
+Fold 87,"['PRO_LDLR', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3']",5
+Fold 88,"['unstim_CD4Trm_Frequency', 'PRO_IL1B', 'PRO_IRF6']",3
+Fold 89,"['unstim_CD4Trm_Frequency', 'PRO_HSPH1', 'PRO_IL1B', 'PRO_ALK']",4
+Fold 90,"['unstim_Th1naive_149Sm_CREB', 'unstim_Tregnaive_150Nd_STAT5', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'TNF_Granulocytes_155Gd_S6', 'TNF_ncMC_167Er_ERK', 'PRO_HSPH1', 'PRO_WWOX', 'PRO_CTNNA3', 'PRO_IL1B', 'PRO_CCL3', 'PRO_BIRC3', 'PRO_IL18', 'PRO_ALK']",14
+Fold 91,"['PRO_CNTN3', 'PRO_CTNNA3', 'PRO_IL1B', 'PRO_PPIB', 'PRO_ASAH1', 'PRO_IRF6']",6
+Fold 92,"['unstim_CD4Trm_Frequency', 'TNF_ncMC_167Er_ERK', 'TNF_Th1_149Sm_CREB', 'PRO_LDLR', 'PRO_TNFAIP3', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ALK']",8
+Fold 93,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_ASAH1', 'PRO_ALK']",5
+Fold 94,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency']",2
+Fold 95,['TNF_ncMC_167Er_ERK'],1
+Fold 96,"['unstim_CD4Tnaive_Frequency', 'unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_TNFAIP3', 'PRO_CTNNA3', 'PRO_ASAH1', 'PRO_ALK', 'PRO_IRF6']",8
+Fold 97,"['unstim_CD4Trm_Frequency', 'unstim_Tregnaive_Frequency', 'PRO_IL1B', 'PRO_CCL3', 'PRO_ALK']",5
+Fold 98,"['unstim_CD4Trm_Frequency', 'PRO_WWOX', 'PRO_IL1B', 'PRO_CCL3']",4
+Fold 99,"['PRO_HSPH1', 'PRO_IL1B', 'PRO_ALK']",3

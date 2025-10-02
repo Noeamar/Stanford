@@ -1,0 +1,4 @@
+,STABL Lasso,STABL ALasso,STABL XGBoost
+STABL Lasso,1.0,0.01,0.013
+STABL ALasso,0.018,1.0,0.0
+STABL XGBoost,0.013,0.0,1.0
