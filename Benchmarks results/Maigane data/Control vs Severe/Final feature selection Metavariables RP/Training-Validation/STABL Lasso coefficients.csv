@@ -1,0 +1,5 @@
+Feature,Feature importance
+Macrophages_M1-like_glandfront_area,0.13268821
+Macrophages_M1-like_stromal_area,0.13236539
+Macrophages_M1_M2_stromal_area,0.16858953
+CD4_T_cells_FoxP3+_glandfront_celldistance,0.5663569

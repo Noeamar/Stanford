@@ -1,0 +1,14 @@
+,Feature Name
+Feature n°1,CD8_T_cells_FoxP3+_glandfront_pP38
+Feature n°2,CD4_T_cells_HLA-DR+_stromal_PR
+Feature n°3,CD4_T_cells_HLA-DR+_stromal_TIM3
+Feature n°4,CD4_T_cells_CD80_CD86+_stromal_HLA-DR
+Feature n°5,NK_cells_CD56brCD16-_stromal_HLA-DR
+Feature n°6,Macrophages_M1_M2_glandfront_GranzymeB
+Feature n°7,Macrophages_MDSC_glandfront_pP38
+Feature n°8,Dendritic_Cells_CD86+_intragland_PR
+Feature n°9,NKT_glandfront_Ki67
+Feature n°10,Gland_mesenchymal_stromal_Ki67
+Feature n°11,Gland_fibroblast_glandfront_VEGF
+Feature n°12,NA_glandfront_Ki67
+Feature n°13,NA_glandfront_TIM3

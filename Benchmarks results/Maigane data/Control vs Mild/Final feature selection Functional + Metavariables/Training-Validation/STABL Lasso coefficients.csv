@@ -1,0 +1,12 @@
+Feature,Feature importance
+CD8_T_cells_FoxP3+_stromal_HLA-DR,0.05017363
+CD8_T_cells_HLA-DR+_glandfront_ERa,0.10299321
+CD8_T_cells_CD80_CD86+_glandfront_Ki67,0.04841854
+Macrophages_M1-like_stromal_GranzymeB,0.062616274
+Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB,0.0465389
+Gland_glandular_epithelium_glandfront_Ki67,0.057656426
+Gland_glandular_epithelium_intragland_Ki67,0.09927885
+Gland_fibroblast_intragland_TIM3,0.01220101
+CD4_T_cells_CD80_CD86+_stromal_area,0.2954522
+Macrophages_M1_M2_stromal_area,0.09567045
+CD4_T_cells_FoxP3+_stromal_eccentricity,0.12900051

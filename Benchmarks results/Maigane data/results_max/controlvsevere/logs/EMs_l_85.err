@@ -1,0 +1,408 @@
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/svm/_base.py:1237: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+
+real	554m10.241s
+user	3553m8.053s
+sys	202m2.773s

@@ -1,0 +1,16 @@
+,Feature Name
+Feature n°1,CD4_T_cells_FoxP3+_glandfront_VEGF
+Feature n°2,CD4_T_cells_FoxP3+_glandfront_TIM3
+Feature n°3,CD4_T_cells_HLA-DR+_stromal_TIM3
+Feature n°4,CD4_T_cells_HLA-DR+_stromal_HLA-DR
+Feature n°5,CD8_T_cells_HLA-DR+_glandfront_ERa
+Feature n°6,Macrophages_M1_M2_glandfront_GranzymeB
+Feature n°7,Macrophages_M1_M2_glandfront_HLA-DR
+Feature n°8,Neutrophils_glandfront_GranzymeB
+Feature n°9,NKT_glandfront_pP38
+Feature n°10,aSMA-br_mesenchymal_glandfront_ERa
+Feature n°11,Gland_glandular_epithelium_glandfront_Ki67
+Feature n°12,Gland_glandular_epithelium_intragland_Ki67
+Feature n°13,Gland_glandular_epithelium_intragland_HLA-DR
+Feature n°14,Gland_mesenchymal_intragland_Ki67
+Feature n°15,Gland_fibroblast_intragland_VEGF

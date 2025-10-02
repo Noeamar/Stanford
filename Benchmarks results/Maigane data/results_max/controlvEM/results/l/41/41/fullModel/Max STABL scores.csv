@@ -1,0 +1,197 @@
+,Max Proba
+CD4 T cells FoxP3+_glandfront_celldistance,0.872
+Macrophages M1-like_glandfront_area,0.8164
+Macrophages M1-like_stromal_area,0.7294
+Macrophages M1/M2_stromal_area,0.7264
+NKT_glandfront_area,0.6952
+CD4 T cells CD80/CD86+_glandfront_eccentricity,0.6634
+Gland mesenchymal_intragland_eccentricity,0.6356
+Macrophages MDSC_glandfront_eccentricity,0.6204
+NK cells CD56brCD16-TIM3hi_glandfront_eccentricity,0.6152
+CD8 T cells FoxP3+_intragland_area,0.6148
+Gland fibroblast_intragland_eccentricity,0.6112
+CD8 T cells CD11b+_glandfront_eccentricity,0.5814
+CD4 T cells CD80/CD86+_glandfront_celldistance,0.5284
+CD8 T cells CD11b+_glandfront_area,0.521
+CD8 T cells CD80/CD86+_glandfront_celldistance,0.487
+Gland fibroblast_glandfront_area,0.4634
+Neutrophils_glandfront_area,0.4632
+aSMA-br mesenchymal_stromal_area,0.4536
+CD8 T cells HLA-DR+_glandfront_area,0.451
+Dendritic Cells CD86+_glandfront_eccentricity,0.4418
+CD4 T cells CD80/CD86+_stromal_area,0.4374
+aSMA-br vascular endothelium_glandfront_area,0.436
+Stroma vascular endothelium_stromal_eccentricity,0.4354
+NK cells CD56brCD16-_stromal_area,0.4066
+CD8 T cells CD80/CD86+_stromal_area,0.3962
+CD8 T cells CD80/CD86+_glandfront_eccentricity,0.3916
+Macrophages M1/M2_glandfront_celldistance,0.3832
+Stroma vascular endothelium_glandfront_celldistance,0.3738
+Dendritic Cells CD209CD33dp_glandfront_eccentricity,0.3598
+Dendritic Cells CD86+_intragland_area,0.3582
+NA_glandfront_area,0.3566
+Gland vascular endothelium_glandfront_celldistance,0.35
+CD8 T cells CD11b+_intragland_area,0.3488
+NK cells CD56dimCD16+_stromal_area,0.3452
+Dendritic Cells CD33+_glandfront_celldistance,0.33
+aSMA-br fibroblast_glandfront_eccentricity,0.3292
+aSMA-br fibroblast_glandfront_celldistance,0.303
+Dendritic Cells CD209CD33dp_glandfront_area,0.3024
+Stroma fibroblast_glandfront_eccentricity,0.2972
+CD4 T cells CD11b+_glandfront_area,0.286
+Neutrophils_stromal_area,0.285
+Gland vascular endothelium_glandfront_area,0.2774
+NK cells CD56brCD16-_glandfront_area,0.2674
+CD8 T cells CD80/CD86+_stromal_eccentricity,0.2514
+Dendritic Cells CD33+_intragland_area,0.2472
+NA_glandfront_celldistance,0.2296
+Macrophages MDSC_glandfront_area,0.2294
+Stroma vascular endothelium_glandfront_area,0.2272
+NK cells CD56brCD16-TIM3hi_glandfront_celldistance,0.2218
+Dendritic Cells CD86+_stromal_eccentricity,0.2192
+CD8 T cells FoxP3+_glandfront_celldistance,0.2158
+CD8 T cells HLA-DR+_stromal_eccentricity,0.2112
+Macrophages M1/M2_glandfront_area,0.2092
+NK cells CD56brCD16-CD9hi_stromal_area,0.2092
+CD4 T cells FoxP3+_stromal_area,0.2084
+CD8 T cells HLA-DR+_glandfront_eccentricity,0.2006
+Neutrophils_glandfront_celldistance,0.2002
+CD8 T cells HLA-DR+_intragland_eccentricity,0.1982
+NK cells CD56brCD16-TIM3hi_stromal_area,0.1972
+Dendritic Cells CD33+_stromal_eccentricity,0.1918
+CD8 T cells FoxP3+_stromal_area,0.1914
+Dendritic Cells CD86CD33dp_glandfront_area,0.1862
+Dendritic Cells CD86CD33dp_glandfront_eccentricity,0.1804
+Dendritic Cells CD86CD33dp_glandfront_celldistance,0.1802
+CD4 T cells CD11b+_stromal_eccentricity,0.179
+NA_stromal_area,0.1768
+NKT_glandfront_celldistance,0.1768
+CD4 T cells HLA-DR+_stromal_eccentricity,0.1742
+Gland vascular endothelium_stromal_eccentricity,0.1718
+NK cells CD56dimCD16+_glandfront_area,0.171
+CD8 T cells CD11b+_stromal_area,0.1706
+aSMA-br mesenchymal_glandfront_eccentricity,0.1706
+Neutrophils_glandfront_eccentricity,0.1682
+aSMA-br fibroblast_glandfront_area,0.1676
+NK cells CD56dimCD16+CD9hi_stromal_area,0.1662
+CD4 T cells CD11b+_glandfront_celldistance,0.166
+Gland fibroblast_stromal_area,0.1622
+Dendritic Cells CD86CD33dp_stromal_area,0.16
+Macrophages M1/M2_stromal_eccentricity,0.1594
+CD8 T cells HLA-DR+_stromal_area,0.1576
+Macrophages M2-like_glandfront_celldistance,0.1566
+NK cells CD56brCD16-_glandfront_celldistance,0.154
+Stroma vascular endothelium_stromal_area,0.149
+Dendritic Cells CD86+_glandfront_celldistance,0.1472
+CD4 T cells HLA-DR+_intragland_area,0.1464
+Dendritic Cells CD209CD86dp_stromal_eccentricity,0.1446
+CD8 T cells HLA-DR+_glandfront_celldistance,0.1424
+Gland fibroblast_glandfront_celldistance,0.142
+Dendritic Cells CD209CD86dp_glandfront_area,0.1414
+CD4 T cells HLA-DR+_glandfront_celldistance,0.141
+Dendritic Cells CD209CD86dp_glandfront_celldistance,0.1404
+NK cells CD56dimCD16+_glandfront_celldistance,0.1404
+Macrophages MDSC_stromal_area,0.139
+CD4 T cells HLA-DR+_glandfront_eccentricity,0.1376
+Dendritic Cells CD33+_glandfront_area,0.137
+aSMA-br mesenchymal_glandfront_celldistance,0.1368
+NK cells CD56brCD16-TIM3hi_stromal_eccentricity,0.1366
+CD8 T cells CD80/CD86+_glandfront_area,0.136
+NK cells CD56dimCD16+_intragland_area,0.135
+Gland mesenchymal_glandfront_celldistance,0.131
+Macrophages MDSC_glandfront_celldistance,0.13
+CD8 T cells FoxP3+_glandfront_area,0.126
+NK cells CD56brCD16-CD9hi_glandfront_celldistance,0.1236
+Dendritic Cells CD86+_stromal_area,0.1218
+Dendritic Cells CD33+_glandfront_eccentricity,0.121
+CD8 T cells CD11b+_glandfront_celldistance,0.1184
+Macrophages M2-like_glandfront_eccentricity,0.1182
+Gland glandular epithelium_glandfront_area,0.1176
+NA_stromal_eccentricity,0.117
+CD8 T cells FoxP3+_glandfront_eccentricity,0.1158
+CD8 T cells HLA-DR+_intragland_area,0.1156
+CD4 T cells HLA-DR+_glandfront_area,0.1152
+CD4 T cells CD11b+_intragland_area,0.115
+CD8 T cells FoxP3+_stromal_eccentricity,0.1146
+CD8 T cells CD80/CD86+_intragland_eccentricity,0.1144
+NA_glandfront_eccentricity,0.1144
+Stroma fibroblast_glandfront_celldistance,0.1144
+aSMA-br vascular endothelium_glandfront_celldistance,0.1136
+CD4 T cells HLA-DR+_stromal_area,0.1128
+Gland mesenchymal_stromal_area,0.1106
+Gland fibroblast_stromal_eccentricity,0.1064
+Dendritic Cells CD209CD33dp_glandfront_celldistance,0.097
+NK cells CD56dimCD16+CD9hi_stromal_eccentricity,0.0966
+NK cells CD56brCD16-CD9hi_glandfront_area,0.0944
+NK cells CD56brCD16-_glandfront_eccentricity,0.094
+NK cells CD56dimCD16+_glandfront_eccentricity,0.0936
+NK cells CD56dimCD16+CD9hi_intragland_eccentricity,0.0934
+Gland mesenchymal_intragland_area,0.0926
+CD4 T cells FoxP3+_stromal_eccentricity,0.0908
+NK cells CD56brCD16-_stromal_eccentricity,0.0906
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_area,0.0868
+Dendritic Cells CD209CD86dp_glandfront_eccentricity,0.0868
+CD8 T cells CD11b+_stromal_eccentricity,0.0864
+Gland vascular endothelium_glandfront_eccentricity,0.0846
+Gland glandular epithelium_intragland_eccentricity,0.0818
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_eccentricity,0.08
+Dendritic Cells CD33+_stromal_area,0.0778
+Gland vascular endothelium_stromal_area,0.0764
+Macrophages M1-like_glandfront_celldistance,0.0748
+NK cells CD56dimCD16+CD9hi_glandfront_celldistance,0.0748
+Gland glandular epithelium_intragland_area,0.07
+NK cells CD56dimCD16+_intragland_eccentricity,0.069
+Dendritic Cells CD209CD33dp_stromal_area,0.0656
+CD4 T cells CD11b+_stromal_area,0.0654
+NK cells CD56brCD16-CD9hi_glandfront_eccentricity,0.0648
+Stroma fibroblast_glandfront_area,0.063
+NK cells CD56dimCD16+CD9hi_intragland_area,0.0612
+CD4 T cells CD80/CD86+_stromal_eccentricity,0.0574
+CD8 T cells CD80/CD86+_intragland_area,0.0572
+Stroma vascular endothelium_glandfront_eccentricity,0.0572
+CD4 T cells CD11b+_glandfront_eccentricity,0.0558
+Dendritic Cells CD86CD33dp_stromal_eccentricity,0.0558
+Dendritic Cells CD209CD86dp_stromal_area,0.0552
+Dendritic Cells CD33+_intragland_eccentricity,0.0536
+Macrophages M2-like_glandfront_area,0.0524
+NK cells CD56dimCD16+CD9hi_glandfront_area,0.0492
+Stroma mesenchymal_stromal_eccentricity,0.0476
+Neutrophils_stromal_eccentricity,0.0466
+Gland glandular epithelium_glandfront_celldistance,0.0458
+NK cells CD56brCD16-TIM3hi_glandfront_area,0.0454
+Dendritic Cells CD86+_glandfront_area,0.0448
+Gland fibroblast_intragland_area,0.0428
+Gland mesenchymal_stromal_eccentricity,0.0428
+Stroma fibroblast_stromal_area,0.0414
+CD4 T cells CD80/CD86+_glandfront_area,0.0368
+NKT_glandfront_eccentricity,0.0336
+Macrophages M1/M2_glandfront_eccentricity,0.0336
+NK cells CD56dimCD16+CD9hi_glandfront_eccentricity,0.0306
+CD4 T cells CD80/CD86+_intragland_area,0.0282
+Stroma mesenchymal_glandfront_celldistance,0.0232
+NK cells CD56dimCD16+_stromal_eccentricity,0.023
+Macrophages M1-like_stromal_eccentricity,0.0224
+Stroma fibroblast_stromal_eccentricity,0.0222
+Dendritic Cells CD209CD33dp_stromal_eccentricity,0.0218
+aSMA-br fibroblast_stromal_eccentricity,0.0182
+CD4 T cells FoxP3+_glandfront_eccentricity,0.0178
+CD4 T cells FoxP3+_glandfront_area,0.0162
+aSMA-br vascular endothelium_stromal_area,0.0152
+Gland glandular epithelium_glandfront_eccentricity,0.0146
+NK cells CD56brCD16-CD9hi_stromal_eccentricity,0.014
+CD4 T cells CD80/CD86+_intragland_eccentricity,0.013
+Stroma mesenchymal_glandfront_eccentricity,0.013
+aSMA-br mesenchymal_stromal_eccentricity,0.0122
+aSMA-br vascular endothelium_glandfront_eccentricity,0.0114
+Macrophages MDSC_stromal_eccentricity,0.011
+Gland mesenchymal_glandfront_area,0.0102
+Macrophages M2-like_stromal_eccentricity,0.0084
+aSMA-br mesenchymal_glandfront_area,0.0068
+aSMA-br vascular endothelium_stromal_eccentricity,0.0054
+Macrophages M2-like_stromal_area,0.0052
+Gland fibroblast_glandfront_eccentricity,0.0048
+Macrophages M1-like_glandfront_eccentricity,0.0038
+Gland mesenchymal_glandfront_eccentricity,0.003
+aSMA-br fibroblast_stromal_area,0.0018
+Stroma mesenchymal_glandfront_area,0.0008
+Stroma mesenchymal_stromal_area,0.0008

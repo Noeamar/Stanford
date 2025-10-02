@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/home/users/sabayev/MaiganeEM/controlvsevere/./sendOut.py", line 100, in <module>
+    postProcess(paramFilePath)
+  File "/home/users/sabayev/MaiganeEM/controlvsevere/./sendOut.py", line 83, in postProcess
+    run_end(paramFilePath,df,y,taskType)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/stabl/sherlock.py", line 121, in run_end
+    prd = prd[data.index]
+          ~~~^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 6249, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['slide1_P01endoIMC_mgd_UC183_3_3', 'slide3_P01endoIMC_mgd_UC55_2_2',\n       'slide11_P01endoIMC_mgd_UC740_2_2', 'slide33_P01endoIMC_mgd_UC566_2_5',\n       'slide5_P01endoIMC_mgd_NCB026_3_3', 'slide6_P01endoIMC_mgd_UC726_1_1',\n       'slide29_P01endoIMC_mgd_UC040_2_5', 'slide19_P01endoIMC_mgd_UC275_2_2',\n       'slide28_P01endoIMC_mgd_UC742_2_5', 'slide29_P01endoIMC_mgd_UC040_1_4',\n       ...\n       'slide2_P01endoIMC_mgd_CNC13_2_5', 'slide23_P01endoIMC_mgd_UC764_4_6',\n       'slide20_P01endoIMC_mgd_CNC25_1_4', 'slide28_P01endoIMC_mgd_CN066_1_1',\n       'slide8_P01endoIMC_mgd_CNC29_3_6', 'slide23_P01endoIMC_mgd_UC764_1_1',\n       'slide35_P01endoIMC_mgd_CNC15_3_3', 'slide41_P01endoIMC_mgd_CNC33_2_2',\n       'slide17_P01endoIMC_mgd_CNC19_3_6', 'slide26_P01endoIMC_mgd_UC095_3_3'],\n      dtype='object', length=188)] are in the [columns]"
+
+real	0m27.577s
+user	0m14.386s
+sys	0m2.838s

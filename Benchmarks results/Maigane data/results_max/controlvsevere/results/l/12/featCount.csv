@@ -1,0 +1,173 @@
+,0
+Macrophages M2-like_glandfront_cellfrequency,190
+Neutrophils_intragland_cellfrequency,190
+Gland mesenchymal_stromal_cellfrequency,190
+Gland glandular epithelium_intragland_cellfrequency,189
+aSMA-br fibroblast_stromal_cellfrequency,185
+Macrophages M1-like_glandfront_cellfrequency,184
+NA_intragland_cellfrequency,178
+Stroma epithelial stem_intragland_cellfrequency,172
+CD4 T cells FoxP3+_stromal_cellfrequency,171
+Dendritic Cells CD86CD33dp_stromal_cellfrequency,160
+Gland fibroblast_intragland_cellfrequency,159
+NK cells CD56brCD16-TIM3hi_stromal_cellfrequency,157
+NA_glandfront_cellfrequency,156
+B cells_stromal_cellfrequency,155
+aSMA-br epithelial stem_intragland_cellfrequency,155
+Gland vascular endothelium_intragland_cellfrequency,154
+Gland vascular endothelium_stromal_cellfrequency,153
+Macrophages M2-like_intragland_cellfrequency,152
+aSMA-br mesenchymal_intragland_cellfrequency,150
+NK cells CD56dimCD16+_glandfront_cellfrequency,149
+Gland epithelial stem_glandfront_cellfrequency,145
+aSMA-br epithelial stem_glandfront_cellfrequency,144
+Gland mesenchymal_intragland_cellfrequency,139
+NK cells CD56brCD16-CD9hi_stromal_cellfrequency,136
+CD4 T cells CD80/CD86+_stromal_cellfrequency,135
+Macrophages M1/M2_intragland_cellfrequency,135
+aSMA-br glandular epithelium_intragland_cellfrequency,134
+Macrophages M1/M2_stromal_cellfrequency,133
+NK cells CD56brCD16-TIM3hi_glandfront_cellfrequency,132
+Gland fibroblast_stromal_cellfrequency,132
+NKT_intragland_cellfrequency,129
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_cellfrequency,129
+Stroma mesenchymal_stromal_cellfrequency,128
+NK cells CD56dimCD16+CD9hi_intragland_cellfrequency,127
+NK cells CD56brCD16-NKG2AhiTIM3hi_intragland_cellfrequency,127
+B cells_intragland_cellfrequency,124
+aSMA-br glandular epithelium_stromal_cellfrequency,122
+Stroma mesenchymal_intragland_cellfrequency,120
+Stroma vascular endothelium_intragland_cellfrequency,119
+NK cells CD56brCD16-CD9hi_intragland_cellfrequency,117
+Stroma fibroblast_intragland_cellfrequency,117
+aSMA-br vascular endothelium_glandfront_cellfrequency,117
+Stroma epithelial stem_glandfront_cellfrequency,117
+NKT_stromal_cellfrequency,117
+CD8 T cells CD11b+_glandfront_cellfrequency,115
+CD8 T cells FoxP3+_intragland_cellfrequency,112
+CD4 T cells CD11b+_stromal_cellfrequency,111
+Gland glandular epithelium_glandfront_cellfrequency,109
+Macrophages M1-like_stromal_cellfrequency,107
+Dendritic Cells CD86CD33dp_intragland_cellfrequency,105
+CD8 T cells CD80/CD86+_glandfront_cellfrequency,102
+CD4 T cells CD80/CD86+_intragland_cellfrequency,100
+CD8 T cells CD11b+_intragland_cellfrequency,98
+Stroma glandular epithelium_intragland_cellfrequency,98
+Dendritic Cells CD33+_stromal_cellfrequency,92
+CD4 T cells CD80/CD86+_glandfront_cellfrequency,92
+Dendritic Cells CD209CD86dp_glandfront_cellfrequency,90
+CD8 T cells FoxP3+_glandfront_cellfrequency,89
+NK cells CD56brCD16-_intragland_cellfrequency,89
+CD8 T cells HLA-DR+_stromal_cellfrequency,87
+aSMA-br vascular endothelium_intragland_cellfrequency,87
+aSMA-br fibroblast_glandfront_cellfrequency,86
+Macrophages MDSC_intragland_cellfrequency,83
+NK cells CD56brCD16-NKG2Ahi_intragland_cellfrequency,83
+Dendritic Cells CD209CD33dp_stromal_cellfrequency,83
+CD8 T cells CD80/CD86+_stromal_cellfrequency,83
+NK cells CD56brCD16-NKG2AhiTIM3hi_glandfront_cellfrequency,82
+NK cells CD56brCD16-_glandfront_cellfrequency,80
+CD4 T cells FoxP3+_glandfront_cellfrequency,79
+NK cells CD56dimCD16+CD9hi_stromal_cellfrequency,79
+Dendritic Cells CD33+_glandfront_cellfrequency,78
+Stroma vascular endothelium_glandfront_cellfrequency,77
+Stroma glandular epithelium_glandfront_cellfrequency,77
+NK cells CD56dimCD16+CD9hi_glandfront_cellfrequency,75
+aSMA-br glandular epithelium_glandfront_cellfrequency,75
+aSMA-br fibroblast_intragland_cellfrequency,75
+NA_stromal_cellfrequency,73
+Macrophages MDSC_glandfront_cellfrequency,69
+NK cells CD56brCD16-TIM3hi_intragland_cellfrequency,69
+Dendritic Cells CD86CD33dp_glandfront_cellfrequency,67
+aSMA-br mesenchymal_stromal_cellfrequency,66
+Macrophages MDSC_stromal_cellfrequency,65
+Gland fibroblast_glandfront_cellfrequency,65
+Gland vascular endothelium_glandfront_cellfrequency,65
+Dendritic Cells CD86+_glandfront_cellfrequency,63
+B cells_glandfront_cellfrequency,63
+CD8 T cells CD11b+_stromal_cellfrequency,58
+Gland glandular epithelium_stromal_cellfrequency,58
+NK cells CD56dimCD16+_intragland_cellfrequency,57
+Stroma fibroblast_stromal_cellfrequency,56
+Dendritic Cells CD209CD33dp_intragland_cellfrequency,55
+NK cells CD56brCD16-_stromal_cellfrequency,54
+Dendritic Cells CD209CD33dp_glandfront_cellfrequency,53
+Stroma fibroblast_glandfront_cellfrequency,53
+aSMA-br mesenchymal_glandfront_cellfrequency,52
+CD8 T cells HLA-DR+_glandfront_cellfrequency,52
+Gland epithelial stem_stromal_cellfrequency,47
+NK cells CD56dimCD16+_stromal_cellfrequency,47
+Neutrophils_stromal_cellfrequency,46
+CD4 T cells HLA-DR+_glandfront_cellfrequency,46
+Gland epithelial stem_intragland_cellfrequency,45
+Dendritic Cells CD209CD86dp_stromal_cellfrequency,45
+Gland mesenchymal_glandfront_cellfrequency,44
+Dendritic Cells CD86+_stromal_cellfrequency,40
+NK cells CD56brCD16-NKG2Ahi_stromal_cellfrequency,40
+Macrophages M2-like_stromal_cellfrequency,37
+NK cells CD56brCD16-CD9hi_glandfront_cellfrequency,36
+CD4 T cells CD11b+_glandfront_cellfrequency,36
+CD8 T cells CD80/CD86+_intragland_cellfrequency,35
+CD4 T cells HLA-DR+_stromal_cellfrequency,35
+NKT_glandfront_cellfrequency,35
+Dendritic Cells CD86+_intragland_cellfrequency,34
+Macrophages M1/M2_glandfront_cellfrequency,33
+Stroma mesenchymal_glandfront_cellfrequency,29
+Dendritic Cells CD209CD86dp_intragland_cellfrequency,28
+Stroma vascular endothelium_stromal_cellfrequency,28
+Macrophages M1-like_intragland_cellfrequency,20
+Dendritic Cells CD33+_intragland_cellfrequency,20
+CD8 T cells HLA-DR+_intragland_cellfrequency,18
+NK cells CD56brCD16-NKG2Ahi_glandfront_cellfrequency,16
+CD8 T cells FoxP3+_stromal_cellfrequency,14
+aSMA-br vascular endothelium_stromal_cellfrequency,13
+CD4 T cells CD11b+_intragland_cellfrequency,13
+CD4 T cells HLA-DR+_intragland_cellfrequency,12
+aSMA-br epithelial stem_stromal_cellfrequency,11
+Neutrophils_glandfront_cellfrequency,6
+Stroma epithelial stem_stromal_cellfrequency,3
+Dendritic Cells CD86CD33dp_0_cellfrequency,0
+CD8 T cells CD11b+_0_cellfrequency,0
+Gland epithelial stem_0_cellfrequency,0
+Gland vascular endothelium_0_cellfrequency,0
+Stroma epithelial stem_0_cellfrequency,0
+Stroma mesenchymal_0_cellfrequency,0
+CD4 T cells CD11b+_0_cellfrequency,0
+aSMA-br epithelial stem_0_cellfrequency,0
+CD8 T cells CD80/CD86+_0_cellfrequency,0
+CD4 T cells CD80/CD86+_0_cellfrequency,0
+Stroma glandular epithelium_0_cellfrequency,0
+CD8 T cells HLA-DR+_0_cellfrequency,0
+aSMA-br glandular epithelium_0_cellfrequency,0
+CD4 T cells HLA-DR+_0_cellfrequency,0
+CD8 T cells FoxP3+_0_cellfrequency,0
+NA_0_cellfrequency,0
+CD4 T cells FoxP3+_intragland_cellfrequency,0
+CD4 T cells FoxP3+_0_cellfrequency,0
+Gland fibroblast_0_cellfrequency,0
+Gland mesenchymal_0_cellfrequency,0
+Stroma glandular epithelium_stromal_cellfrequency,0
+NK cells CD56brCD16-CD9hi_0_cellfrequency,0
+Dendritic Cells CD209CD86dp_0_cellfrequency,0
+Neutrophils_0_cellfrequency,0
+Dendritic Cells CD33+_0_cellfrequency,0
+NKT_0_cellfrequency,0
+Dendritic Cells CD86+_0_cellfrequency,0
+Macrophages MDSC_0_cellfrequency,0
+Macrophages M1/M2_0_cellfrequency,0
+aSMA-br fibroblast_0_cellfrequency,0
+Macrophages M2-like_0_cellfrequency,0
+Macrophages M1-like_0_cellfrequency,0
+aSMA-br mesenchymal_0_cellfrequency,0
+Stroma vascular endothelium_0_cellfrequency,0
+NK cells CD56dimCD16+CD9hi_0_cellfrequency,0
+NK cells CD56brCD16-TIM3hi_0_cellfrequency,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_0_cellfrequency,0
+aSMA-br vascular endothelium_0_cellfrequency,0
+NK cells CD56brCD16-NKG2Ahi_0_cellfrequency,0
+Gland glandular epithelium_0_cellfrequency,0
+NK cells CD56dimCD16+_0_cellfrequency,0
+NK cells CD56brCD16-_0_cellfrequency,0
+Stroma fibroblast_0_cellfrequency,0
+Dendritic Cells CD209CD33dp_0_cellfrequency,0
+B cells_0_cellfrequency,0

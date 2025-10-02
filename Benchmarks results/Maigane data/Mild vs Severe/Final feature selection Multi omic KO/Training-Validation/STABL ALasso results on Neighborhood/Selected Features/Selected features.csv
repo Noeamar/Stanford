@@ -1,0 +1,7 @@
+,Feature Name
+Feature n°1,CD8_T_cells_CD80_CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°2,Dendritic_Cells_CD86CD33dp_stromal_aggregatedNeighbors.Stroma.fibroblast
+Feature n°3,Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°4,Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast
+Feature n°5,Gland_fibroblast_stromal_aggregatedNeighbors.Stroma.fibroblast
+Feature n°6,Gland_vascular_endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium

@@ -1,0 +1,9 @@
+,Feature Name
+Feature n°1,CD4 T cells FoxP3+_glandfront_IFNg
+Feature n°2,CD8 T cells HLA-DR+_glandfront_NKG2C
+Feature n°3,CD8 T cells CD80/CD86+_glandfront_IFNg
+Feature n°4,Stroma fibroblast_glandfront_NKG2C
+Feature n°5,NK cells CD56dimCD16+_glandfront_NKG2A
+Feature n°6,Macrophages MDSC_glandfront_NKG2A
+Feature n°7,Gland glandular epithelium_glandfront_Ki67
+Feature n°8,Gland fibroblast_intragland_NKG2C

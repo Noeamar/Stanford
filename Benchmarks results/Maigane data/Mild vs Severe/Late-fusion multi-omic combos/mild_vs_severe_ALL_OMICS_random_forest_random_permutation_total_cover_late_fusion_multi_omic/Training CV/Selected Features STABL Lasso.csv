@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",2
+Fold 1,"['CD4_T_cells_FoxP3+_glandfront_TIM3', 'CD4_T_cells_FoxP3+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast']",2
+Fold 2,['Dendritic_Cells_CD86CD33dp_glandfront_GranzymeB'],1
+Fold 3,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_area', 'CD8_T_cells_HLA-DR+_stromal_area', 'Dendritic_Cells_CD209CD33dp_glandfront_area', 'CD4_T_cells_FoxP3+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_celldistance', 'aSMA-br_vascular_endothelium_glandfront_celldistance']",9
+Fold 4,['Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium'],1
+Fold 5,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_area']",5
+Fold 6,[],0
+Fold 7,"['CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency']",2
+Fold 8,[],0
+Fold 9,"['Gland_fibroblast_intragland_area', 'CD4_T_cells_HLA-DR+_stromal_eccentricity']",2
+Fold 10,[],0
+Fold 11,"['B_cells_intragland_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_CD80_CD86+_glandfront_cellfrequency', 'CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'Stroma_fibroblast_glandfront_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_glandfront_cellfrequency', 'NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Macrophages_MDSC_intragland_cellfrequency', 'Gland_glandular_epithelium_glandfront_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_area', 'Gland_mesenchymal_stromal_area', 'CD4_T_cells_HLA-DR+_glandfront_celldistance', 'CD8_T_cells_HLA-DR+_glandfront_celldistance']",15
+Fold 12,[],0
+Fold 13,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_glandfront_TIM3', 'Gland_glandular_epithelium_intragland_Ki67', 'CD4_T_cells_FoxP3+_glandfront_eccentricity', 'aSMA-br_vascular_endothelium_glandfront_celldistance']",7
+Fold 14,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'CD4_T_cells_CD80_CD86+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",4
+Fold 15,['CD8_T_cells_HLA-DR+_stromal_cellfrequency'],1
+Fold 16,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency', 'CD4_T_cells_FoxP3+_glandfront_VEGF', 'aSMA-br_mesenchymal_glandfront_ERa', 'Gland_glandular_epithelium_intragland_Ki67', 'CD4_T_cells_FoxP3+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity']",7
+Fold 17,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",2
+Fold 18,[],0
+Fold 19,"['CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Stroma_fibroblast_glandfront_cellfrequency', 'CD4_T_cells_HLA-DR+_glandfront_area', 'CD4_T_cells_CD80_CD86+_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M2-like_stromal_area', 'aSMA-br_mesenchymal_stromal_area', 'Gland_mesenchymal_stromal_area', 'CD8_T_cells_FoxP3+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_glandfront_celldistance', 'CD8_T_cells_HLA-DR+_glandfront_celldistance', 'NK_cells_CD56brCD16-TIM3hi_glandfront_celldistance', 'NK_cells_CD56brCD16-_glandfront_aggregatedNeighbors.NK.cells.CD56brCD16.NKG2Ahi', 'NK_cells_CD56brCD16-NKG2AhiTIM3hi_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",18
+Fold 20,"['CD8_T_cells_HLA-DR+_glandfront_PR', 'Gland_glandular_epithelium_intragland_Ki67', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_celldistance']",4
+Fold 21,['CD4_T_cells_HLA-DR+_stromal_HLA-DR'],1
+Fold 22,['CD8_T_cells_HLA-DR+_stromal_cellfrequency'],1
+Fold 23,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency', 'Gland_glandular_epithelium_intragland_Ki67', 'CD4_T_cells_FoxP3+_glandfront_eccentricity']",4
+Fold 24,['CD8_T_cells_HLA-DR+_stromal_cellfrequency'],1
+Fold 25,['Dendritic_Cells_CD209CD86dp_glandfront_celldistance'],1
+Fold 26,"['CD4_T_cells_FoxP3+_glandfront_area', 'CD4_T_cells_HLA-DR+_stromal_area', 'CD8_T_cells_HLA-DR+_glandfront_celldistance']",3
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,[],0

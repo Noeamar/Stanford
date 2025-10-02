@@ -1,0 +1,62 @@
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:112: RuntimeWarning: Degrees of freedom <= 0 for slice.
+  self.variances_ = np.nanvar(X, axis=0)
+/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/feature_selection/_variance_threshold.py:120: RuntimeWarning: All-NaN slice encountered
+  self.variances_ = np.nanmin(compare_arr, axis=0)
+joblib.externals.loky.process_executor._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/externals/loky/backend/queues.py", line 159, in _feed
+    obj_ = dumps(obj, reducers=reducers)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/externals/loky/backend/reduction.py", line 215, in dumps
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/externals/loky/backend/reduction.py", line 208, in dump
+    _LokyPickler(file, reducers=reducers, protocol=protocol).dump(obj)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/externals/cloudpickle/cloudpickle.py", line 1245, in dump
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/_memmapping_reducer.py", line 451, in __call__
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/numpy_pickle.py", line 553, in dump
+    NumpyPickler(f, protocol=protocol).dump(value)
+  File "/share/software/user/open/python/3.12.1/lib/python3.12/pickle.py", line 481, in dump
+    self.save(obj)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/numpy_pickle.py", line 352, in save
+    wrapper.write_array(obj, self)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/numpy_pickle.py", line 134, in write_array
+    pickler.file_handle.write(chunk.tobytes('C'))
+OSError: [Errno 12] Cannot allocate memory
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/users/sabayev/MaiganeEM/controlvsevere/./sendOut.py", line 98, in <module>
+    experiment(read_json(Path(path,"params.json")),args.idx,path)
+  File "/home/users/sabayev/MaiganeEM/controlvsevere/./sendOut.py", line 56, in experiment
+    results = single_omic_simple(
+              ^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/sklearn/utils/_testing.py", line 158, in wrapper
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/stabl/single_omic.py", line 139, in single_omic_simple
+    estimator.fit(X_train_std, y_train, groups=groups)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/stabl/stabl.py", line 1189, in fit
+    selected_variables = Parallel(
+                         ^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 2007, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 1650, in _get_outputs
+    yield from self._retrieve()
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 1754, in _retrieve
+    self._raise_error_fast()
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 1789, in _raise_error_fast
+    error_job.get_result(self.timeout)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 745, in get_result
+    return self._return_or_raise()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/joblib/parallel.py", line 763, in _return_or_raise
+    raise self._result
+_pickle.PicklingError: Could not pickle the task to send it to the workers.
+
+real	0m50.802s
+user	1m8.094s
+sys	0m35.892s
+slurmstepd: error: Detected 1 oom_kill event in StepId=4099761.batch. Some of the step tasks have been OOM Killed.

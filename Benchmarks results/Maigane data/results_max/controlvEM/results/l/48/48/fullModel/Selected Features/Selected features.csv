@@ -1,0 +1,8 @@
+,Feature Name
+Feature n°1,CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Stroma.fibroblast
+Feature n°2,Stroma vascular endothelium_glandfront_aggregatedNeighbors.Stroma.vascular.endothelium
+Feature n°3,Macrophages M1/M2_glandfront_aggregatedNeighbors.Macrophages.M1.like
+Feature n°4,Dendritic Cells CD209CD86dp_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°5,Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°6,aSMA-br mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°7,Gland glandular epithelium_intragland_aggregatedNeighbors.Gland.fibroblast

@@ -1,0 +1,14 @@
+,Feature Name
+Feature n°1,CD8_T_cells_HLA-DR+_stromal_area
+Feature n°2,NK_cells_CD56brCD16-CD9hi_glandfront_area
+Feature n°3,Macrophages_M2-like_glandfront_area
+Feature n°4,Gland_vascular_endothelium_glandfront_area
+Feature n°5,CD4_T_cells_FoxP3+_glandfront_eccentricity
+Feature n°6,CD4_T_cells_HLA-DR+_stromal_eccentricity
+Feature n°7,CD8_T_cells_HLA-DR+_glandfront_eccentricity
+Feature n°8,CD8_T_cells_CD11b+_stromal_eccentricity
+Feature n°9,Macrophages_M1_M2_glandfront_eccentricity
+Feature n°10,Dendritic_Cells_CD33+_stromal_eccentricity
+Feature n°11,CD8_T_cells_HLA-DR+_glandfront_celldistance
+Feature n°12,Dendritic_Cells_CD209CD86dp_glandfront_celldistance
+Feature n°13,Gland_vascular_endothelium_glandfront_celldistance

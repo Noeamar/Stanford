@@ -1,0 +1,11 @@
+,Feature Name
+Feature n°1,Macrophages_M1_M2_stromal_area
+Feature n°2,Dendritic_Cells_CD86+_intragland_area
+Feature n°3,NKT_glandfront_area
+Feature n°4,aSMA-br_mesenchymal_stromal_area
+Feature n°5,Gland_vascular_endothelium_glandfront_area
+Feature n°6,NK_cells_CD56brCD16-TIM3hi_glandfront_eccentricity
+Feature n°7,Macrophages_MDSC_glandfront_eccentricity
+Feature n°8,Dendritic_Cells_CD86CD33dp_glandfront_eccentricity
+Feature n°9,Gland_mesenchymal_intragland_eccentricity
+Feature n°10,CD4_T_cells_FoxP3+_glandfront_celldistance

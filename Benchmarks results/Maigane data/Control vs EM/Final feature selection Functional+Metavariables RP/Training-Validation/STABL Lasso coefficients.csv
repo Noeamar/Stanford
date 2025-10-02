@@ -1,0 +1,8 @@
+Feature,Feature importance
+Macrophages_M1_M2_stromal_GranzymeB,0.19144934
+NKT_glandfront_Ki67,0.085132234
+Gland_glandular_epithelium_glandfront_Ki67,0.088668965
+Macrophages_M1-like_glandfront_area,0.12505415
+Macrophages_M1-like_stromal_area,0.08345513
+Macrophages_M1_M2_stromal_area,0.09088445
+CD4_T_cells_FoxP3+_glandfront_celldistance,0.3353557

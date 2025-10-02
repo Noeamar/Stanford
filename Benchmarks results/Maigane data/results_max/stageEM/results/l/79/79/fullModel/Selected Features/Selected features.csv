@@ -1,0 +1,86 @@
+,Feature Name
+Feature n°1,CD4 T cells FoxP3+_glandfront_VEGF
+Feature n°2,CD4 T cells FoxP3+_glandfront_TIM3
+Feature n°3,CD4 T cells HLA-DR+_glandfront_GranzymeB
+Feature n°4,CD4 T cells HLA-DR+_glandfront_Ki67
+Feature n°5,CD8 T cells HLA-DR+_glandfront_ERa
+Feature n°6,CD8 T cells HLA-DR+_glandfront_Ki67
+Feature n°7,CD8 T cells HLA-DR+_stromal_Ki67
+Feature n°8,CD4 T cells CD80/CD86+_glandfront_ERa
+Feature n°9,CD4 T cells CD80/CD86+_stromal_Ki67
+Feature n°10,CD8 T cells CD80/CD86+_glandfront_Ki67
+Feature n°11,CD4 T cells CD11b+_glandfront_VEGF
+Feature n°12,CD8 T cells CD11b+_glandfront_pP38
+Feature n°13,CD8 T cells CD11b+_glandfront_VEGF
+Feature n°14,NK cells CD56brCD16-_stromal_GranzymeB
+Feature n°15,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_ERa
+Feature n°16,Macrophages M1/M2_stromal_VEGF
+Feature n°17,Macrophages MDSC_glandfront_GranzymeB
+Feature n°18,Dendritic Cells CD86+_glandfront_Ki67
+Feature n°19,Dendritic Cells CD86+_stromal_Ki67
+Feature n°20,Dendritic Cells CD86CD33dp_glandfront_VEGF
+Feature n°21,Dendritic Cells CD86CD33dp_glandfront_GranzymeB
+Feature n°22,Neutrophils_glandfront_GranzymeB
+Feature n°23,Neutrophils_stromal_Ki67
+Feature n°24,NKT_glandfront_pP38
+Feature n°25,aSMA-br mesenchymal_glandfront_ERa
+Feature n°26,Gland glandular epithelium_glandfront_Ki67
+Feature n°27,Gland glandular epithelium_intragland_Ki67
+Feature n°28,Gland fibroblast_intragland_VEGF
+Feature n°29,CD4 T cells HLA-DR+_glandfront_area
+Feature n°30,CD4 T cells HLA-DR+_stromal_area
+Feature n°31,CD8 T cells HLA-DR+_stromal_area
+Feature n°32,CD4 T cells CD80/CD86+_stromal_area
+Feature n°33,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_area
+Feature n°34,NK cells CD56dimCD16+CD9hi_intragland_area
+Feature n°35,Dendritic Cells CD209CD33dp_glandfront_area
+Feature n°36,Gland mesenchymal_stromal_area
+Feature n°37,NA_glandfront_area
+Feature n°38,CD4 T cells HLA-DR+_stromal_eccentricity
+Feature n°39,NK cells CD56dimCD16+_stromal_eccentricity
+Feature n°40,Gland glandular epithelium_intragland_eccentricity
+Feature n°41,CD4 T cells HLA-DR+_glandfront_celldistance
+Feature n°42,CD8 T cells HLA-DR+_glandfront_celldistance
+Feature n°43,NK cells CD56brCD16-TIM3hi_glandfront_celldistance
+Feature n°44,NK cells CD56dimCD16+CD9hi_glandfront_celldistance
+Feature n°45,Dendritic Cells CD209CD86dp_glandfront_celldistance
+Feature n°46,aSMA-br vascular endothelium_glandfront_celldistance
+Feature n°47,Gland glandular epithelium_glandfront_celldistance
+Feature n°48,CD8 T cells FoxP3+_intragland_cellfrequency
+Feature n°49,CD4 T cells HLA-DR+_stromal_cellfrequency
+Feature n°50,CD8 T cells HLA-DR+_stromal_cellfrequency
+Feature n°51,CD4 T cells CD80/CD86+_glandfront_cellfrequency
+Feature n°52,NK cells CD56dimCD16+_glandfront_cellfrequency
+Feature n°53,NK cells CD56brCD16-CD9hi_glandfront_cellfrequency
+Feature n°54,Macrophages M2-like_intragland_cellfrequency
+Feature n°55,Dendritic Cells CD209CD33dp_stromal_cellfrequency
+Feature n°56,Neutrophils_stromal_cellfrequency
+Feature n°57,NKT_stromal_cellfrequency
+Feature n°58,Gland vascular endothelium_intragland_cellfrequency
+Feature n°59,aSMA-br glandular epithelium_stromal_cellfrequency
+Feature n°60,CD4 T cells FoxP3+_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°61,CD8 T cells FoxP3+_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°62,CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°63,CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.Macrophages.M2.like
+Feature n°64,CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Gland.glandular.epithelium
+Feature n°65,CD8 T cells CD80/CD86+_intragland_aggregatedNeighbors.Gland.mesenchymal
+Feature n°66,CD8 T cells CD11b+_stromal_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°67,NK cells CD56brCD16-_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°68,NK cells CD56brCD16-CD9hi_glandfront_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°69,Macrophages M1/M2_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°70,Macrophages M1/M2_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium
+Feature n°71,Macrophages MDSC_glandfront_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°72,Macrophages MDSC_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°73,Dendritic Cells CD86+_glandfront_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°74,Dendritic Cells CD86+_stromal_aggregatedNeighbors.Macrophages.M1.like
+Feature n°75,Dendritic Cells CD209CD86dp_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°76,Dendritic Cells CD209CD33dp_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°77,Dendritic Cells CD86CD33dp_glandfront_aggregatedNeighbors.Macrophages.M1.like
+Feature n°78,Dendritic Cells CD86CD33dp_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°79,Neutrophils_glandfront_aggregatedNeighbors.Neutrophils
+Feature n°80,Neutrophils_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°81,NKT_glandfront_aggregatedNeighbors.Gland.mesenchymal
+Feature n°82,Gland mesenchymal_stromal_aggregatedNeighbors.Stroma.mesenchymal
+Feature n°83,Gland mesenchymal_stromal_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°84,Gland vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.fibroblast
+Feature n°85,NA_glandfront_aggregatedNeighbors.Stroma.fibroblast

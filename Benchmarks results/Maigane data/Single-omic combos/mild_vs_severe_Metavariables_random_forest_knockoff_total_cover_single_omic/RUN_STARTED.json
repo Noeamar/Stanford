@@ -1,0 +1,12 @@
+{
+  "label_mode": "mild_vs_severe",
+  "artificial_type": "knockoff",
+  "importance": "total_cover",
+  "model_chosen": "random_forest",
+  "n_splits": 30,
+  "test_size": 0.2,
+  "timestamp_start": "2025-09-15 20:17:09",
+  "omics_in_combo": [
+    "Metavariables"
+  ]
+}

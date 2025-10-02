@@ -1,0 +1,13 @@
+,Feature Name
+Feature n°1,CD8 T cells FoxP3+_stromal_HLA-DR
+Feature n°2,CD8 T cells HLA-DR+_glandfront_ERa
+Feature n°3,CD8 T cells CD80/CD86+_glandfront_VEGF
+Feature n°4,CD8 T cells CD80/CD86+_glandfront_GranzymeB
+Feature n°5,Stroma vascular endothelium_glandfront_Ki67
+Feature n°6,Macrophages M1-like_stromal_GranzymeB
+Feature n°7,Macrophages MDSC_glandfront_HLA-DR
+Feature n°8,Dendritic Cells CD33+_stromal_ERa
+Feature n°9,aSMA-br mesenchymal_glandfront_Ki67
+Feature n°10,Gland glandular epithelium_glandfront_Ki67
+Feature n°11,Gland fibroblast_intragland_HLA-DR
+Feature n°12,NA_glandfront_Ki67

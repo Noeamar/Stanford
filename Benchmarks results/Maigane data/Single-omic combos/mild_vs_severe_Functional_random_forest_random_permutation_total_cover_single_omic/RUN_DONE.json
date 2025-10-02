@@ -1,0 +1,13 @@
+{
+  "label_mode": "mild_vs_severe",
+  "artificial_type": "random_permutation",
+  "importance": "total_cover",
+  "model_chosen": "random_forest",
+  "n_splits": 30,
+  "test_size": 0.2,
+  "timestamp_start": "2025-09-15 18:32:05",
+  "omics_in_combo": [
+    "Functional"
+  ],
+  "timestamp_end": "2025-09-15 19:28:27"
+}

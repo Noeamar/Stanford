@@ -1,0 +1,1345 @@
+,0
+NKT_glandfront_Ki67,31
+NA_glandfront_Ki67,18
+Gland fibroblast_intragland_VEGF,5
+Macrophages M1/M2_stromal_GranzymeB,3
+Gland vascular endothelium_glandfront_VEGF,3
+Macrophages M1/M2_stromal_HLA-DR,2
+NK cells CD56brCD16-_stromal_HLA-DR,2
+NK cells CD56brCD16-TIM3hi_glandfront_VEGF,1
+CD4 T cells CD80/CD86+_stromal_GranzymeB,1
+CD4 T cells CD80/CD86+_stromal_ERa,1
+Gland fibroblast_intragland_GranzymeB,1
+Dendritic Cells CD209CD33dp_stromal_GranzymeB,1
+Gland fibroblast_glandfront_VEGF,1
+Dendritic Cells CD86+_stromal_PR,0
+Dendritic Cells CD86+_stromal_ERa,0
+Dendritic Cells CD86+_stromal_IFNg,0
+Dendritic Cells CD86+_stromal_VEGF,0
+Dendritic Cells CD86+_stromal_pP38,0
+CD4 T cells FoxP3+_0_ERa,0
+Dendritic Cells CD86+_intragland_Dx,0
+Dendritic Cells CD86+_intragland_patient_id,0
+Dendritic Cells CD86+_intragland_HLA-DR,0
+Dendritic Cells CD86+_stromal_Ki67,0
+Dendritic Cells CD86+_intragland_CD27,0
+Dendritic Cells CD86+_intragland_NKG2C,0
+Dendritic Cells CD86+_intragland_NKG2A,0
+Dendritic Cells CD86+_intragland_TIM3,0
+Dendritic Cells CD86+_intragland_Ki67,0
+Dendritic Cells CD86+_stromal_GranzymeB,0
+Dendritic Cells CD86+_stromal_CD27,0
+Dendritic Cells CD86+_stromal_TIM3,0
+Dendritic Cells CD86+_stromal_NKG2A,0
+Dendritic Cells CD33+_0_NKG2C,0
+Dendritic Cells CD33+_0_NKG2A,0
+Dendritic Cells CD33+_0_TIM3,0
+Dendritic Cells CD33+_0_Ki67,0
+Dendritic Cells CD33+_0_GranzymeB,0
+Dendritic Cells CD33+_0_VEGF,0
+Dendritic Cells CD33+_0_IFNg,0
+Dendritic Cells CD33+_0_pP38,0
+Dendritic Cells CD33+_0_PR,0
+Dendritic Cells CD33+_0_ERa,0
+Dendritic Cells CD86+_stromal_Dx,0
+Dendritic Cells CD86+_stromal_patient_id,0
+Dendritic Cells CD86+_stromal_HLA-DR,0
+Dendritic Cells CD86+_intragland_VEGF,0
+Dendritic Cells CD86+_stromal_NKG2C,0
+Dendritic Cells CD86+_intragland_GranzymeB,0
+Dendritic Cells CD86+_intragland_PR,0
+Dendritic Cells CD86+_intragland_IFNg,0
+Macrophages MDSC_stromal_Dx,0
+Dendritic Cells CD86+_0_TIM3,0
+Dendritic Cells CD86+_0_Ki67,0
+Dendritic Cells CD86+_0_GranzymeB,0
+Dendritic Cells CD86+_0_VEGF,0
+Dendritic Cells CD86+_0_IFNg,0
+Dendritic Cells CD86+_0_pP38,0
+Dendritic Cells CD86+_0_PR,0
+Dendritic Cells CD86+_0_ERa,0
+Macrophages MDSC_stromal_patient_id,0
+Dendritic Cells CD86+_0_NKG2C,0
+Macrophages MDSC_stromal_HLA-DR,0
+Macrophages MDSC_stromal_CD27,0
+Macrophages MDSC_stromal_NKG2C,0
+Macrophages MDSC_stromal_NKG2A,0
+Macrophages MDSC_stromal_TIM3,0
+Macrophages MDSC_stromal_Ki67,0
+Macrophages MDSC_stromal_GranzymeB,0
+Macrophages MDSC_stromal_VEGF,0
+Dendritic Cells CD86+_0_NKG2A,0
+Dendritic Cells CD86+_0_CD27,0
+Dendritic Cells CD86+_intragland_pP38,0
+Dendritic Cells CD86+_glandfront_TIM3,0
+Dendritic Cells CD33+_0_HLA-DR,0
+Dendritic Cells CD86+_intragland_ERa,0
+Dendritic Cells CD86+_glandfront_Dx,0
+Dendritic Cells CD86+_glandfront_patient_id,0
+Dendritic Cells CD86+_glandfront_HLA-DR,0
+Dendritic Cells CD86+_glandfront_CD27,0
+Dendritic Cells CD86+_glandfront_NKG2C,0
+Dendritic Cells CD86+_glandfront_NKG2A,0
+Dendritic Cells CD86+_glandfront_Ki67,0
+Dendritic Cells CD86+_0_HLA-DR,0
+Dendritic Cells CD86+_glandfront_GranzymeB,0
+Dendritic Cells CD86+_glandfront_VEGF,0
+Dendritic Cells CD86+_glandfront_IFNg,0
+Dendritic Cells CD86+_glandfront_pP38,0
+Dendritic Cells CD86+_glandfront_PR,0
+Dendritic Cells CD86+_glandfront_ERa,0
+Dendritic Cells CD86+_0_Dx,0
+Dendritic Cells CD86+_0_patient_id,0
+Dendritic Cells CD33+_0_CD27,0
+Dendritic Cells CD33+_glandfront_pP38,0
+Dendritic Cells CD33+_0_patient_id,0
+Dendritic Cells CD209CD86dp_stromal_IFNg,0
+Dendritic Cells CD209CD86dp_stromal_PR,0
+Dendritic Cells CD209CD86dp_stromal_ERa,0
+Dendritic Cells CD209CD86dp_glandfront_Dx,0
+Dendritic Cells CD209CD86dp_glandfront_patient_id,0
+Dendritic Cells CD209CD86dp_glandfront_HLA-DR,0
+Dendritic Cells CD209CD86dp_glandfront_CD27,0
+Dendritic Cells CD209CD86dp_glandfront_NKG2C,0
+Dendritic Cells CD209CD86dp_glandfront_NKG2A,0
+Dendritic Cells CD209CD86dp_glandfront_TIM3,0
+Dendritic Cells CD209CD86dp_glandfront_Ki67,0
+Dendritic Cells CD209CD86dp_glandfront_GranzymeB,0
+Dendritic Cells CD209CD86dp_glandfront_VEGF,0
+Dendritic Cells CD209CD86dp_glandfront_IFNg,0
+Dendritic Cells CD209CD86dp_glandfront_pP38,0
+Dendritic Cells CD209CD86dp_glandfront_PR,0
+Dendritic Cells CD209CD86dp_glandfront_ERa,0
+Dendritic Cells CD33+_stromal_Dx,0
+Dendritic Cells CD209CD86dp_stromal_pP38,0
+Dendritic Cells CD209CD86dp_stromal_VEGF,0
+Dendritic Cells CD33+_0_Dx,0
+Dendritic Cells CD209CD86dp_stromal_GranzymeB,0
+Dendritic Cells CD209CD33dp_glandfront_NKG2A,0
+Dendritic Cells CD209CD33dp_glandfront_TIM3,0
+Dendritic Cells CD209CD33dp_glandfront_Ki67,0
+Dendritic Cells CD209CD33dp_glandfront_GranzymeB,0
+Dendritic Cells CD209CD33dp_glandfront_VEGF,0
+Dendritic Cells CD209CD33dp_glandfront_IFNg,0
+Dendritic Cells CD209CD33dp_glandfront_pP38,0
+Dendritic Cells CD209CD33dp_glandfront_PR,0
+Dendritic Cells CD209CD33dp_glandfront_ERa,0
+Dendritic Cells CD209CD86dp_stromal_Dx,0
+Dendritic Cells CD209CD86dp_stromal_patient_id,0
+Dendritic Cells CD209CD86dp_stromal_HLA-DR,0
+Dendritic Cells CD209CD86dp_stromal_CD27,0
+Dendritic Cells CD209CD86dp_stromal_NKG2C,0
+Dendritic Cells CD209CD86dp_stromal_NKG2A,0
+Dendritic Cells CD209CD86dp_stromal_TIM3,0
+Dendritic Cells CD209CD86dp_stromal_Ki67,0
+Dendritic Cells CD33+_stromal_patient_id,0
+Dendritic Cells CD33+_stromal_HLA-DR,0
+Dendritic Cells CD33+_stromal_CD27,0
+Dendritic Cells CD33+_stromal_NKG2C,0
+Dendritic Cells CD33+_intragland_pP38,0
+Dendritic Cells CD33+_intragland_PR,0
+Dendritic Cells CD33+_intragland_ERa,0
+Dendritic Cells CD33+_glandfront_Dx,0
+Dendritic Cells CD33+_glandfront_patient_id,0
+Dendritic Cells CD33+_glandfront_HLA-DR,0
+Dendritic Cells CD33+_glandfront_CD27,0
+Dendritic Cells CD33+_glandfront_NKG2C,0
+Dendritic Cells CD33+_glandfront_NKG2A,0
+Dendritic Cells CD33+_glandfront_TIM3,0
+Dendritic Cells CD33+_glandfront_Ki67,0
+Dendritic Cells CD33+_glandfront_GranzymeB,0
+Dendritic Cells CD33+_glandfront_VEGF,0
+Dendritic Cells CD33+_glandfront_IFNg,0
+Macrophages MDSC_stromal_pP38,0
+Dendritic Cells CD33+_glandfront_PR,0
+Dendritic Cells CD33+_glandfront_ERa,0
+Dendritic Cells CD33+_intragland_IFNg,0
+Dendritic Cells CD33+_intragland_VEGF,0
+Dendritic Cells CD33+_intragland_GranzymeB,0
+Dendritic Cells CD33+_stromal_PR,0
+Dendritic Cells CD33+_stromal_NKG2A,0
+Dendritic Cells CD33+_stromal_TIM3,0
+Dendritic Cells CD33+_stromal_Ki67,0
+Dendritic Cells CD33+_stromal_GranzymeB,0
+Dendritic Cells CD33+_stromal_VEGF,0
+Dendritic Cells CD33+_stromal_IFNg,0
+Dendritic Cells CD33+_stromal_pP38,0
+Dendritic Cells CD33+_stromal_ERa,0
+Dendritic Cells CD33+_intragland_Ki67,0
+Dendritic Cells CD33+_intragland_Dx,0
+Dendritic Cells CD33+_intragland_patient_id,0
+Dendritic Cells CD33+_intragland_HLA-DR,0
+Dendritic Cells CD33+_intragland_CD27,0
+Dendritic Cells CD33+_intragland_NKG2C,0
+Dendritic Cells CD33+_intragland_NKG2A,0
+Dendritic Cells CD33+_intragland_TIM3,0
+Macrophages MDSC_stromal_IFNg,0
+Macrophages MDSC_glandfront_HLA-DR,0
+Macrophages MDSC_stromal_PR,0
+NK cells CD56brCD16-CD9hi_stromal_TIM3,0
+NK cells CD56brCD16-CD9hi_stromal_GranzymeB,0
+NK cells CD56brCD16-CD9hi_stromal_VEGF,0
+NK cells CD56brCD16-CD9hi_stromal_IFNg,0
+NK cells CD56brCD16-CD9hi_stromal_pP38,0
+NK cells CD56brCD16-CD9hi_stromal_PR,0
+NK cells CD56brCD16-CD9hi_stromal_ERa,0
+NK cells CD56brCD16-CD9hi_glandfront_Dx,0
+NK cells CD56brCD16-CD9hi_glandfront_patient_id,0
+NK cells CD56brCD16-CD9hi_glandfront_HLA-DR,0
+NK cells CD56brCD16-CD9hi_glandfront_CD27,0
+NK cells CD56brCD16-CD9hi_glandfront_NKG2C,0
+NK cells CD56brCD16-CD9hi_glandfront_NKG2A,0
+NK cells CD56brCD16-CD9hi_glandfront_TIM3,0
+NK cells CD56brCD16-CD9hi_glandfront_Ki67,0
+NK cells CD56brCD16-CD9hi_glandfront_GranzymeB,0
+NK cells CD56brCD16-CD9hi_glandfront_VEGF,0
+NK cells CD56brCD16-CD9hi_glandfront_IFNg,0
+NK cells CD56brCD16-CD9hi_stromal_Ki67,0
+NK cells CD56brCD16-CD9hi_stromal_NKG2A,0
+Macrophages M1-like_stromal_ERa,0
+NK cells CD56brCD16-CD9hi_stromal_NKG2C,0
+Macrophages M1-like_glandfront_patient_id,0
+Macrophages M1-like_glandfront_HLA-DR,0
+Macrophages M1-like_glandfront_CD27,0
+Macrophages M1-like_glandfront_NKG2C,0
+Macrophages M1-like_glandfront_NKG2A,0
+Macrophages M1-like_glandfront_TIM3,0
+Macrophages M1-like_glandfront_Ki67,0
+Macrophages M1-like_glandfront_GranzymeB,0
+Macrophages M1-like_glandfront_VEGF,0
+Macrophages M1-like_glandfront_IFNg,0
+Macrophages M1-like_glandfront_pP38,0
+Macrophages M1-like_glandfront_PR,0
+Macrophages M1-like_glandfront_ERa,0
+NK cells CD56brCD16-CD9hi_stromal_Dx,0
+NK cells CD56brCD16-CD9hi_stromal_patient_id,0
+NK cells CD56brCD16-CD9hi_stromal_HLA-DR,0
+NK cells CD56brCD16-CD9hi_stromal_CD27,0
+NK cells CD56brCD16-CD9hi_glandfront_pP38,0
+NK cells CD56brCD16-CD9hi_glandfront_PR,0
+NK cells CD56brCD16-CD9hi_glandfront_ERa,0
+NK cells CD56dimCD16+CD9hi_stromal_Dx,0
+NK cells CD56dimCD16+CD9hi_intragland_Ki67,0
+NK cells CD56dimCD16+CD9hi_intragland_GranzymeB,0
+NK cells CD56dimCD16+CD9hi_intragland_VEGF,0
+NK cells CD56dimCD16+CD9hi_intragland_IFNg,0
+NK cells CD56dimCD16+CD9hi_intragland_pP38,0
+NK cells CD56dimCD16+CD9hi_intragland_PR,0
+NK cells CD56dimCD16+CD9hi_intragland_ERa,0
+NK cells CD56dimCD16+CD9hi_glandfront_Dx,0
+NK cells CD56dimCD16+CD9hi_glandfront_patient_id,0
+NK cells CD56dimCD16+CD9hi_glandfront_HLA-DR,0
+NK cells CD56dimCD16+CD9hi_glandfront_CD27,0
+NK cells CD56dimCD16+CD9hi_glandfront_NKG2C,0
+NK cells CD56dimCD16+CD9hi_glandfront_NKG2A,0
+NK cells CD56dimCD16+CD9hi_glandfront_TIM3,0
+NK cells CD56dimCD16+CD9hi_glandfront_Ki67,0
+NK cells CD56dimCD16+CD9hi_glandfront_GranzymeB,0
+NK cells CD56dimCD16+CD9hi_glandfront_VEGF,0
+NK cells CD56dimCD16+CD9hi_intragland_TIM3,0
+NK cells CD56dimCD16+CD9hi_intragland_NKG2A,0
+NK cells CD56dimCD16+CD9hi_intragland_NKG2C,0
+NK cells CD56dimCD16+CD9hi_stromal_GranzymeB,0
+NK cells CD56dimCD16+CD9hi_stromal_patient_id,0
+NK cells CD56dimCD16+CD9hi_stromal_HLA-DR,0
+NK cells CD56dimCD16+CD9hi_stromal_CD27,0
+NK cells CD56dimCD16+CD9hi_stromal_NKG2C,0
+NK cells CD56dimCD16+CD9hi_stromal_NKG2A,0
+NK cells CD56dimCD16+CD9hi_stromal_TIM3,0
+NK cells CD56dimCD16+CD9hi_stromal_Ki67,0
+NK cells CD56dimCD16+CD9hi_stromal_VEGF,0
+NK cells CD56dimCD16+CD9hi_intragland_CD27,0
+NK cells CD56dimCD16+CD9hi_stromal_IFNg,0
+NK cells CD56dimCD16+CD9hi_stromal_pP38,0
+NK cells CD56dimCD16+CD9hi_stromal_PR,0
+NK cells CD56dimCD16+CD9hi_stromal_ERa,0
+NK cells CD56dimCD16+CD9hi_intragland_Dx,0
+NK cells CD56dimCD16+CD9hi_intragland_patient_id,0
+NK cells CD56dimCD16+CD9hi_intragland_HLA-DR,0
+Macrophages M1-like_glandfront_Dx,0
+Macrophages M1-like_stromal_PR,0
+Macrophages MDSC_stromal_ERa,0
+Macrophages M1/M2_stromal_TIM3,0
+Macrophages M1/M2_stromal_VEGF,0
+Macrophages M1/M2_stromal_IFNg,0
+Macrophages M1/M2_stromal_pP38,0
+Macrophages M1/M2_stromal_PR,0
+Macrophages M1/M2_stromal_ERa,0
+Macrophages M1/M2_glandfront_Dx,0
+Macrophages M1/M2_glandfront_patient_id,0
+Macrophages M1/M2_glandfront_HLA-DR,0
+Macrophages M1/M2_glandfront_CD27,0
+Macrophages M1/M2_glandfront_NKG2C,0
+Macrophages M1/M2_glandfront_NKG2A,0
+Macrophages M1/M2_glandfront_TIM3,0
+Macrophages M1/M2_glandfront_Ki67,0
+Macrophages M1/M2_glandfront_GranzymeB,0
+Macrophages M1/M2_glandfront_VEGF,0
+Macrophages M1/M2_glandfront_IFNg,0
+Macrophages M1/M2_glandfront_pP38,0
+Macrophages M1/M2_stromal_Ki67,0
+Macrophages M1/M2_stromal_NKG2A,0
+Macrophages M1-like_stromal_pP38,0
+Macrophages M1/M2_stromal_NKG2C,0
+Macrophages MDSC_glandfront_Dx,0
+Macrophages MDSC_glandfront_patient_id,0
+Dendritic Cells CD209CD33dp_glandfront_CD27,0
+Macrophages MDSC_glandfront_CD27,0
+Macrophages MDSC_glandfront_NKG2C,0
+Macrophages MDSC_glandfront_NKG2A,0
+Macrophages MDSC_glandfront_TIM3,0
+Macrophages MDSC_glandfront_Ki67,0
+Macrophages MDSC_glandfront_GranzymeB,0
+Macrophages MDSC_glandfront_VEGF,0
+Macrophages MDSC_glandfront_IFNg,0
+Macrophages MDSC_glandfront_pP38,0
+Macrophages MDSC_glandfront_PR,0
+Macrophages MDSC_glandfront_ERa,0
+Macrophages M1/M2_stromal_Dx,0
+Macrophages M1/M2_stromal_patient_id,0
+Macrophages M1/M2_stromal_CD27,0
+Macrophages M1/M2_glandfront_PR,0
+Macrophages M1/M2_glandfront_ERa,0
+Macrophages M2-like_stromal_Dx,0
+Macrophages M2-like_stromal_patient_id,0
+Macrophages M2-like_glandfront_GranzymeB,0
+Macrophages M2-like_glandfront_VEGF,0
+Macrophages M2-like_glandfront_IFNg,0
+Macrophages M2-like_glandfront_pP38,0
+Macrophages M2-like_glandfront_PR,0
+Macrophages M2-like_glandfront_ERa,0
+Macrophages M1-like_stromal_Dx,0
+Macrophages M1-like_stromal_patient_id,0
+Macrophages M1-like_stromal_HLA-DR,0
+Macrophages M1-like_stromal_CD27,0
+Macrophages M1-like_stromal_NKG2C,0
+Macrophages M1-like_stromal_NKG2A,0
+Macrophages M1-like_stromal_TIM3,0
+Macrophages M1-like_stromal_Ki67,0
+Macrophages M1-like_stromal_GranzymeB,0
+Macrophages M1-like_stromal_VEGF,0
+Macrophages M1-like_stromal_IFNg,0
+Macrophages M2-like_glandfront_Ki67,0
+Macrophages M2-like_glandfront_TIM3,0
+Macrophages M2-like_glandfront_NKG2A,0
+Macrophages M2-like_stromal_VEGF,0
+Macrophages M2-like_stromal_HLA-DR,0
+Macrophages M2-like_stromal_CD27,0
+Macrophages M2-like_stromal_NKG2C,0
+Macrophages M2-like_stromal_NKG2A,0
+Macrophages M2-like_stromal_TIM3,0
+Macrophages M2-like_stromal_Ki67,0
+Macrophages M2-like_stromal_GranzymeB,0
+Macrophages M2-like_stromal_IFNg,0
+Macrophages M2-like_glandfront_NKG2C,0
+Macrophages M2-like_stromal_pP38,0
+Macrophages M2-like_stromal_PR,0
+Macrophages M2-like_stromal_ERa,0
+Macrophages M2-like_glandfront_Dx,0
+Macrophages M2-like_glandfront_patient_id,0
+Macrophages M2-like_glandfront_HLA-DR,0
+Macrophages M2-like_glandfront_CD27,0
+Dendritic Cells CD209CD33dp_glandfront_NKG2C,0
+Dendritic Cells CD209CD33dp_stromal_PR,0
+Dendritic Cells CD209CD33dp_glandfront_HLA-DR,0
+Gland mesenchymal_stromal_IFNg,0
+Gland mesenchymal_stromal_PR,0
+Gland mesenchymal_stromal_ERa,0
+Gland mesenchymal_intragland_Dx,0
+Gland mesenchymal_intragland_patient_id,0
+Gland mesenchymal_intragland_HLA-DR,0
+Gland mesenchymal_intragland_CD27,0
+Gland mesenchymal_intragland_NKG2C,0
+Gland mesenchymal_intragland_NKG2A,0
+Gland mesenchymal_intragland_TIM3,0
+Gland mesenchymal_intragland_Ki67,0
+Gland mesenchymal_intragland_GranzymeB,0
+Gland mesenchymal_intragland_VEGF,0
+Gland mesenchymal_intragland_IFNg,0
+Gland mesenchymal_intragland_pP38,0
+Gland mesenchymal_intragland_PR,0
+Gland mesenchymal_intragland_ERa,0
+Gland mesenchymal_glandfront_Dx,0
+Gland mesenchymal_stromal_pP38,0
+Gland mesenchymal_stromal_VEGF,0
+Gland mesenchymal_glandfront_HLA-DR,0
+Gland mesenchymal_stromal_GranzymeB,0
+Gland fibroblast_glandfront_NKG2C,0
+Gland fibroblast_glandfront_NKG2A,0
+Gland fibroblast_glandfront_TIM3,0
+Gland fibroblast_glandfront_Ki67,0
+Gland fibroblast_glandfront_GranzymeB,0
+Gland fibroblast_glandfront_IFNg,0
+Gland fibroblast_glandfront_pP38,0
+Gland fibroblast_glandfront_PR,0
+Gland fibroblast_glandfront_ERa,0
+Gland mesenchymal_stromal_Dx,0
+Gland mesenchymal_stromal_patient_id,0
+Gland mesenchymal_stromal_HLA-DR,0
+Gland mesenchymal_stromal_CD27,0
+Gland mesenchymal_stromal_NKG2C,0
+Gland mesenchymal_stromal_NKG2A,0
+Gland mesenchymal_stromal_TIM3,0
+Gland mesenchymal_stromal_Ki67,0
+Gland mesenchymal_glandfront_patient_id,0
+Gland mesenchymal_glandfront_CD27,0
+Dendritic Cells CD209CD33dp_glandfront_patient_id,0
+Gland glandular epithelium_intragland_IFNg,0
+Gland glandular epithelium_intragland_PR,0
+Gland glandular epithelium_intragland_ERa,0
+Gland glandular epithelium_glandfront_Dx,0
+Gland glandular epithelium_glandfront_patient_id,0
+Gland glandular epithelium_glandfront_HLA-DR,0
+Gland glandular epithelium_glandfront_CD27,0
+Gland glandular epithelium_glandfront_NKG2C,0
+Gland glandular epithelium_glandfront_NKG2A,0
+Gland glandular epithelium_glandfront_TIM3,0
+Gland glandular epithelium_glandfront_Ki67,0
+Gland glandular epithelium_glandfront_GranzymeB,0
+Gland glandular epithelium_glandfront_VEGF,0
+Gland glandular epithelium_glandfront_IFNg,0
+Gland glandular epithelium_glandfront_pP38,0
+Gland glandular epithelium_glandfront_PR,0
+Gland glandular epithelium_glandfront_ERa,0
+aSMA-br vascular endothelium_stromal_Dx,0
+Gland glandular epithelium_intragland_pP38,0
+Gland glandular epithelium_intragland_VEGF,0
+Gland mesenchymal_glandfront_NKG2C,0
+Gland glandular epithelium_intragland_GranzymeB,0
+Gland mesenchymal_glandfront_NKG2A,0
+Gland mesenchymal_glandfront_TIM3,0
+Gland mesenchymal_glandfront_Ki67,0
+Gland mesenchymal_glandfront_GranzymeB,0
+Gland mesenchymal_glandfront_VEGF,0
+Gland mesenchymal_glandfront_IFNg,0
+Gland mesenchymal_glandfront_pP38,0
+Gland mesenchymal_glandfront_PR,0
+Gland mesenchymal_glandfront_ERa,0
+Gland glandular epithelium_intragland_Dx,0
+Gland glandular epithelium_intragland_patient_id,0
+Gland glandular epithelium_intragland_HLA-DR,0
+Gland glandular epithelium_intragland_CD27,0
+Gland glandular epithelium_intragland_NKG2C,0
+Gland glandular epithelium_intragland_NKG2A,0
+Gland glandular epithelium_intragland_TIM3,0
+Gland glandular epithelium_intragland_Ki67,0
+Gland fibroblast_glandfront_CD27,0
+Gland fibroblast_glandfront_HLA-DR,0
+Gland fibroblast_glandfront_patient_id,0
+NA_glandfront_TIM3,0
+NA_glandfront_VEGF,0
+NA_glandfront_IFNg,0
+NA_glandfront_pP38,0
+NA_glandfront_PR,0
+NA_glandfront_ERa,0
+Gland vascular endothelium_stromal_Dx,0
+Gland vascular endothelium_stromal_patient_id,0
+Gland vascular endothelium_stromal_HLA-DR,0
+Gland vascular endothelium_stromal_CD27,0
+Gland vascular endothelium_stromal_NKG2C,0
+Gland vascular endothelium_stromal_NKG2A,0
+Gland vascular endothelium_stromal_TIM3,0
+Gland vascular endothelium_stromal_Ki67,0
+Gland vascular endothelium_stromal_GranzymeB,0
+Gland vascular endothelium_stromal_VEGF,0
+Gland vascular endothelium_stromal_IFNg,0
+Gland vascular endothelium_stromal_pP38,0
+NA_glandfront_GranzymeB,0
+NA_glandfront_NKG2A,0
+Gland fibroblast_glandfront_Dx,0
+NA_glandfront_NKG2C,0
+NA_stromal_patient_id,0
+NA_stromal_HLA-DR,0
+NA_stromal_CD27,0
+NA_stromal_NKG2C,0
+NA_stromal_NKG2A,0
+NA_stromal_TIM3,0
+NA_stromal_Ki67,0
+NA_stromal_GranzymeB,0
+NA_stromal_VEGF,0
+NA_stromal_IFNg,0
+NA_stromal_pP38,0
+NA_stromal_PR,0
+NA_stromal_ERa,0
+NA_glandfront_Dx,0
+NA_glandfront_patient_id,0
+NA_glandfront_HLA-DR,0
+NA_glandfront_CD27,0
+Gland vascular endothelium_stromal_PR,0
+Gland vascular endothelium_stromal_ERa,0
+Gland vascular endothelium_glandfront_Dx,0
+Gland vascular endothelium_glandfront_patient_id,0
+Gland fibroblast_stromal_VEGF,0
+Gland fibroblast_stromal_IFNg,0
+Gland fibroblast_stromal_pP38,0
+Gland fibroblast_stromal_PR,0
+Gland fibroblast_stromal_ERa,0
+Gland fibroblast_intragland_Dx,0
+Gland fibroblast_intragland_patient_id,0
+Gland fibroblast_intragland_HLA-DR,0
+Gland fibroblast_intragland_CD27,0
+Gland fibroblast_intragland_NKG2C,0
+Gland fibroblast_intragland_NKG2A,0
+Gland fibroblast_intragland_TIM3,0
+Gland fibroblast_intragland_Ki67,0
+Gland fibroblast_intragland_IFNg,0
+Gland fibroblast_intragland_pP38,0
+Gland fibroblast_intragland_PR,0
+Gland fibroblast_intragland_ERa,0
+Gland fibroblast_stromal_GranzymeB,0
+Gland fibroblast_stromal_Ki67,0
+Gland fibroblast_stromal_TIM3,0
+Gland vascular endothelium_glandfront_IFNg,0
+Gland vascular endothelium_glandfront_HLA-DR,0
+Gland vascular endothelium_glandfront_CD27,0
+Gland vascular endothelium_glandfront_NKG2C,0
+Gland vascular endothelium_glandfront_NKG2A,0
+Gland vascular endothelium_glandfront_TIM3,0
+Gland vascular endothelium_glandfront_Ki67,0
+Gland vascular endothelium_glandfront_GranzymeB,0
+Gland vascular endothelium_glandfront_pP38,0
+Gland fibroblast_stromal_NKG2A,0
+Gland vascular endothelium_glandfront_PR,0
+Gland vascular endothelium_glandfront_ERa,0
+Gland fibroblast_stromal_Dx,0
+Gland fibroblast_stromal_patient_id,0
+Gland fibroblast_stromal_HLA-DR,0
+Gland fibroblast_stromal_CD27,0
+Gland fibroblast_stromal_NKG2C,0
+aSMA-br vascular endothelium_stromal_patient_id,0
+aSMA-br vascular endothelium_stromal_HLA-DR,0
+aSMA-br vascular endothelium_stromal_CD27,0
+Neutrophils_stromal_IFNg,0
+Neutrophils_stromal_PR,0
+Neutrophils_stromal_ERa,0
+Neutrophils_glandfront_Dx,0
+Neutrophils_glandfront_patient_id,0
+Neutrophils_glandfront_HLA-DR,0
+Neutrophils_glandfront_CD27,0
+Neutrophils_glandfront_NKG2C,0
+Neutrophils_glandfront_NKG2A,0
+Neutrophils_glandfront_TIM3,0
+Neutrophils_glandfront_Ki67,0
+Neutrophils_glandfront_GranzymeB,0
+Neutrophils_glandfront_VEGF,0
+Neutrophils_glandfront_IFNg,0
+Neutrophils_glandfront_pP38,0
+Neutrophils_glandfront_PR,0
+Neutrophils_glandfront_ERa,0
+Dendritic Cells CD86CD33dp_stromal_Dx,0
+Neutrophils_stromal_pP38,0
+Neutrophils_stromal_VEGF,0
+NKT_glandfront_HLA-DR,0
+Neutrophils_stromal_GranzymeB,0
+NKT_glandfront_NKG2C,0
+NKT_glandfront_NKG2A,0
+NKT_glandfront_TIM3,0
+NKT_glandfront_GranzymeB,0
+NKT_glandfront_VEGF,0
+NKT_glandfront_IFNg,0
+NKT_glandfront_pP38,0
+NKT_glandfront_PR,0
+NKT_glandfront_ERa,0
+Neutrophils_stromal_Dx,0
+Neutrophils_stromal_patient_id,0
+Neutrophils_stromal_HLA-DR,0
+Neutrophils_stromal_CD27,0
+Neutrophils_stromal_NKG2C,0
+Neutrophils_stromal_NKG2A,0
+Neutrophils_stromal_TIM3,0
+Neutrophils_stromal_Ki67,0
+Dendritic Cells CD86CD33dp_stromal_patient_id,0
+Dendritic Cells CD86CD33dp_stromal_HLA-DR,0
+Dendritic Cells CD86CD33dp_stromal_CD27,0
+Dendritic Cells CD86CD33dp_stromal_NKG2C,0
+Dendritic Cells CD86CD33dp_glandfront_pP38,0
+Dendritic Cells CD86CD33dp_glandfront_PR,0
+Dendritic Cells CD86CD33dp_glandfront_ERa,0
+Dendritic Cells CD209CD33dp_stromal_Dx,0
+Dendritic Cells CD209CD33dp_stromal_patient_id,0
+Dendritic Cells CD209CD33dp_stromal_HLA-DR,0
+Dendritic Cells CD209CD33dp_stromal_CD27,0
+Dendritic Cells CD209CD33dp_stromal_NKG2C,0
+Dendritic Cells CD209CD33dp_stromal_NKG2A,0
+Dendritic Cells CD209CD33dp_stromal_TIM3,0
+Dendritic Cells CD209CD33dp_stromal_Ki67,0
+Dendritic Cells CD209CD33dp_stromal_VEGF,0
+Dendritic Cells CD209CD33dp_stromal_IFNg,0
+Dendritic Cells CD209CD33dp_stromal_pP38,0
+NK cells CD56dimCD16+CD9hi_glandfront_pP38,0
+Dendritic Cells CD209CD33dp_stromal_ERa,0
+Dendritic Cells CD209CD33dp_glandfront_Dx,0
+Dendritic Cells CD86CD33dp_glandfront_IFNg,0
+Dendritic Cells CD86CD33dp_glandfront_VEGF,0
+Dendritic Cells CD86CD33dp_glandfront_GranzymeB,0
+Dendritic Cells CD86CD33dp_stromal_PR,0
+Dendritic Cells CD86CD33dp_stromal_NKG2A,0
+Dendritic Cells CD86CD33dp_stromal_TIM3,0
+Dendritic Cells CD86CD33dp_stromal_Ki67,0
+Dendritic Cells CD86CD33dp_stromal_GranzymeB,0
+Dendritic Cells CD86CD33dp_stromal_VEGF,0
+Dendritic Cells CD86CD33dp_stromal_IFNg,0
+Dendritic Cells CD86CD33dp_stromal_pP38,0
+Dendritic Cells CD86CD33dp_stromal_ERa,0
+Dendritic Cells CD86CD33dp_glandfront_Ki67,0
+Dendritic Cells CD86CD33dp_glandfront_Dx,0
+Dendritic Cells CD86CD33dp_glandfront_patient_id,0
+Dendritic Cells CD86CD33dp_glandfront_HLA-DR,0
+Dendritic Cells CD86CD33dp_glandfront_CD27,0
+Dendritic Cells CD86CD33dp_glandfront_NKG2C,0
+Dendritic Cells CD86CD33dp_glandfront_NKG2A,0
+Dendritic Cells CD86CD33dp_glandfront_TIM3,0
+NKT_glandfront_CD27,0
+NKT_glandfront_patient_id,0
+aSMA-br vascular endothelium_stromal_NKG2C,0
+aSMA-br vascular endothelium_glandfront_IFNg,0
+aSMA-br vascular endothelium_glandfront_PR,0
+aSMA-br vascular endothelium_glandfront_ERa,0
+aSMA-br mesenchymal_stromal_Dx,0
+aSMA-br mesenchymal_stromal_patient_id,0
+aSMA-br mesenchymal_stromal_HLA-DR,0
+aSMA-br mesenchymal_stromal_CD27,0
+aSMA-br mesenchymal_stromal_NKG2C,0
+aSMA-br mesenchymal_stromal_NKG2A,0
+aSMA-br mesenchymal_stromal_TIM3,0
+aSMA-br mesenchymal_stromal_Ki67,0
+aSMA-br mesenchymal_stromal_GranzymeB,0
+aSMA-br mesenchymal_stromal_VEGF,0
+aSMA-br mesenchymal_stromal_IFNg,0
+aSMA-br mesenchymal_stromal_pP38,0
+aSMA-br mesenchymal_stromal_PR,0
+aSMA-br mesenchymal_stromal_ERa,0
+aSMA-br mesenchymal_glandfront_Dx,0
+aSMA-br vascular endothelium_glandfront_pP38,0
+aSMA-br vascular endothelium_glandfront_VEGF,0
+NKT_glandfront_Dx,0
+aSMA-br vascular endothelium_glandfront_GranzymeB,0
+aSMA-br vascular endothelium_stromal_NKG2A,0
+aSMA-br vascular endothelium_stromal_TIM3,0
+aSMA-br vascular endothelium_stromal_Ki67,0
+aSMA-br vascular endothelium_stromal_GranzymeB,0
+aSMA-br vascular endothelium_stromal_VEGF,0
+aSMA-br vascular endothelium_stromal_IFNg,0
+aSMA-br vascular endothelium_stromal_pP38,0
+aSMA-br vascular endothelium_stromal_PR,0
+aSMA-br vascular endothelium_stromal_ERa,0
+aSMA-br vascular endothelium_glandfront_Dx,0
+aSMA-br vascular endothelium_glandfront_patient_id,0
+aSMA-br vascular endothelium_glandfront_HLA-DR,0
+aSMA-br vascular endothelium_glandfront_CD27,0
+aSMA-br vascular endothelium_glandfront_NKG2C,0
+aSMA-br vascular endothelium_glandfront_NKG2A,0
+aSMA-br vascular endothelium_glandfront_TIM3,0
+aSMA-br vascular endothelium_glandfront_Ki67,0
+aSMA-br mesenchymal_glandfront_patient_id,0
+aSMA-br mesenchymal_glandfront_HLA-DR,0
+aSMA-br mesenchymal_glandfront_CD27,0
+aSMA-br mesenchymal_glandfront_NKG2C,0
+aSMA-br fibroblast_stromal_pP38,0
+aSMA-br fibroblast_stromal_PR,0
+aSMA-br fibroblast_stromal_ERa,0
+aSMA-br fibroblast_glandfront_Dx,0
+aSMA-br fibroblast_glandfront_patient_id,0
+aSMA-br fibroblast_glandfront_HLA-DR,0
+aSMA-br fibroblast_glandfront_CD27,0
+aSMA-br fibroblast_glandfront_NKG2C,0
+aSMA-br fibroblast_glandfront_NKG2A,0
+aSMA-br fibroblast_glandfront_TIM3,0
+aSMA-br fibroblast_glandfront_Ki67,0
+aSMA-br fibroblast_glandfront_GranzymeB,0
+aSMA-br fibroblast_glandfront_VEGF,0
+aSMA-br fibroblast_glandfront_IFNg,0
+aSMA-br fibroblast_glandfront_pP38,0
+aSMA-br fibroblast_glandfront_PR,0
+aSMA-br fibroblast_glandfront_ERa,0
+aSMA-br fibroblast_stromal_IFNg,0
+aSMA-br fibroblast_stromal_VEGF,0
+aSMA-br fibroblast_stromal_GranzymeB,0
+aSMA-br mesenchymal_glandfront_PR,0
+aSMA-br mesenchymal_glandfront_NKG2A,0
+aSMA-br mesenchymal_glandfront_TIM3,0
+aSMA-br mesenchymal_glandfront_Ki67,0
+aSMA-br mesenchymal_glandfront_GranzymeB,0
+aSMA-br mesenchymal_glandfront_VEGF,0
+aSMA-br mesenchymal_glandfront_IFNg,0
+aSMA-br mesenchymal_glandfront_pP38,0
+aSMA-br mesenchymal_glandfront_ERa,0
+aSMA-br fibroblast_stromal_Ki67,0
+aSMA-br fibroblast_stromal_Dx,0
+aSMA-br fibroblast_stromal_patient_id,0
+aSMA-br fibroblast_stromal_HLA-DR,0
+aSMA-br fibroblast_stromal_CD27,0
+aSMA-br fibroblast_stromal_NKG2C,0
+aSMA-br fibroblast_stromal_NKG2A,0
+aSMA-br fibroblast_stromal_TIM3,0
+NK cells CD56dimCD16+CD9hi_glandfront_IFNg,0
+NK cells CD56dimCD16+CD9hi_glandfront_ERa,0
+NK cells CD56dimCD16+CD9hi_glandfront_PR,0
+CD4 T cells CD80/CD86+_0_GranzymeB,0
+CD4 T cells CD80/CD86+_0_IFNg,0
+CD4 T cells CD80/CD86+_0_pP38,0
+CD4 T cells CD80/CD86+_0_PR,0
+CD4 T cells CD80/CD86+_0_ERa,0
+CD8 T cells HLA-DR+_stromal_Dx,0
+CD8 T cells HLA-DR+_stromal_patient_id,0
+CD8 T cells HLA-DR+_stromal_HLA-DR,0
+CD8 T cells HLA-DR+_stromal_CD27,0
+CD8 T cells HLA-DR+_stromal_NKG2C,0
+CD8 T cells HLA-DR+_stromal_NKG2A,0
+CD8 T cells HLA-DR+_stromal_TIM3,0
+CD8 T cells HLA-DR+_stromal_Ki67,0
+CD8 T cells HLA-DR+_stromal_GranzymeB,0
+CD8 T cells HLA-DR+_stromal_VEGF,0
+CD8 T cells HLA-DR+_stromal_IFNg,0
+CD8 T cells HLA-DR+_stromal_pP38,0
+CD8 T cells HLA-DR+_stromal_PR,0
+CD4 T cells CD80/CD86+_0_VEGF,0
+CD4 T cells CD80/CD86+_0_Ki67,0
+CD8 T cells HLA-DR+_intragland_Dx,0
+CD4 T cells CD80/CD86+_0_TIM3,0
+CD4 T cells CD80/CD86+_glandfront_CD27,0
+CD4 T cells CD80/CD86+_glandfront_NKG2C,0
+CD4 T cells CD80/CD86+_glandfront_NKG2A,0
+CD4 T cells CD80/CD86+_glandfront_TIM3,0
+CD4 T cells CD80/CD86+_glandfront_Ki67,0
+CD4 T cells CD80/CD86+_glandfront_GranzymeB,0
+CD4 T cells CD80/CD86+_glandfront_VEGF,0
+CD4 T cells CD80/CD86+_glandfront_IFNg,0
+CD4 T cells CD80/CD86+_glandfront_pP38,0
+CD4 T cells CD80/CD86+_glandfront_PR,0
+CD4 T cells CD80/CD86+_glandfront_ERa,0
+CD4 T cells CD80/CD86+_0_Dx,0
+CD4 T cells CD80/CD86+_0_patient_id,0
+CD4 T cells CD80/CD86+_0_HLA-DR,0
+CD4 T cells CD80/CD86+_0_CD27,0
+CD4 T cells CD80/CD86+_0_NKG2C,0
+CD4 T cells CD80/CD86+_0_NKG2A,0
+CD8 T cells HLA-DR+_stromal_ERa,0
+CD8 T cells HLA-DR+_intragland_patient_id,0
+CD4 T cells CD80/CD86+_glandfront_patient_id,0
+CD8 T cells HLA-DR+_glandfront_GranzymeB,0
+CD8 T cells HLA-DR+_glandfront_IFNg,0
+CD8 T cells HLA-DR+_glandfront_pP38,0
+CD8 T cells HLA-DR+_glandfront_PR,0
+CD8 T cells HLA-DR+_glandfront_ERa,0
+CD8 T cells HLA-DR+_0_Dx,0
+CD8 T cells HLA-DR+_0_patient_id,0
+CD8 T cells HLA-DR+_0_HLA-DR,0
+CD8 T cells HLA-DR+_0_CD27,0
+CD8 T cells HLA-DR+_0_NKG2C,0
+CD8 T cells HLA-DR+_0_NKG2A,0
+CD8 T cells HLA-DR+_0_TIM3,0
+CD8 T cells HLA-DR+_0_Ki67,0
+CD8 T cells HLA-DR+_0_GranzymeB,0
+CD8 T cells HLA-DR+_0_VEGF,0
+CD8 T cells HLA-DR+_0_IFNg,0
+CD8 T cells HLA-DR+_0_pP38,0
+CD8 T cells HLA-DR+_0_PR,0
+CD8 T cells HLA-DR+_glandfront_VEGF,0
+CD8 T cells HLA-DR+_glandfront_Ki67,0
+CD8 T cells HLA-DR+_intragland_HLA-DR,0
+CD8 T cells HLA-DR+_glandfront_TIM3,0
+CD8 T cells HLA-DR+_intragland_CD27,0
+CD8 T cells HLA-DR+_intragland_NKG2C,0
+CD8 T cells HLA-DR+_intragland_NKG2A,0
+CD8 T cells HLA-DR+_intragland_TIM3,0
+CD8 T cells HLA-DR+_intragland_Ki67,0
+CD8 T cells HLA-DR+_intragland_GranzymeB,0
+CD8 T cells HLA-DR+_intragland_VEGF,0
+CD8 T cells HLA-DR+_intragland_IFNg,0
+CD8 T cells HLA-DR+_intragland_pP38,0
+CD8 T cells HLA-DR+_intragland_PR,0
+CD8 T cells HLA-DR+_intragland_ERa,0
+CD8 T cells HLA-DR+_glandfront_Dx,0
+CD8 T cells HLA-DR+_glandfront_patient_id,0
+CD8 T cells HLA-DR+_glandfront_HLA-DR,0
+CD8 T cells HLA-DR+_glandfront_CD27,0
+CD8 T cells HLA-DR+_glandfront_NKG2C,0
+CD8 T cells HLA-DR+_glandfront_NKG2A,0
+CD4 T cells CD80/CD86+_glandfront_HLA-DR,0
+CD4 T cells CD80/CD86+_glandfront_Dx,0
+CD4 T cells CD11b+_0_ERa,0
+CD8 T cells CD80/CD86+_intragland_TIM3,0
+CD8 T cells CD80/CD86+_intragland_GranzymeB,0
+CD8 T cells CD80/CD86+_intragland_VEGF,0
+CD8 T cells CD80/CD86+_intragland_IFNg,0
+CD8 T cells CD80/CD86+_intragland_pP38,0
+CD8 T cells CD80/CD86+_intragland_PR,0
+CD8 T cells CD80/CD86+_intragland_ERa,0
+CD8 T cells CD80/CD86+_glandfront_Dx,0
+CD8 T cells CD80/CD86+_glandfront_patient_id,0
+CD8 T cells CD80/CD86+_glandfront_HLA-DR,0
+CD8 T cells CD80/CD86+_glandfront_CD27,0
+CD8 T cells CD80/CD86+_glandfront_NKG2C,0
+CD8 T cells CD80/CD86+_glandfront_NKG2A,0
+CD8 T cells CD80/CD86+_glandfront_TIM3,0
+CD8 T cells CD80/CD86+_glandfront_Ki67,0
+CD8 T cells CD80/CD86+_glandfront_GranzymeB,0
+CD8 T cells CD80/CD86+_glandfront_VEGF,0
+CD8 T cells CD80/CD86+_glandfront_IFNg,0
+CD8 T cells CD80/CD86+_intragland_Ki67,0
+CD8 T cells CD80/CD86+_intragland_NKG2A,0
+CD8 T cells CD80/CD86+_glandfront_PR,0
+CD8 T cells CD80/CD86+_intragland_NKG2C,0
+CD8 T cells CD80/CD86+_stromal_patient_id,0
+CD8 T cells CD80/CD86+_stromal_HLA-DR,0
+CD8 T cells CD80/CD86+_stromal_CD27,0
+CD8 T cells CD80/CD86+_stromal_NKG2C,0
+CD8 T cells CD80/CD86+_stromal_NKG2A,0
+CD8 T cells CD80/CD86+_stromal_TIM3,0
+CD8 T cells CD80/CD86+_stromal_Ki67,0
+CD8 T cells CD80/CD86+_stromal_GranzymeB,0
+CD8 T cells CD80/CD86+_stromal_VEGF,0
+CD8 T cells CD80/CD86+_stromal_IFNg,0
+CD8 T cells CD80/CD86+_stromal_pP38,0
+CD8 T cells CD80/CD86+_stromal_PR,0
+CD8 T cells CD80/CD86+_stromal_ERa,0
+CD8 T cells CD80/CD86+_intragland_Dx,0
+CD8 T cells CD80/CD86+_intragland_patient_id,0
+CD8 T cells CD80/CD86+_intragland_HLA-DR,0
+CD8 T cells CD80/CD86+_intragland_CD27,0
+CD8 T cells CD80/CD86+_glandfront_pP38,0
+CD8 T cells CD80/CD86+_glandfront_ERa,0
+CD4 T cells CD80/CD86+_intragland_ERa,0
+CD4 T cells CD80/CD86+_stromal_TIM3,0
+CD4 T cells CD80/CD86+_stromal_VEGF,0
+CD4 T cells CD80/CD86+_stromal_IFNg,0
+CD4 T cells CD80/CD86+_stromal_pP38,0
+CD4 T cells CD80/CD86+_stromal_PR,0
+CD4 T cells CD80/CD86+_intragland_Dx,0
+CD4 T cells CD80/CD86+_intragland_patient_id,0
+CD4 T cells CD80/CD86+_intragland_HLA-DR,0
+CD4 T cells CD80/CD86+_intragland_CD27,0
+CD4 T cells CD80/CD86+_intragland_NKG2C,0
+CD4 T cells CD80/CD86+_intragland_NKG2A,0
+CD4 T cells CD80/CD86+_intragland_TIM3,0
+CD4 T cells CD80/CD86+_intragland_Ki67,0
+CD4 T cells CD80/CD86+_intragland_GranzymeB,0
+CD4 T cells CD80/CD86+_intragland_VEGF,0
+CD4 T cells CD80/CD86+_intragland_IFNg,0
+CD4 T cells CD80/CD86+_intragland_pP38,0
+CD4 T cells CD80/CD86+_intragland_PR,0
+CD4 T cells CD80/CD86+_stromal_Ki67,0
+CD4 T cells CD80/CD86+_stromal_NKG2A,0
+CD8 T cells CD80/CD86+_0_Dx,0
+CD4 T cells CD80/CD86+_stromal_NKG2C,0
+CD8 T cells CD80/CD86+_0_patient_id,0
+CD8 T cells CD80/CD86+_0_HLA-DR,0
+CD8 T cells CD80/CD86+_0_CD27,0
+CD8 T cells CD80/CD86+_0_NKG2C,0
+CD8 T cells CD80/CD86+_0_NKG2A,0
+CD8 T cells CD80/CD86+_0_TIM3,0
+CD8 T cells CD80/CD86+_0_Ki67,0
+CD8 T cells CD80/CD86+_0_GranzymeB,0
+CD8 T cells CD80/CD86+_0_VEGF,0
+CD8 T cells CD80/CD86+_0_IFNg,0
+CD8 T cells CD80/CD86+_0_pP38,0
+CD8 T cells CD80/CD86+_0_PR,0
+CD8 T cells CD80/CD86+_0_ERa,0
+CD4 T cells CD80/CD86+_stromal_Dx,0
+CD4 T cells CD80/CD86+_stromal_patient_id,0
+CD4 T cells CD80/CD86+_stromal_HLA-DR,0
+CD4 T cells CD80/CD86+_stromal_CD27,0
+CD8 T cells HLA-DR+_0_ERa,0
+CD4 T cells HLA-DR+_stromal_Dx,0
+CD4 T cells HLA-DR+_stromal_patient_id,0
+CD8 T cells FoxP3+_0_Ki67,0
+CD8 T cells FoxP3+_0_VEGF,0
+CD8 T cells FoxP3+_0_IFNg,0
+CD8 T cells FoxP3+_0_pP38,0
+CD8 T cells FoxP3+_0_PR,0
+CD8 T cells FoxP3+_0_ERa,0
+CD4 T cells FoxP3+_stromal_Dx,0
+CD4 T cells FoxP3+_stromal_patient_id,0
+CD4 T cells FoxP3+_stromal_HLA-DR,0
+CD4 T cells FoxP3+_stromal_CD27,0
+CD4 T cells FoxP3+_stromal_NKG2C,0
+CD4 T cells FoxP3+_stromal_NKG2A,0
+CD4 T cells FoxP3+_stromal_TIM3,0
+CD4 T cells FoxP3+_stromal_Ki67,0
+CD4 T cells FoxP3+_stromal_GranzymeB,0
+CD4 T cells FoxP3+_stromal_VEGF,0
+CD4 T cells FoxP3+_stromal_IFNg,0
+CD4 T cells FoxP3+_stromal_pP38,0
+CD8 T cells FoxP3+_0_GranzymeB,0
+CD8 T cells FoxP3+_0_TIM3,0
+CD4 T cells FoxP3+_stromal_ERa,0
+CD8 T cells FoxP3+_0_NKG2A,0
+CD8 T cells FoxP3+_glandfront_HLA-DR,0
+CD8 T cells FoxP3+_glandfront_CD27,0
+CD8 T cells FoxP3+_glandfront_NKG2C,0
+CD8 T cells FoxP3+_glandfront_NKG2A,0
+CD8 T cells FoxP3+_glandfront_TIM3,0
+CD8 T cells FoxP3+_glandfront_Ki67,0
+CD8 T cells FoxP3+_glandfront_GranzymeB,0
+CD8 T cells FoxP3+_glandfront_VEGF,0
+CD8 T cells FoxP3+_glandfront_IFNg,0
+CD8 T cells FoxP3+_glandfront_pP38,0
+CD8 T cells FoxP3+_glandfront_PR,0
+CD8 T cells FoxP3+_glandfront_ERa,0
+CD8 T cells FoxP3+_0_Dx,0
+CD8 T cells FoxP3+_0_patient_id,0
+CD8 T cells FoxP3+_0_HLA-DR,0
+CD8 T cells FoxP3+_0_CD27,0
+CD8 T cells FoxP3+_0_NKG2C,0
+CD4 T cells FoxP3+_stromal_PR,0
+CD4 T cells FoxP3+_intragland_Dx,0
+CD4 T cells HLA-DR+_stromal_HLA-DR,0
+CD4 T cells FoxP3+_glandfront_Ki67,0
+CD4 T cells FoxP3+_glandfront_VEGF,0
+CD4 T cells FoxP3+_glandfront_IFNg,0
+CD4 T cells FoxP3+_glandfront_pP38,0
+CD4 T cells FoxP3+_glandfront_PR,0
+CD4 T cells FoxP3+_glandfront_ERa,0
+CD4 T cells FoxP3+_0_Dx,0
+CD4 T cells FoxP3+_0_patient_id,0
+CD4 T cells FoxP3+_0_HLA-DR,0
+CD4 T cells FoxP3+_0_CD27,0
+CD4 T cells FoxP3+_0_NKG2C,0
+CD4 T cells FoxP3+_0_NKG2A,0
+CD4 T cells FoxP3+_0_TIM3,0
+CD4 T cells FoxP3+_0_Ki67,0
+CD4 T cells FoxP3+_0_GranzymeB,0
+CD4 T cells FoxP3+_0_VEGF,0
+CD4 T cells FoxP3+_0_IFNg,0
+CD4 T cells FoxP3+_0_pP38,0
+CD4 T cells FoxP3+_glandfront_GranzymeB,0
+CD4 T cells FoxP3+_glandfront_TIM3,0
+CD4 T cells FoxP3+_intragland_patient_id,0
+CD4 T cells FoxP3+_glandfront_NKG2A,0
+CD4 T cells FoxP3+_intragland_HLA-DR,0
+CD4 T cells FoxP3+_intragland_CD27,0
+CD4 T cells FoxP3+_intragland_NKG2C,0
+CD4 T cells FoxP3+_intragland_NKG2A,0
+CD4 T cells FoxP3+_intragland_TIM3,0
+CD4 T cells FoxP3+_intragland_Ki67,0
+CD4 T cells FoxP3+_intragland_GranzymeB,0
+CD4 T cells FoxP3+_intragland_VEGF,0
+CD4 T cells FoxP3+_intragland_IFNg,0
+CD4 T cells FoxP3+_intragland_pP38,0
+CD4 T cells FoxP3+_intragland_PR,0
+CD4 T cells FoxP3+_intragland_ERa,0
+CD4 T cells FoxP3+_glandfront_Dx,0
+CD4 T cells FoxP3+_glandfront_patient_id,0
+CD4 T cells FoxP3+_glandfront_HLA-DR,0
+CD4 T cells FoxP3+_glandfront_CD27,0
+CD4 T cells FoxP3+_glandfront_NKG2C,0
+CD8 T cells FoxP3+_glandfront_patient_id,0
+CD8 T cells FoxP3+_glandfront_Dx,0
+CD8 T cells FoxP3+_intragland_ERa,0
+CD4 T cells HLA-DR+_intragland_GranzymeB,0
+CD4 T cells HLA-DR+_intragland_IFNg,0
+CD4 T cells HLA-DR+_intragland_pP38,0
+CD4 T cells HLA-DR+_intragland_PR,0
+CD4 T cells HLA-DR+_intragland_ERa,0
+CD4 T cells HLA-DR+_glandfront_Dx,0
+CD4 T cells HLA-DR+_glandfront_patient_id,0
+CD4 T cells HLA-DR+_glandfront_HLA-DR,0
+CD4 T cells HLA-DR+_glandfront_CD27,0
+CD4 T cells HLA-DR+_glandfront_NKG2C,0
+CD4 T cells HLA-DR+_glandfront_NKG2A,0
+CD4 T cells HLA-DR+_glandfront_TIM3,0
+CD4 T cells HLA-DR+_glandfront_Ki67,0
+CD4 T cells HLA-DR+_glandfront_GranzymeB,0
+CD4 T cells HLA-DR+_glandfront_VEGF,0
+CD4 T cells HLA-DR+_glandfront_IFNg,0
+CD4 T cells HLA-DR+_glandfront_pP38,0
+CD4 T cells HLA-DR+_glandfront_PR,0
+CD4 T cells HLA-DR+_intragland_VEGF,0
+CD4 T cells HLA-DR+_intragland_Ki67,0
+CD8 T cells FoxP3+_intragland_PR,0
+CD4 T cells HLA-DR+_intragland_TIM3,0
+CD4 T cells HLA-DR+_stromal_CD27,0
+CD4 T cells HLA-DR+_stromal_NKG2C,0
+CD4 T cells HLA-DR+_stromal_NKG2A,0
+CD4 T cells HLA-DR+_stromal_TIM3,0
+CD4 T cells HLA-DR+_stromal_Ki67,0
+CD4 T cells HLA-DR+_stromal_GranzymeB,0
+CD4 T cells HLA-DR+_stromal_VEGF,0
+CD4 T cells HLA-DR+_stromal_IFNg,0
+CD4 T cells HLA-DR+_stromal_pP38,0
+CD4 T cells HLA-DR+_stromal_PR,0
+CD4 T cells HLA-DR+_stromal_ERa,0
+CD4 T cells HLA-DR+_intragland_Dx,0
+CD4 T cells HLA-DR+_intragland_patient_id,0
+CD4 T cells HLA-DR+_intragland_HLA-DR,0
+CD4 T cells HLA-DR+_intragland_CD27,0
+CD4 T cells HLA-DR+_intragland_NKG2C,0
+CD4 T cells HLA-DR+_intragland_NKG2A,0
+CD4 T cells HLA-DR+_glandfront_ERa,0
+CD4 T cells HLA-DR+_0_Dx,0
+CD4 T cells HLA-DR+_0_patient_id,0
+CD4 T cells HLA-DR+_0_HLA-DR,0
+CD8 T cells FoxP3+_stromal_VEGF,0
+CD8 T cells FoxP3+_stromal_IFNg,0
+CD8 T cells FoxP3+_stromal_pP38,0
+CD8 T cells FoxP3+_stromal_PR,0
+CD8 T cells FoxP3+_stromal_ERa,0
+CD8 T cells FoxP3+_intragland_Dx,0
+CD8 T cells FoxP3+_intragland_patient_id,0
+CD8 T cells FoxP3+_intragland_HLA-DR,0
+CD8 T cells FoxP3+_intragland_CD27,0
+CD8 T cells FoxP3+_intragland_NKG2C,0
+CD8 T cells FoxP3+_intragland_NKG2A,0
+CD8 T cells FoxP3+_intragland_TIM3,0
+CD8 T cells FoxP3+_intragland_Ki67,0
+CD8 T cells FoxP3+_intragland_GranzymeB,0
+CD8 T cells FoxP3+_intragland_VEGF,0
+CD8 T cells FoxP3+_intragland_IFNg,0
+CD8 T cells FoxP3+_intragland_pP38,0
+CD8 T cells FoxP3+_stromal_GranzymeB,0
+CD8 T cells FoxP3+_stromal_Ki67,0
+CD8 T cells FoxP3+_stromal_TIM3,0
+CD4 T cells HLA-DR+_0_IFNg,0
+CD4 T cells HLA-DR+_0_CD27,0
+CD4 T cells HLA-DR+_0_NKG2C,0
+CD4 T cells HLA-DR+_0_NKG2A,0
+CD4 T cells HLA-DR+_0_TIM3,0
+CD4 T cells HLA-DR+_0_Ki67,0
+CD4 T cells HLA-DR+_0_GranzymeB,0
+CD4 T cells HLA-DR+_0_VEGF,0
+CD4 T cells HLA-DR+_0_pP38,0
+CD8 T cells FoxP3+_stromal_NKG2A,0
+CD4 T cells HLA-DR+_0_PR,0
+CD4 T cells HLA-DR+_0_ERa,0
+CD8 T cells FoxP3+_stromal_Dx,0
+CD8 T cells FoxP3+_stromal_patient_id,0
+CD8 T cells FoxP3+_stromal_HLA-DR,0
+CD8 T cells FoxP3+_stromal_CD27,0
+CD8 T cells FoxP3+_stromal_NKG2C,0
+CD8 T cells CD80/CD86+_stromal_Dx,0
+CD4 T cells CD11b+_0_PR,0
+CD4 T cells FoxP3+_0_PR,0
+NK cells CD56dimCD16+_0_TIM3,0
+NK cells CD56dimCD16+_0_GranzymeB,0
+NK cells CD56dimCD16+_0_VEGF,0
+NK cells CD56dimCD16+_0_IFNg,0
+NK cells CD56dimCD16+_0_pP38,0
+NK cells CD56dimCD16+_0_PR,0
+NK cells CD56dimCD16+_0_ERa,0
+NK cells CD56brCD16-_stromal_Dx,0
+NK cells CD56brCD16-_stromal_patient_id,0
+NK cells CD56brCD16-_stromal_CD27,0
+NK cells CD56brCD16-_stromal_NKG2C,0
+NK cells CD56brCD16-_stromal_NKG2A,0
+NK cells CD56brCD16-_stromal_TIM3,0
+NK cells CD56brCD16-_stromal_Ki67,0
+NK cells CD56brCD16-_stromal_GranzymeB,0
+NK cells CD56brCD16-_stromal_VEGF,0
+NK cells CD56brCD16-_stromal_IFNg,0
+NK cells CD56brCD16-_stromal_pP38,0
+NK cells CD56dimCD16+_0_Ki67,0
+NK cells CD56dimCD16+_0_NKG2A,0
+NK cells CD56brCD16-_stromal_ERa,0
+NK cells CD56dimCD16+_0_NKG2C,0
+NK cells CD56dimCD16+_glandfront_patient_id,0
+NK cells CD56dimCD16+_glandfront_HLA-DR,0
+NK cells CD56dimCD16+_glandfront_CD27,0
+NK cells CD56dimCD16+_glandfront_NKG2C,0
+NK cells CD56dimCD16+_glandfront_NKG2A,0
+NK cells CD56dimCD16+_glandfront_TIM3,0
+NK cells CD56dimCD16+_glandfront_Ki67,0
+NK cells CD56dimCD16+_glandfront_GranzymeB,0
+NK cells CD56dimCD16+_glandfront_VEGF,0
+NK cells CD56dimCD16+_glandfront_IFNg,0
+NK cells CD56dimCD16+_glandfront_pP38,0
+NK cells CD56dimCD16+_glandfront_PR,0
+NK cells CD56dimCD16+_glandfront_ERa,0
+NK cells CD56dimCD16+_0_Dx,0
+NK cells CD56dimCD16+_0_patient_id,0
+NK cells CD56dimCD16+_0_HLA-DR,0
+NK cells CD56dimCD16+_0_CD27,0
+NK cells CD56brCD16-_stromal_PR,0
+NK cells CD56brCD16-_glandfront_Dx,0
+NK cells CD56dimCD16+_intragland_ERa,0
+Stroma fibroblast_stromal_Ki67,0
+Stroma fibroblast_stromal_VEGF,0
+Stroma fibroblast_stromal_IFNg,0
+Stroma fibroblast_stromal_pP38,0
+Stroma fibroblast_stromal_PR,0
+Stroma fibroblast_stromal_ERa,0
+Stroma fibroblast_glandfront_Dx,0
+Stroma fibroblast_glandfront_patient_id,0
+Stroma fibroblast_glandfront_HLA-DR,0
+Stroma fibroblast_glandfront_CD27,0
+Stroma fibroblast_glandfront_NKG2C,0
+Stroma fibroblast_glandfront_NKG2A,0
+Stroma fibroblast_glandfront_TIM3,0
+Stroma fibroblast_glandfront_Ki67,0
+Stroma fibroblast_glandfront_GranzymeB,0
+Stroma fibroblast_glandfront_VEGF,0
+Stroma fibroblast_glandfront_IFNg,0
+Stroma fibroblast_glandfront_pP38,0
+Stroma fibroblast_stromal_GranzymeB,0
+Stroma fibroblast_stromal_TIM3,0
+NK cells CD56brCD16-_glandfront_patient_id,0
+Stroma fibroblast_stromal_NKG2A,0
+NK cells CD56brCD16-_glandfront_HLA-DR,0
+NK cells CD56brCD16-_glandfront_CD27,0
+NK cells CD56brCD16-_glandfront_NKG2C,0
+NK cells CD56brCD16-_glandfront_NKG2A,0
+NK cells CD56brCD16-_glandfront_TIM3,0
+NK cells CD56brCD16-_glandfront_Ki67,0
+NK cells CD56brCD16-_glandfront_GranzymeB,0
+NK cells CD56brCD16-_glandfront_VEGF,0
+NK cells CD56brCD16-_glandfront_IFNg,0
+NK cells CD56brCD16-_glandfront_pP38,0
+NK cells CD56brCD16-_glandfront_PR,0
+NK cells CD56brCD16-_glandfront_ERa,0
+Stroma fibroblast_stromal_Dx,0
+Stroma fibroblast_stromal_patient_id,0
+Stroma fibroblast_stromal_HLA-DR,0
+Stroma fibroblast_stromal_CD27,0
+Stroma fibroblast_stromal_NKG2C,0
+NK cells CD56dimCD16+_glandfront_Dx,0
+NK cells CD56dimCD16+_intragland_PR,0
+CD4 T cells CD11b+_0_pP38,0
+NK cells CD56brCD16-TIM3hi_stromal_NKG2A,0
+NK cells CD56brCD16-TIM3hi_stromal_Ki67,0
+NK cells CD56brCD16-TIM3hi_stromal_GranzymeB,0
+NK cells CD56brCD16-TIM3hi_stromal_VEGF,0
+NK cells CD56brCD16-TIM3hi_stromal_IFNg,0
+NK cells CD56brCD16-TIM3hi_stromal_pP38,0
+NK cells CD56brCD16-TIM3hi_stromal_PR,0
+NK cells CD56brCD16-TIM3hi_stromal_ERa,0
+NK cells CD56brCD16-TIM3hi_glandfront_Dx,0
+NK cells CD56brCD16-TIM3hi_glandfront_patient_id,0
+NK cells CD56brCD16-TIM3hi_glandfront_HLA-DR,0
+NK cells CD56brCD16-TIM3hi_glandfront_CD27,0
+NK cells CD56brCD16-TIM3hi_glandfront_NKG2C,0
+NK cells CD56brCD16-TIM3hi_glandfront_NKG2A,0
+NK cells CD56brCD16-TIM3hi_glandfront_TIM3,0
+NK cells CD56brCD16-TIM3hi_glandfront_Ki67,0
+NK cells CD56brCD16-TIM3hi_glandfront_GranzymeB,0
+NK cells CD56brCD16-TIM3hi_glandfront_IFNg,0
+NK cells CD56brCD16-TIM3hi_stromal_TIM3,0
+NK cells CD56brCD16-TIM3hi_stromal_NKG2C,0
+NK cells CD56brCD16-TIM3hi_glandfront_PR,0
+NK cells CD56brCD16-TIM3hi_stromal_CD27,0
+NK cells CD56dimCD16+CD9hi_0_Dx,0
+NK cells CD56dimCD16+CD9hi_0_patient_id,0
+NK cells CD56dimCD16+CD9hi_0_HLA-DR,0
+NK cells CD56dimCD16+CD9hi_0_CD27,0
+NK cells CD56dimCD16+CD9hi_0_NKG2C,0
+NK cells CD56dimCD16+CD9hi_0_NKG2A,0
+NK cells CD56dimCD16+CD9hi_0_TIM3,0
+NK cells CD56dimCD16+CD9hi_0_Ki67,0
+NK cells CD56dimCD16+CD9hi_0_GranzymeB,0
+NK cells CD56dimCD16+CD9hi_0_VEGF,0
+NK cells CD56dimCD16+CD9hi_0_IFNg,0
+NK cells CD56dimCD16+CD9hi_0_pP38,0
+NK cells CD56dimCD16+CD9hi_0_PR,0
+NK cells CD56dimCD16+CD9hi_0_ERa,0
+NK cells CD56brCD16-TIM3hi_stromal_Dx,0
+NK cells CD56brCD16-TIM3hi_stromal_patient_id,0
+NK cells CD56brCD16-TIM3hi_stromal_HLA-DR,0
+NK cells CD56brCD16-TIM3hi_glandfront_pP38,0
+NK cells CD56brCD16-TIM3hi_glandfront_ERa,0
+NK cells CD56dimCD16+_intragland_pP38,0
+NK cells CD56dimCD16+_stromal_TIM3,0
+NK cells CD56dimCD16+_stromal_GranzymeB,0
+NK cells CD56dimCD16+_stromal_VEGF,0
+NK cells CD56dimCD16+_stromal_IFNg,0
+NK cells CD56dimCD16+_stromal_pP38,0
+NK cells CD56dimCD16+_stromal_PR,0
+NK cells CD56dimCD16+_stromal_ERa,0
+NK cells CD56dimCD16+_intragland_Dx,0
+NK cells CD56dimCD16+_intragland_patient_id,0
+NK cells CD56dimCD16+_intragland_HLA-DR,0
+NK cells CD56dimCD16+_intragland_CD27,0
+NK cells CD56dimCD16+_intragland_NKG2C,0
+NK cells CD56dimCD16+_intragland_NKG2A,0
+NK cells CD56dimCD16+_intragland_TIM3,0
+NK cells CD56dimCD16+_intragland_Ki67,0
+NK cells CD56dimCD16+_intragland_GranzymeB,0
+NK cells CD56dimCD16+_intragland_VEGF,0
+NK cells CD56dimCD16+_intragland_IFNg,0
+NK cells CD56dimCD16+_stromal_Ki67,0
+NK cells CD56dimCD16+_stromal_NKG2A,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_Dx,0
+NK cells CD56dimCD16+_stromal_NKG2C,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_patient_id,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_HLA-DR,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_CD27,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_NKG2C,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_NKG2A,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_TIM3,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_Ki67,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_GranzymeB,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_VEGF,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_IFNg,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_pP38,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_PR,0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_ERa,0
+NK cells CD56dimCD16+_stromal_Dx,0
+NK cells CD56dimCD16+_stromal_patient_id,0
+NK cells CD56dimCD16+_stromal_HLA-DR,0
+NK cells CD56dimCD16+_stromal_CD27,0
+Stroma fibroblast_glandfront_PR,0
+Stroma fibroblast_glandfront_ERa,0
+Stroma vascular endothelium_stromal_Dx,0
+CD8 T cells CD11b+_0_TIM3,0
+CD8 T cells CD11b+_0_GranzymeB,0
+CD8 T cells CD11b+_0_VEGF,0
+CD8 T cells CD11b+_0_IFNg,0
+CD8 T cells CD11b+_0_pP38,0
+CD8 T cells CD11b+_0_PR,0
+CD8 T cells CD11b+_0_ERa,0
+CD4 T cells CD11b+_stromal_Dx,0
+CD4 T cells CD11b+_stromal_patient_id,0
+CD4 T cells CD11b+_stromal_HLA-DR,0
+CD4 T cells CD11b+_stromal_CD27,0
+CD4 T cells CD11b+_stromal_NKG2C,0
+CD4 T cells CD11b+_stromal_NKG2A,0
+CD4 T cells CD11b+_stromal_TIM3,0
+CD4 T cells CD11b+_stromal_Ki67,0
+CD4 T cells CD11b+_stromal_GranzymeB,0
+CD4 T cells CD11b+_stromal_VEGF,0
+CD4 T cells CD11b+_stromal_IFNg,0
+CD8 T cells CD11b+_0_Ki67,0
+CD8 T cells CD11b+_0_NKG2A,0
+CD4 T cells CD11b+_stromal_PR,0
+CD8 T cells CD11b+_0_NKG2C,0
+CD8 T cells CD11b+_glandfront_patient_id,0
+CD8 T cells CD11b+_glandfront_HLA-DR,0
+CD8 T cells CD11b+_glandfront_CD27,0
+CD8 T cells CD11b+_glandfront_NKG2C,0
+CD8 T cells CD11b+_glandfront_NKG2A,0
+CD8 T cells CD11b+_glandfront_TIM3,0
+CD8 T cells CD11b+_glandfront_Ki67,0
+CD8 T cells CD11b+_glandfront_GranzymeB,0
+CD8 T cells CD11b+_glandfront_VEGF,0
+CD8 T cells CD11b+_glandfront_IFNg,0
+CD8 T cells CD11b+_glandfront_pP38,0
+CD8 T cells CD11b+_glandfront_PR,0
+CD8 T cells CD11b+_glandfront_ERa,0
+CD8 T cells CD11b+_0_Dx,0
+CD8 T cells CD11b+_0_patient_id,0
+CD8 T cells CD11b+_0_HLA-DR,0
+CD8 T cells CD11b+_0_CD27,0
+CD4 T cells CD11b+_stromal_pP38,0
+CD4 T cells CD11b+_stromal_ERa,0
+Stroma vascular endothelium_stromal_patient_id,0
+CD4 T cells CD11b+_glandfront_TIM3,0
+CD4 T cells CD11b+_glandfront_GranzymeB,0
+CD4 T cells CD11b+_glandfront_VEGF,0
+CD4 T cells CD11b+_glandfront_IFNg,0
+CD4 T cells CD11b+_glandfront_pP38,0
+CD4 T cells CD11b+_glandfront_PR,0
+CD4 T cells CD11b+_glandfront_ERa,0
+CD4 T cells CD11b+_0_Dx,0
+CD4 T cells CD11b+_0_patient_id,0
+CD4 T cells CD11b+_0_HLA-DR,0
+CD4 T cells CD11b+_0_CD27,0
+CD4 T cells CD11b+_0_NKG2C,0
+CD4 T cells CD11b+_0_NKG2A,0
+CD4 T cells CD11b+_0_TIM3,0
+CD4 T cells CD11b+_0_Ki67,0
+CD4 T cells CD11b+_0_GranzymeB,0
+CD4 T cells CD11b+_0_VEGF,0
+CD4 T cells CD11b+_0_IFNg,0
+CD4 T cells CD11b+_glandfront_Ki67,0
+CD4 T cells CD11b+_glandfront_NKG2A,0
+CD4 T cells CD11b+_intragland_Dx,0
+CD4 T cells CD11b+_glandfront_NKG2C,0
+CD4 T cells CD11b+_intragland_patient_id,0
+CD4 T cells CD11b+_intragland_HLA-DR,0
+CD4 T cells CD11b+_intragland_CD27,0
+CD4 T cells CD11b+_intragland_NKG2C,0
+CD4 T cells CD11b+_intragland_NKG2A,0
+CD4 T cells CD11b+_intragland_TIM3,0
+CD4 T cells CD11b+_intragland_Ki67,0
+CD4 T cells CD11b+_intragland_GranzymeB,0
+CD4 T cells CD11b+_intragland_VEGF,0
+CD4 T cells CD11b+_intragland_IFNg,0
+CD4 T cells CD11b+_intragland_pP38,0
+CD4 T cells CD11b+_intragland_PR,0
+CD4 T cells CD11b+_intragland_ERa,0
+CD4 T cells CD11b+_glandfront_Dx,0
+CD4 T cells CD11b+_glandfront_patient_id,0
+CD4 T cells CD11b+_glandfront_HLA-DR,0
+CD4 T cells CD11b+_glandfront_CD27,0
+CD8 T cells CD11b+_glandfront_Dx,0
+CD8 T cells CD11b+_intragland_ERa,0
+CD8 T cells CD11b+_intragland_PR,0
+Stroma vascular endothelium_glandfront_Ki67,0
+Stroma vascular endothelium_glandfront_VEGF,0
+Stroma vascular endothelium_glandfront_IFNg,0
+Stroma vascular endothelium_glandfront_pP38,0
+Stroma vascular endothelium_glandfront_PR,0
+Stroma vascular endothelium_glandfront_ERa,0
+Stroma mesenchymal_stromal_Dx,0
+Stroma mesenchymal_stromal_patient_id,0
+Stroma mesenchymal_stromal_HLA-DR,0
+Stroma mesenchymal_stromal_CD27,0
+Stroma mesenchymal_stromal_NKG2C,0
+Stroma mesenchymal_stromal_NKG2A,0
+Stroma mesenchymal_stromal_TIM3,0
+Stroma mesenchymal_stromal_Ki67,0
+Stroma mesenchymal_stromal_GranzymeB,0
+Stroma mesenchymal_stromal_VEGF,0
+Stroma mesenchymal_stromal_IFNg,0
+Stroma mesenchymal_stromal_pP38,0
+Stroma vascular endothelium_glandfront_GranzymeB,0
+Stroma vascular endothelium_glandfront_TIM3,0
+CD8 T cells CD11b+_intragland_pP38,0
+Stroma vascular endothelium_glandfront_NKG2A,0
+Stroma vascular endothelium_stromal_HLA-DR,0
+Stroma vascular endothelium_stromal_CD27,0
+Stroma vascular endothelium_stromal_NKG2C,0
+Stroma vascular endothelium_stromal_NKG2A,0
+Stroma vascular endothelium_stromal_TIM3,0
+Stroma vascular endothelium_stromal_Ki67,0
+Stroma vascular endothelium_stromal_GranzymeB,0
+Stroma vascular endothelium_stromal_VEGF,0
+Stroma vascular endothelium_stromal_IFNg,0
+Stroma vascular endothelium_stromal_pP38,0
+Stroma vascular endothelium_stromal_PR,0
+Stroma vascular endothelium_stromal_ERa,0
+Stroma vascular endothelium_glandfront_Dx,0
+Stroma vascular endothelium_glandfront_patient_id,0
+Stroma vascular endothelium_glandfront_HLA-DR,0
+Stroma vascular endothelium_glandfront_CD27,0
+Stroma vascular endothelium_glandfront_NKG2C,0
+Stroma mesenchymal_stromal_PR,0
+Stroma mesenchymal_stromal_ERa,0
+Stroma mesenchymal_glandfront_Dx,0
+Stroma mesenchymal_glandfront_patient_id,0
+CD8 T cells CD11b+_stromal_GranzymeB,0
+CD8 T cells CD11b+_stromal_VEGF,0
+CD8 T cells CD11b+_stromal_IFNg,0
+CD8 T cells CD11b+_stromal_pP38,0
+CD8 T cells CD11b+_stromal_PR,0
+CD8 T cells CD11b+_stromal_ERa,0
+CD8 T cells CD11b+_intragland_Dx,0
+CD8 T cells CD11b+_intragland_patient_id,0
+CD8 T cells CD11b+_intragland_HLA-DR,0
+CD8 T cells CD11b+_intragland_CD27,0
+CD8 T cells CD11b+_intragland_NKG2C,0
+CD8 T cells CD11b+_intragland_NKG2A,0
+CD8 T cells CD11b+_intragland_TIM3,0
+CD8 T cells CD11b+_intragland_Ki67,0
+CD8 T cells CD11b+_intragland_GranzymeB,0
+CD8 T cells CD11b+_intragland_VEGF,0
+CD8 T cells CD11b+_intragland_IFNg,0
+CD8 T cells CD11b+_stromal_Ki67,0
+CD8 T cells CD11b+_stromal_TIM3,0
+CD8 T cells CD11b+_stromal_NKG2A,0
+Stroma mesenchymal_glandfront_VEGF,0
+Stroma mesenchymal_glandfront_HLA-DR,0
+Stroma mesenchymal_glandfront_CD27,0
+Stroma mesenchymal_glandfront_NKG2C,0
+Stroma mesenchymal_glandfront_NKG2A,0
+Stroma mesenchymal_glandfront_TIM3,0
+Stroma mesenchymal_glandfront_Ki67,0
+Stroma mesenchymal_glandfront_GranzymeB,0
+Stroma mesenchymal_glandfront_IFNg,0
+CD8 T cells CD11b+_stromal_NKG2C,0
+Stroma mesenchymal_glandfront_pP38,0
+Stroma mesenchymal_glandfront_PR,0
+Stroma mesenchymal_glandfront_ERa,0
+CD8 T cells CD11b+_stromal_Dx,0
+CD8 T cells CD11b+_stromal_patient_id,0
+CD8 T cells CD11b+_stromal_HLA-DR,0
+CD8 T cells CD11b+_stromal_CD27,0
+NA_stromal_Dx,0

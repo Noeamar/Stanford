@@ -1,0 +1,6 @@
+Feature,Associated weight
+Macrophages_M2-like_glandfront_cellfrequency,-0.5299961431946605
+Gland_glandular_epithelium_intragland_cellfrequency,0.3683422817945721
+NA_intragland_cellfrequency,-0.2841206206520702
+CD4_T_cells_CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.6167313046866584
+Gland_glandular_epithelium_intragland_aggregatedNeighbors.Gland.fibroblast,-0.4694541336396865

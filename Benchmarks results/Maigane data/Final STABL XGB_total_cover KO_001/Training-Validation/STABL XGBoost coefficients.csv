@@ -1,0 +1,20 @@
+Feature,Feature importance
+CD4_T_cells_CD80_CD86+_stromal_GranzymeB,0.04988819
+CD8_T_cells_CD80_CD86+_stromal_GranzymeB,0.035307568
+Stroma_fibroblast_stromal_GranzymeB,0.01627339
+NK_cells_CD56dimCD16+CD9hi_glandfront_GranzymeB,0.11232975
+NK_cells_CD56dimCD16+CD9hi_stromal_GranzymeB,0.21348713
+Macrophages_M1_M2_stromal_GranzymeB,0.041131552
+Dendritic_Cells_CD33+_stromal_GranzymeB,0.03815018
+Dendritic_Cells_CD209CD33dp_glandfront_GranzymeB,0.056075912
+Dendritic_Cells_CD86CD33dp_stromal_GranzymeB,0.028850125
+NA_glandfront_Ki67,0.05889466
+CD4_T_cells_CD80_CD86+_stromal_area,0.02908717
+Stroma_vascular_endothelium_stromal_area,0.015214702
+Macrophages_M1-like_glandfront_area,0.05153388
+Macrophages_M1_M2_stromal_area,0.032022998
+NKT_glandfront_area,0.048968762
+aSMA-br_mesenchymal_stromal_area,0.03215198
+aSMA-br_vascular_endothelium_glandfront_area,0.055570845
+aSMA-br_vascular_endothelium_stromal_area,0.038246177
+CD8_T_cells_CD80_CD86+_stromal_eccentricity,0.04681511

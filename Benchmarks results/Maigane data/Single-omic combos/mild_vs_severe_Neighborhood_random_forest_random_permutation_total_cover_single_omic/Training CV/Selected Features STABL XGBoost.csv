@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,[],0
+Fold 1,[],0
+Fold 2,['NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi'],1
+Fold 3,[],0
+Fold 4,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",2
+Fold 5,[],0
+Fold 6,[],0
+Fold 7,[],0
+Fold 8,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi']",2
+Fold 9,[],0
+Fold 10,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 11,[],0
+Fold 12,[],0
+Fold 13,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 14,"['NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",2
+Fold 15,['NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi'],1
+Fold 16,['NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi'],1
+Fold 17,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.glandular.epithelium', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",4
+Fold 18,[],0
+Fold 19,"['NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Macrophages_M1_M2_glandfront_aggregatedNeighbors.aSMA.br.fibroblast', 'Gland_mesenchymal_glandfront_aggregatedNeighbors.Stroma.mesenchymal', 'Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium']",4
+Fold 20,"['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal', 'NK_cells_CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi', 'Gland_glandular_epithelium_glandfront_aggregatedNeighbors.Gland.glandular.epithelium']",3
+Fold 21,[],0
+Fold 22,[],0
+Fold 23,[],0
+Fold 24,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 25,[],0
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1
+Fold 29,['CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal'],1

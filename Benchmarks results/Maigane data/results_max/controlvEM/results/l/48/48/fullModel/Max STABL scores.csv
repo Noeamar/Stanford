@@ -1,0 +1,231 @@
+,Max Proba
+Gland glandular epithelium_intragland_aggregatedNeighbors.Gland.fibroblast,0.9742
+Dendritic Cells CD209CD86dp_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.8538
+Neutrophils_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.8266
+Macrophages M1/M2_glandfront_aggregatedNeighbors.Macrophages.M1.like,0.7818
+CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.7436
+Stroma vascular endothelium_glandfront_aggregatedNeighbors.Stroma.vascular.endothelium,0.7386
+aSMA-br mesenchymal_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.7248
+Neutrophils_stromal_aggregatedNeighbors.Neutrophils,0.7192
+CD4 T cells CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.7154
+Gland fibroblast_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.7144
+Dendritic Cells CD86CD33dp_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.7062
+Gland vascular endothelium_stromal_aggregatedNeighbors.Stroma.vascular.endothelium,0.6942
+CD8 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.6898
+CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.6776
+Dendritic Cells CD209CD86dp_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.6684
+NK cells CD56dimCD16+CD9hi_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.6562
+aSMA-br fibroblast_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.6538
+Dendritic Cells CD86CD33dp_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.6364
+Macrophages M1/M2_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.5982
+CD8 T cells FoxP3+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.5922
+CD4 T cells HLA-DR+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.545
+Gland vascular endothelium_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.513
+Gland mesenchymal_glandfront_aggregatedNeighbors.Gland.fibroblast,0.5102
+CD4 T cells CD80/CD86+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.5048
+Dendritic Cells CD33+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.4862
+NA_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.4846
+Dendritic Cells CD86+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.476
+CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.4704
+Neutrophils_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.467
+NK cells CD56brCD16-CD9hi_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.4638
+Gland mesenchymal_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.4626
+Macrophages M1/M2_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.4624
+Dendritic Cells CD209CD86dp_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.4548
+Gland fibroblast_stromal_aggregatedNeighbors.Stroma.fibroblast,0.4392
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.4338
+Macrophages M1-like_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.4294
+aSMA-br vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.4164
+NK cells CD56brCD16-TIM3hi_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.4102
+NK cells CD56brCD16-_glandfront_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.408
+NA_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.406
+Dendritic Cells CD209CD86dp_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.406
+NA_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.3844
+NK cells CD56brCD16-_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.3804
+Stroma mesenchymal_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.3794
+CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.3792
+Dendritic Cells CD209CD33dp_stromal_aggregatedNeighbors.Stroma.fibroblast,0.3788
+CD8 T cells HLA-DR+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.377
+Gland vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.373
+NK cells CD56brCD16-_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.3654
+Dendritic Cells CD86CD33dp_stromal_aggregatedNeighbors.Stroma.fibroblast,0.3644
+Neutrophils_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.3596
+NK cells CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.3594
+Dendritic Cells CD209CD33dp_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.3492
+Macrophages MDSC_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.3474
+NA_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.3418
+CD8 T cells FoxP3+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.34
+Dendritic Cells CD86+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.3388
+Dendritic Cells CD33+_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.3374
+Macrophages M2-like_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.324
+CD8 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.322
+CD8 T cells FoxP3+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.3206
+CD4 T cells HLA-DR+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.3176
+NK cells CD56brCD16-_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.3124
+Macrophages MDSC_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.3062
+Gland vascular endothelium_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.3056
+NA_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.3048
+aSMA-br fibroblast_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.3024
+NK cells CD56brCD16-CD9hi_glandfront_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.3022
+CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2872
+NK cells CD56brCD16-_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.286
+Dendritic Cells CD209CD86dp_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2844
+aSMA-br mesenchymal_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2782
+Macrophages MDSC_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.2732
+CD4 T cells CD80/CD86+_intragland_aggregatedNeighbors.Gland.mesenchymal,0.273
+Dendritic Cells CD209CD33dp_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.2706
+Gland vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2706
+Macrophages M1/M2_stromal_aggregatedNeighbors.Macrophages.MDSC,0.2688
+CD4 T cells FoxP3+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2674
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.266
+CD8 T cells FoxP3+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2642
+Neutrophils_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.2592
+Dendritic Cells CD33+_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.258
+Gland fibroblast_intragland_aggregatedNeighbors.Gland.mesenchymal,0.2488
+NK cells CD56brCD16-_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.2468
+NK cells CD56dimCD16+CD9hi_intragland_aggregatedNeighbors.Gland.mesenchymal,0.244
+NK cells CD56dimCD16+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2432
+CD8 T cells FoxP3+_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.2424
+Dendritic Cells CD33+_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.2414
+NK cells CD56brCD16-_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.2414
+CD4 T cells CD11b+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.2398
+aSMA-br vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.2398
+Neutrophils_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.238
+Gland mesenchymal_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.2348
+Gland vascular endothelium_glandfront_aggregatedNeighbors.Stroma.vascular.endothelium,0.2326
+Macrophages M1/M2_stromal_aggregatedNeighbors.Macrophages.M2.like,0.2318
+CD8 T cells CD80/CD86+_intragland_aggregatedNeighbors.Gland.mesenchymal,0.229
+Dendritic Cells CD209CD86dp_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.226
+Stroma vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2228
+Dendritic Cells CD86CD33dp_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2216
+Gland glandular epithelium_intragland_aggregatedNeighbors.Gland.mesenchymal,0.2202
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2202
+Dendritic Cells CD33+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.2192
+NK cells CD56brCD16-TIM3hi_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.2188
+CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.2184
+NA_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.2168
+Dendritic Cells CD33+_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.2158
+CD8 T cells FoxP3+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.2114
+CD8 T cells HLA-DR+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2096
+Macrophages M1/M2_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.2094
+CD4 T cells CD11b+_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.2078
+Dendritic Cells CD209CD33dp_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2042
+NK cells CD56brCD16-CD9hi_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.2032
+CD4 T cells CD11b+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.2032
+Gland mesenchymal_intragland_aggregatedNeighbors.Gland.fibroblast,0.197
+Gland mesenchymal_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.195
+Gland mesenchymal_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1916
+Gland fibroblast_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1912
+CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.Macrophages.M2.like,0.1878
+CD8 T cells CD11b+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1868
+Gland vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.186
+Gland fibroblast_glandfront_aggregatedNeighbors.Gland.fibroblast,0.1854
+NK cells CD56brCD16-TIM3hi_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.182
+Dendritic Cells CD33+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1816
+Gland vascular endothelium_glandfront_aggregatedNeighbors.Gland.fibroblast,0.1802
+Gland fibroblast_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1772
+NA_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.177
+Neutrophils_glandfront_aggregatedNeighbors.Neutrophils,0.1756
+CD8 T cells HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1754
+NK cells CD56brCD16-CD9hi_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.1718
+Neutrophils_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.1706
+Gland vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1704
+CD4 T cells CD80/CD86+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.167
+Stroma vascular endothelium_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1656
+Dendritic Cells CD86CD33dp_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1652
+Gland glandular epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.1622
+CD8 T cells HLA-DR+_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1612
+NK cells CD56brCD16-_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.159
+Macrophages MDSC_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.159
+Dendritic Cells CD33+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.157
+NK cells CD56brCD16-CD9hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.1506
+Macrophages M1/M2_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1448
+Dendritic Cells CD209CD33dp_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1428
+NK cells CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.NK.cells.CD56dimCD16.CD9hi,0.138
+aSMA-br fibroblast_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1342
+NK cells CD56dimCD16+_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.132
+NKT_glandfront_aggregatedNeighbors.Gland.fibroblast,0.1314
+CD4 T cells CD80/CD86+_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1314
+Dendritic Cells CD209CD33dp_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.1296
+Macrophages M1/M2_stromal_aggregatedNeighbors.Stroma.fibroblast,0.1294
+CD8 T cells CD80/CD86+_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.1292
+Gland vascular endothelium_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1256
+Stroma vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1238
+Gland mesenchymal_intragland_aggregatedNeighbors.Gland.mesenchymal,0.1238
+Gland fibroblast_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.1214
+CD4 T cells CD11b+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1184
+Stroma vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1178
+Gland fibroblast_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1178
+NK cells CD56brCD16-_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1174
+CD4 T cells CD80/CD86+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1162
+CD4 T cells CD11b+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.116
+aSMA-br vascular endothelium_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.1158
+Neutrophils_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.115
+Macrophages MDSC_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.1132
+Dendritic Cells CD86+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1132
+NA_stromal_aggregatedNeighbors.Stroma.fibroblast,0.1124
+NA_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.112
+Macrophages M1/M2_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1116
+Stroma vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.1106
+Dendritic Cells CD86CD33dp_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1098
+Dendritic Cells CD33+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1094
+CD4 T cells HLA-DR+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.1086
+NK cells CD56dimCD16+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.108
+CD4 T cells CD80/CD86+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.1054
+CD8 T cells CD80/CD86+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.1032
+NK cells CD56brCD16-CD9hi_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.1
+Gland mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.099
+CD8 T cells HLA-DR+_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.0984
+NK cells CD56dimCD16+_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0956
+CD8 T cells CD80/CD86+_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.0952
+NK cells CD56brCD16-CD9hi_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.095
+Macrophages M1-like_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0946
+Macrophages M2-like_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0908
+aSMA-br fibroblast_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.0874
+aSMA-br vascular endothelium_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.087
+Gland fibroblast_intragland_aggregatedNeighbors.Gland.fibroblast,0.0868
+Neutrophils_stromal_aggregatedNeighbors.aSMA.br.vascular.endothelium,0.0848
+NK cells CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0846
+Stroma fibroblast_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0846
+CD8 T cells CD80/CD86+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0838
+Stroma fibroblast_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0792
+CD8 T cells HLA-DR+_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0788
+aSMA-br mesenchymal_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0736
+Gland glandular epithelium_glandfront_aggregatedNeighbors.Gland.fibroblast,0.0706
+NKT_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.0694
+CD8 T cells CD11b+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.068
+NK cells CD56dimCD16+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0676
+Dendritic Cells CD209CD33dp_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0636
+NK cells CD56dimCD16+CD9hi_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.0626
+NKT_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.0622
+Stroma mesenchymal_stromal_aggregatedNeighbors.Stroma.fibroblast,0.0614
+Stroma mesenchymal_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0574
+Stroma mesenchymal_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0516
+NK cells CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.Stroma.fibroblast,0.0506
+aSMA-br vascular endothelium_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0476
+NK cells CD56brCD16-TIM3hi_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.047
+NK cells CD56dimCD16+_stromal_aggregatedNeighbors.Stroma.fibroblast,0.0468
+Stroma fibroblast_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.0434
+Neutrophils_stromal_aggregatedNeighbors.Stroma.fibroblast,0.0412
+Gland glandular epithelium_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,0.0366
+Macrophages M1-like_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0358
+Stroma fibroblast_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0342
+Macrophages M2-like_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,0.033
+Macrophages M1-like_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0272
+Gland fibroblast_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.0224
+Stroma vascular endothelium_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.022
+NK cells CD56dimCD16+CD9hi_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0204
+NK cells CD56dimCD16+CD9hi_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0144
+Stroma vascular endothelium_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0142
+aSMA-br fibroblast_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0136
+Stroma fibroblast_glandfront_aggregatedNeighbors.Stroma.fibroblast,0.0124
+aSMA-br vascular endothelium_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0112
+Macrophages M2-like_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0106
+Gland glandular epithelium_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.009
+NK cells CD56dimCD16+CD9hi_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0086
+aSMA-br mesenchymal_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0072
+Gland mesenchymal_glandfront_aggregatedNeighbors.Gland.mesenchymal,0.0048
+CD8 T cells CD80/CD86+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.0026
+aSMA-br fibroblast_stromal_aggregatedNeighbors.aSMA.br.fibroblast,0.0022
+Stroma fibroblast_stromal_aggregatedNeighbors.Stroma.fibroblast,0.0018
+Stroma mesenchymal_glandfront_aggregatedNeighbors.Stroma.mesenchymal,0.0012

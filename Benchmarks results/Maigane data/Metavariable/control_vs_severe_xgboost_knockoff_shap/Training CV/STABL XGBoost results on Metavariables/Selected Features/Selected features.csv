@@ -1,0 +1,14 @@
+,Feature Name
+Feature n°1,CD8_T_cells_HLA-DR+_stromal_area
+Feature n°2,CD8_T_cells_CD80_CD86+_stromal_area
+Feature n°3,Stroma_vascular_endothelium_stromal_area
+Feature n°4,NK_cells_CD56dimCD16+CD9hi_stromal_area
+Feature n°5,Neutrophils_stromal_area
+Feature n°6,NKT_glandfront_area
+Feature n°7,aSMA-br_mesenchymal_stromal_area
+Feature n°8,aSMA-br_vascular_endothelium_glandfront_area
+Feature n°9,aSMA-br_vascular_endothelium_stromal_area
+Feature n°10,CD8_T_cells_CD80_CD86+_stromal_eccentricity
+Feature n°11,CD4_T_cells_CD11b+_stromal_eccentricity
+Feature n°12,NA_stromal_eccentricity
+Feature n°13,Macrophages_M2-like_glandfront_celldistance

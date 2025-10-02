@@ -1,0 +1,13 @@
+{
+  "label_mode": "mild_vs_severe",
+  "artificial_type": "knockoff",
+  "importance": "shap",
+  "model_chosen": "random_forest",
+  "n_splits": 30,
+  "test_size": 0.2,
+  "timestamp_start": "2025-09-15 15:17:10",
+  "omics_in_combo": [
+    "Functional"
+  ],
+  "timestamp_end": "2025-09-15 16:27:33"
+}

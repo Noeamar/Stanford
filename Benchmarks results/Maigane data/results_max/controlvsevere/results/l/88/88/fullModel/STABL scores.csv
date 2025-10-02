@@ -1,0 +1,4 @@
+,{'C': 0.01},{'C': 0.021544346900318832},{'C': 0.046415888336127774},{'C': 0.09999999999999999},{'C': 0.21544346900318834},{'C': 0.4641588833612777},{'C': 1.0},{'C': 2.154434690031882},{'C': 4.641588833612777},{'C': 10.0}
+Gland glandular epithelium_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.0,0.0,0.0834,0.725,0.925,0.947,0.9466,0.8828,0.6644,0.7342
+Gland mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.0,0.0,0.0,0.009,0.1096,0.2628,0.398,0.5356,0.7308,0.87
+Gland fibroblast_intragland_aggregatedNeighbors.Gland.glandular.epithelium,0.0,0.0,0.0,0.0264,0.2142,0.4254,0.5714,0.6532,0.7482,0.8628

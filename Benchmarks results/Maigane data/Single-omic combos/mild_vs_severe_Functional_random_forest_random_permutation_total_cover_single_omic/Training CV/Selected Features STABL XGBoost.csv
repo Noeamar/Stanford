@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,[],0
+Fold 1,[],0
+Fold 2,"['CD4_T_cells_CD80_CD86+_glandfront_ERa', 'CD4_T_cells_CD80_CD86+_glandfront_PR', 'CD4_T_cells_CD80_CD86+_glandfront_GranzymeB', 'NK_cells_CD56brCD16-_stromal_GranzymeB', 'NK_cells_CD56brCD16-TIM3hi_glandfront_PR', 'NK_cells_CD56brCD16-TIM3hi_glandfront_pP38', 'Macrophages_M2-like_stromal_HLA-DR', 'Macrophages_MDSC_glandfront_GranzymeB', 'Dendritic_Cells_CD86CD33dp_glandfront_VEGF', 'Dendritic_Cells_CD86CD33dp_glandfront_GranzymeB', 'Gland_mesenchymal_intragland_GranzymeB']",11
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,[],0
+Fold 6,[],0
+Fold 7,[],0
+Fold 8,[],0
+Fold 9,['CD4_T_cells_CD80_CD86+_glandfront_GranzymeB'],1
+Fold 10,[],0
+Fold 11,['Macrophages_M2-like_stromal_HLA-DR'],1
+Fold 12,[],0
+Fold 13,[],0
+Fold 14,['CD4_T_cells_CD80_CD86+_glandfront_PR'],1
+Fold 15,['Macrophages_M2-like_stromal_HLA-DR'],1
+Fold 16,"['CD4_T_cells_CD80_CD86+_glandfront_GranzymeB', 'aSMA-br_mesenchymal_glandfront_ERa']",2
+Fold 17,[],0
+Fold 18,[],0
+Fold 19,[],0
+Fold 20,"['CD8_T_cells_HLA-DR+_glandfront_ERa', 'Macrophages_MDSC_glandfront_GranzymeB', 'Gland_glandular_epithelium_glandfront_Ki67', 'Gland_glandular_epithelium_intragland_Ki67', 'Gland_mesenchymal_intragland_GranzymeB']",5
+Fold 21,[],0
+Fold 22,[],0
+Fold 23,[],0
+Fold 24,"['NK_cells_CD56brCD16-TIM3hi_stromal_Ki67', 'Macrophages_M2-like_stromal_HLA-DR', 'Macrophages_MDSC_glandfront_GranzymeB']",3
+Fold 25,[],0
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,['Macrophages_M2-like_stromal_HLA-DR'],1

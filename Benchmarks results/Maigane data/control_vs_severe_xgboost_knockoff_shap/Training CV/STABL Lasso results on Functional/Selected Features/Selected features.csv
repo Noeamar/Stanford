@@ -1,0 +1,11 @@
+,Feature Name
+Feature n°1,CD4_T_cells_CD80_CD86+_stromal_GranzymeB
+Feature n°2,CD8_T_cells_CD80_CD86+_intragland_Ki67
+Feature n°3,CD4_T_cells_CD11b+_stromal_Ki67
+Feature n°4,Macrophages_M1_M2_stromal_GranzymeB
+Feature n°5,Macrophages_MDSC_glandfront_pP38
+Feature n°6,Dendritic_Cells_CD86+_intragland_PR
+Feature n°7,NKT_glandfront_Ki67
+Feature n°8,Gland_mesenchymal_stromal_Ki67
+Feature n°9,Gland_fibroblast_stromal_PR
+Feature n°10,NA_glandfront_Ki67

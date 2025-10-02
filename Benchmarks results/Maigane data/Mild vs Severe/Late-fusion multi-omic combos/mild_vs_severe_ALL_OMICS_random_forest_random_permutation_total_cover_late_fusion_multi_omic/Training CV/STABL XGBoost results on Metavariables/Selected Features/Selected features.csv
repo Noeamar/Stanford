@@ -1,0 +1,16 @@
+,Feature Name
+Feature n°1,CD4_T_cells_CD80_CD86+_stromal_area
+Feature n°2,CD8_T_cells_CD80_CD86+_stromal_area
+Feature n°3,CD4_T_cells_CD11b+_stromal_area
+Feature n°4,Stroma_mesenchymal_glandfront_area
+Feature n°5,Stroma_mesenchymal_stromal_area
+Feature n°6,Neutrophils_stromal_area
+Feature n°7,aSMA-br_fibroblast_glandfront_area
+Feature n°8,aSMA-br_fibroblast_stromal_area
+Feature n°9,aSMA-br_mesenchymal_stromal_area
+Feature n°10,Gland_glandular_epithelium_glandfront_area
+Feature n°11,Gland_mesenchymal_stromal_area
+Feature n°12,NK_cells_CD56brCD16-_stromal_eccentricity
+Feature n°13,Neutrophils_glandfront_eccentricity
+Feature n°14,Gland_fibroblast_glandfront_eccentricity
+Feature n°15,Gland_glandular_epithelium_glandfront_celldistance

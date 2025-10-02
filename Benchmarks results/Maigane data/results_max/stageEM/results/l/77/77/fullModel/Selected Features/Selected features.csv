@@ -1,0 +1,41 @@
+,Feature Name
+Feature n°1,B cells_glandfront_cellfrequency
+Feature n°2,B cells_intragland_cellfrequency
+Feature n°3,CD4 T cells FoxP3+_glandfront_cellfrequency
+Feature n°4,CD4 T cells FoxP3+_stromal_cellfrequency
+Feature n°5,CD8 T cells FoxP3+_glandfront_cellfrequency
+Feature n°6,CD8 T cells FoxP3+_intragland_cellfrequency
+Feature n°7,CD4 T cells HLA-DR+_stromal_cellfrequency
+Feature n°8,CD8 T cells HLA-DR+_glandfront_cellfrequency
+Feature n°9,CD8 T cells HLA-DR+_stromal_cellfrequency
+Feature n°10,CD4 T cells CD80/CD86+_glandfront_cellfrequency
+Feature n°11,CD4 T cells CD80/CD86+_stromal_cellfrequency
+Feature n°12,CD8 T cells CD80/CD86+_intragland_cellfrequency
+Feature n°13,CD4 T cells CD11b+_glandfront_cellfrequency
+Feature n°14,NK cells CD56dimCD16+_glandfront_cellfrequency
+Feature n°15,NK cells CD56brCD16-NKG2Ahi_glandfront_cellfrequency
+Feature n°16,NK cells CD56brCD16-NKG2AhiTIM3hi_intragland_cellfrequency
+Feature n°17,NK cells CD56brCD16-CD9hi_glandfront_cellfrequency
+Feature n°18,NK cells CD56brCD16-CD9hi_intragland_cellfrequency
+Feature n°19,Macrophages M1-like_glandfront_cellfrequency
+Feature n°20,Macrophages M2-like_intragland_cellfrequency
+Feature n°21,Macrophages MDSC_intragland_cellfrequency
+Feature n°22,Dendritic Cells CD86+_glandfront_cellfrequency
+Feature n°23,Dendritic Cells CD209CD86dp_glandfront_cellfrequency
+Feature n°24,Dendritic Cells CD209CD86dp_intragland_cellfrequency
+Feature n°25,Dendritic Cells CD209CD86dp_stromal_cellfrequency
+Feature n°26,Dendritic Cells CD209CD33dp_glandfront_cellfrequency
+Feature n°27,Dendritic Cells CD209CD33dp_stromal_cellfrequency
+Feature n°28,Neutrophils_glandfront_cellfrequency
+Feature n°29,Neutrophils_intragland_cellfrequency
+Feature n°30,aSMA-br fibroblast_stromal_cellfrequency
+Feature n°31,Gland mesenchymal_intragland_cellfrequency
+Feature n°32,Gland mesenchymal_stromal_cellfrequency
+Feature n°33,Gland fibroblast_intragland_cellfrequency
+Feature n°34,Gland vascular endothelium_glandfront_cellfrequency
+Feature n°35,Gland vascular endothelium_intragland_cellfrequency
+Feature n°36,Gland epithelial stem_intragland_cellfrequency
+Feature n°37,aSMA-br epithelial stem_intragland_cellfrequency
+Feature n°38,aSMA-br glandular epithelium_glandfront_cellfrequency
+Feature n°39,NA_glandfront_cellfrequency
+Feature n°40,NA_stromal_cellfrequency

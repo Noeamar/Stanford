@@ -1,0 +1,10 @@
+Feature,Associated weight
+CD4_T_cells_CD80_CD86+_stromal_area,0.11004257731729954
+Stroma_vascular_endothelium_stromal_area,0.20335791594735378
+Macrophages_M1-like_glandfront_area,0.41421733435939373
+NKT_glandfront_area,0.25003691359822944
+aSMA-br_mesenchymal_stromal_area,-0.012286855505697967
+aSMA-br_vascular_endothelium_glandfront_area,0.25930750309756845
+aSMA-br_vascular_endothelium_stromal_area,-0.23753648298309174
+Gland_glandular_epithelium_glandfront_area,0.033180418204269646
+CD8_T_cells_CD80_CD86+_stromal_eccentricity,0.10257648302491207

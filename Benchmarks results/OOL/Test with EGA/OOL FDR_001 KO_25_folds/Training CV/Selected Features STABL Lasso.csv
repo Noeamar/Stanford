@@ -1,0 +1,26 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['EGA_CyTOF', 'BMPER', 'IL.1.R4', 'SLPI', 'GP1BA', 'SSRP1', 'TFF1', 'EGA_Proteomics']",8
+Fold 1,"['CCR5posCCR2posCD8Tcm_NFkB_unstim', 'ncMCs_MAPKAPK2_GMCSF', 'CD56hiCD16negNK_STAT6_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'CD8Tmem_STAT1_IFNa', 'DCs_STAT5_IL246', 'DCs_STAT3_IL246', 'DCs_STAT6_IL246', 'TCRgdposT_STAT5_IL246', 'CCR5posCCR2posCD4Tem_STAT5_IL246', 'mDCs', 'CD69posCD4Tmem', 'NKT', 'EGA_CyTOF', 'Vitronectin', 'EPO.R', 'Siglec.6', 'PAI.1', 'ULBP.2', 'IL.18.Ra', 'FCN1', 'Nectin.like.protein.1', 'TLR4.MD.2.complex', 'sTie.2', 'IL.1.R4', 'SLPI', 'MMP.12', 'sL.Selectin', 'MCP.3', 'IL.23.R', 'PDE4D', 'S100A12', 'DSCAM', 'EGA_Proteomics']",34
+Fold 2,"['CD4posTnaive_STAT1_IL246', 'Bcells', 'TCRgdposT', 'EGA_CyTOF', 'Vitronectin', 'ZNRF3', 'SLPI', 'SSRP1', 'ANK2', 'EGA_Proteomics']",10
+Fold 3,"['CD56hiCD16negNK_STAT6_IFNa', 'CD8Tem', 'NKT', 'EGA_CyTOF', 'Siglec.6', 'SLPI', 'EGA_Proteomics']",7
+Fold 4,"['CD56hiCD16negNK_STAT6_IFNa', 'EGA_CyTOF', 'C1QR1', 'Angiopoietin.2', 'HIV.2.Rev', 'Cadherin.5', 'PARC', 'Trypsin', 'ULBP.2', 'CSK21', 'Nectin.like.protein.1', 'IL.1.R4', 'SLPI', 'MCP.3', 'GRN', 'SSRP1', 'IL.23.R', 'S100A12', 'EGA_Proteomics']",19
+Fold 5,"['CD56hiCD16negNK_STAT6_IFNa', 'EGA_CyTOF', 'C1QR1', 'HIV.2.Rev', 'Cadherin.5', 'MIP.1a', 'PARC', 'Trypsin', 'ULBP.2', 'TBK1', 'SDF.1', 'Nectin.like.protein.1', 'IL.1.R4', 'GDF2', 'MCP.3', 'GRN', 'IL.23.R', 'EGA_Proteomics']",18
+Fold 6,"['CCR2negncMCs_MAPKAPK2_GMCSF', 'mDCs', 'EGA_CyTOF', 'SLPI', 'EGA_Proteomics']",5
+Fold 7,"['CD56hiCD16negNK_STAT6_IFNa', 'EGA_CyTOF', 'Vitronectin', 'B7', 'Siglec.6', 'HIV.2.Rev', 'IL.15.Ra', 'Nectin.like.protein.1', 'sRAGE', 'IL.1.R4', 'SLPI', 'IL.3.Ra', 'MCP.3', 'AGR2', 'ANK2', 'IFN.a.b.R1', 'TFF1', 'EGA_Proteomics']",18
+Fold 8,"['Granulocytes_STAT1_IFNa', 'TCRgdposT_STAT5_IFNa', 'CD4Tef_STAT6_IFNa', 'DCs_STAT3_IL246', 'DCs_STAT6_IL246', 'CD69negCD56loCD16negNK_STAT3_IL246', 'CCR5posCCR2posCD4Tcm_STAT3_IL246', 'CD8Tef_STAT3_IL246', 'TCRgdposT', 'CD4Tef', 'EGA_CyTOF', 'ULBP.2', 'GDF2', 'Rb', 'EGA_Proteomics']",15
+Fold 9,"['pDCs_STAT5_GMCSF', 'Granulocytes_S6_LPS', 'Bcells', 'TCRgdposT', 'CD8Tem', 'NKT', 'EGA_CyTOF', 'SLPI', 'Rb', 'TFF1', 'EGA_Proteomics']",11
+Fold 10,"['DCs_STAT6_IL246', 'EGA_CyTOF', 'Vitronectin', 'Siglec.6', 'ULBP.2', 'CSK21', 'IL.1.R4', 'SLPI', 'MMP.12', 'SH21A', 'Olfactomedin.4', 'GP1BA', 'SSRP1', 'ANK2', 'EGA_Proteomics']",15
+Fold 11,"['CD56hiCD16negNK_STAT6_IFNa', 'CD69posCD4Tmem', 'NKT', 'EGA_CyTOF', 'Siglec.6', 'HIV.2.Rev', 'ULBP.2', 'kallikrein.12', 'TBK1', 'Nectin.like.protein.1', 'SLPI', 'MCP.3', 'NOTC2', 'LRP1B', 'TFF1', 'EGA_Proteomics']",16
+Fold 12,"['CD56hiCD16negNK_STAT6_IFNa', 'CD8Tef_STAT3_IL246', 'CD69posCD4Tmem', 'EGA_CyTOF', 'Vitronectin', 'ULBP.2', 'SLPI', 'FGFR4', 'SSRP1', 'EGA_Proteomics']",10
+Fold 13,"['CD56hiCD16negNK_STAT6_IFNa', 'NKT', 'EGA_CyTOF', 'C1QR1', 'Siglec.6', 'TBK1', 'IL.1.R4', 'sICAM.1', 'SLPI', 'MMP.12', 'IL.23.R', 'TFF1', 'EGA_Proteomics']",13
+Fold 14,"['EGA_CyTOF', 'Vitronectin', 'SLPI', 'EGA_Proteomics']",4
+Fold 15,"['CCR2negncMCs_MAPKAPK2_GMCSF', 'Bcells_STAT1_IFNa', 'CD56hiCD16negNK_STAT6_IFNa', 'DCs_STAT6_IL246', 'CCR5posCCR2posCD4Tem', 'EGA_CyTOF', 'PRL', 'ULBP.2', 'FCN2', 'Nectin.like.protein.1', 'Macrophage.scavenger.receptor', 'SLPI', 'SLIK5', 'MCP.3', 'GRN', 'TFF1', 'EGA_Proteomics']",17
+Fold 16,"['TCRgdposT_NFkB_unstim', 'CD56hiCD16negNK_STAT6_IFNa', 'DCs_STAT3_IL246', 'EGA_CyTOF', 'Vitronectin', 'B7', 'ULBP.2', 'ABL1', 'SLPI', 'MMP.12', 'EGA_Proteomics']",11
+Fold 17,"['CD69negCD56loCD16negNK_STAT1_IFNa', 'Bcells', 'TCRgdposT', 'NKT', 'EGA_CyTOF', 'Siglec.6', 'kallikrein.13', 'ANGL3', 'IL.1.R4', 'SLPI', 'sL.Selectin', 'Angiogenin', 'EPI', 'SSRP1', 'ANK2', 'TFF1', 'EGA_Proteomics']",17
+Fold 18,"['EGA_CyTOF', 'Siglec.6', 'SLPI', 'MMP.12', 'SSRP1', 'IFN.g.R1', 'TFF1', 'EGA_Proteomics']",8
+Fold 19,"['CD56hiCD16negNK_STAT6_IFNa', 'CD8Tem', 'NKT', 'EGA_CyTOF', 'IL.1.R4', 'SLPI', 'MCP.3', 'EGA_Proteomics']",8
+Fold 20,"['CCR2negncMCs_MAPKAPK2_GMCSF', 'NK_STAT1_IFNa', 'CD56hiCD16negNK_STAT6_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'DCs_STAT6_IL246', 'CD8Tem', 'EGA_CyTOF', 'Vitronectin', 'C1QR1', 'Siglec.6', 'PAI.1', 'bFGF', 'ULBP.2', 'Aggrecan', 'TBK1', 'IL.18.Ra', 'Nectin.like.protein.1', 'Macrophage.scavenger.receptor', 'IL.1.R4', 'SLPI', 'GDF2', 'MCP.3', 'IL.23.R', 'IFN.g.R1', 'S100A12', 'EGA_Proteomics']",26
+Fold 21,"['CD4Tef_STAT1_IL246', 'NKT', 'EGA_CyTOF', 'Vitronectin', 'TGF.b1', 'B7', 'Siglec.6', 'TBK1', 'Survivin', 'SLPI', 'IL.5.Ra', 'MMP.12', 'SLIK5', 'IFN.g.R1', 'ANK2', 'EGA_Proteomics']",16
+Fold 22,"['NK_STAT1_IFNa', 'NKT', 'EGA_CyTOF', 'C1QR1', 'Siglec.6', 'Cadherin.5', 'HCK', 'IL.1.R4', 'SLPI', 'MCP.3', 'EGA_Proteomics']",11
+Fold 23,"['CD56hiCD16negNK_STAT6_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'DCs_STAT6_IL246', 'mDCs', 'NKT', 'EGA_CyTOF', 'IL.1.R4', 'MMP.12', 'MCP.3', 'IL.23.R', 'EGA_Proteomics']",11
+Fold 24,"['NKT_STAT6_unstim', 'Bcells_STAT1_IFNa', 'CD4Tef_STAT6_IFNa', 'TCRgdposT', 'EGA_CyTOF', 'Vitronectin', 'ULBP.2', 'SLPI', 'SSRP1', 'EGA_Proteomics']",10

@@ -1,0 +1,76 @@
+,Feature Name
+Feature n°1,CD8 T cells FoxP3+_glandfront_area
+Feature n°2,CD4 T cells HLA-DR+_glandfront_area
+Feature n°3,CD4 T cells HLA-DR+_stromal_area
+Feature n°4,CD8 T cells HLA-DR+_glandfront_area
+Feature n°5,CD8 T cells HLA-DR+_stromal_area
+Feature n°6,CD4 T cells CD80/CD86+_glandfront_area
+Feature n°7,CD4 T cells CD80/CD86+_stromal_area
+Feature n°8,CD8 T cells CD80/CD86+_glandfront_area
+Feature n°9,CD8 T cells CD80/CD86+_intragland_area
+Feature n°10,Stroma vascular endothelium_glandfront_area
+Feature n°11,Stroma vascular endothelium_stromal_area
+Feature n°12,NK cells CD56dimCD16+_stromal_area
+Feature n°13,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_area
+Feature n°14,NK cells CD56dimCD16+CD9hi_intragland_area
+Feature n°15,NK cells CD56brCD16-CD9hi_glandfront_area
+Feature n°16,Dendritic Cells CD86+_glandfront_area
+Feature n°17,Dendritic Cells CD33+_glandfront_area
+Feature n°18,Dendritic Cells CD33+_stromal_area
+Feature n°19,Dendritic Cells CD209CD33dp_glandfront_area
+Feature n°20,NKT_glandfront_area
+Feature n°21,Gland glandular epithelium_glandfront_area
+Feature n°22,Gland glandular epithelium_intragland_area
+Feature n°23,Gland mesenchymal_stromal_area
+Feature n°24,Gland fibroblast_intragland_area
+Feature n°25,CD4 T cells FoxP3+_glandfront_eccentricity
+Feature n°26,CD4 T cells FoxP3+_stromal_eccentricity
+Feature n°27,CD4 T cells HLA-DR+_glandfront_eccentricity
+Feature n°28,CD4 T cells HLA-DR+_stromal_eccentricity
+Feature n°29,CD8 T cells HLA-DR+_glandfront_eccentricity
+Feature n°30,CD8 T cells HLA-DR+_stromal_eccentricity
+Feature n°31,CD4 T cells CD80/CD86+_glandfront_eccentricity
+Feature n°32,CD8 T cells CD80/CD86+_glandfront_eccentricity
+Feature n°33,CD8 T cells CD80/CD86+_intragland_eccentricity
+Feature n°34,CD8 T cells CD11b+_glandfront_eccentricity
+Feature n°35,CD8 T cells CD11b+_stromal_eccentricity
+Feature n°36,NK cells CD56dimCD16+_stromal_eccentricity
+Feature n°37,NK cells CD56brCD16-TIM3hi_stromal_eccentricity
+Feature n°38,Macrophages MDSC_glandfront_eccentricity
+Feature n°39,Macrophages MDSC_stromal_eccentricity
+Feature n°40,Dendritic Cells CD86+_glandfront_eccentricity
+Feature n°41,Dendritic Cells CD86+_stromal_eccentricity
+Feature n°42,Dendritic Cells CD33+_glandfront_eccentricity
+Feature n°43,Dendritic Cells CD33+_intragland_eccentricity
+Feature n°44,Dendritic Cells CD33+_stromal_eccentricity
+Feature n°45,Dendritic Cells CD209CD86dp_glandfront_eccentricity
+Feature n°46,Dendritic Cells CD209CD86dp_stromal_eccentricity
+Feature n°47,Dendritic Cells CD209CD33dp_glandfront_eccentricity
+Feature n°48,Dendritic Cells CD209CD33dp_stromal_eccentricity
+Feature n°49,Dendritic Cells CD86CD33dp_glandfront_eccentricity
+Feature n°50,Neutrophils_glandfront_eccentricity
+Feature n°51,Neutrophils_stromal_eccentricity
+Feature n°52,aSMA-br fibroblast_glandfront_eccentricity
+Feature n°53,Gland glandular epithelium_intragland_eccentricity
+Feature n°54,NA_glandfront_eccentricity
+Feature n°55,CD8 T cells FoxP3+_glandfront_celldistance
+Feature n°56,CD4 T cells HLA-DR+_glandfront_celldistance
+Feature n°57,CD8 T cells HLA-DR+_glandfront_celldistance
+Feature n°58,CD8 T cells CD11b+_glandfront_celldistance
+Feature n°59,Stroma vascular endothelium_glandfront_celldistance
+Feature n°60,NK cells CD56brCD16-_glandfront_celldistance
+Feature n°61,NK cells CD56dimCD16+_glandfront_celldistance
+Feature n°62,NK cells CD56brCD16-TIM3hi_glandfront_celldistance
+Feature n°63,NK cells CD56dimCD16+CD9hi_glandfront_celldistance
+Feature n°64,Macrophages M1/M2_glandfront_celldistance
+Feature n°65,Macrophages MDSC_glandfront_celldistance
+Feature n°66,Dendritic Cells CD86+_glandfront_celldistance
+Feature n°67,Dendritic Cells CD209CD86dp_glandfront_celldistance
+Feature n°68,Dendritic Cells CD209CD33dp_glandfront_celldistance
+Feature n°69,Neutrophils_glandfront_celldistance
+Feature n°70,aSMA-br fibroblast_glandfront_celldistance
+Feature n°71,aSMA-br vascular endothelium_glandfront_celldistance
+Feature n°72,Gland glandular epithelium_glandfront_celldistance
+Feature n°73,Gland mesenchymal_glandfront_celldistance
+Feature n°74,Gland vascular endothelium_glandfront_celldistance
+Feature n°75,NA_glandfront_celldistance

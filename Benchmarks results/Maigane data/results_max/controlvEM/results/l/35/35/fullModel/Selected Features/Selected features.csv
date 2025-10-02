@@ -1,0 +1,14 @@
+,Feature Name
+Feature n°1,CD8 T cells HLA-DR+_glandfront_TIM3
+Feature n°2,CD8 T cells CD80/CD86+_glandfront_IFNg
+Feature n°3,Macrophages M1/M2_glandfront_IFNg
+Feature n°4,Macrophages M1/M2_stromal_PR
+Feature n°5,Macrophages MDSC_glandfront_pP38
+Feature n°6,Dendritic Cells CD86+_glandfront_TIM3
+Feature n°7,Dendritic Cells CD209CD86dp_stromal_CD27
+Feature n°8,Dendritic Cells CD209CD33dp_glandfront_CD27
+Feature n°9,Dendritic Cells CD209CD33dp_stromal_NKG2A
+Feature n°10,aSMA-br fibroblast_glandfront_TIM3
+Feature n°11,Gland fibroblast_glandfront_TIM3
+Feature n°12,Gland vascular endothelium_glandfront_TIM3
+Feature n°13,NA_glandfront_Ki67

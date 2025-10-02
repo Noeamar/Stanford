@@ -1,0 +1,47 @@
+,Feature Name
+Feature n°1,CD4 T cells FoxP3+_glandfront_VEGF
+Feature n°2,CD8 T cells FoxP3+_stromal_HLA-DR
+Feature n°3,CD4 T cells HLA-DR+_glandfront_PR
+Feature n°4,CD4 T cells HLA-DR+_glandfront_Ki67
+Feature n°5,CD4 T cells HLA-DR+_stromal_Ki67
+Feature n°6,CD8 T cells HLA-DR+_glandfront_ERa
+Feature n°7,CD8 T cells HLA-DR+_glandfront_Ki67
+Feature n°8,CD8 T cells HLA-DR+_intragland_HLA-DR
+Feature n°9,CD8 T cells HLA-DR+_stromal_Ki67
+Feature n°10,CD8 T cells HLA-DR+_stromal_HLA-DR
+Feature n°11,CD8 T cells CD80/CD86+_glandfront_GranzymeB
+Feature n°12,CD8 T cells CD80/CD86+_glandfront_Ki67
+Feature n°13,CD8 T cells CD80/CD86+_intragland_PR
+Feature n°14,CD8 T cells CD11b+_glandfront_PR
+Feature n°15,CD8 T cells CD11b+_stromal_PR
+Feature n°16,Stroma fibroblast_glandfront_PR
+Feature n°17,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_ERa
+Feature n°18,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_TIM3
+Feature n°19,NK cells CD56brCD16-TIM3hi_glandfront_HLA-DR
+Feature n°20,NK cells CD56brCD16-TIM3hi_stromal_Ki67
+Feature n°21,Macrophages M2-like_glandfront_HLA-DR
+Feature n°22,Macrophages M1/M2_glandfront_GranzymeB
+Feature n°23,Macrophages MDSC_glandfront_GranzymeB
+Feature n°24,Macrophages MDSC_stromal_HLA-DR
+Feature n°25,Dendritic Cells CD86+_glandfront_ERa
+Feature n°26,Dendritic Cells CD86+_stromal_Ki67
+Feature n°27,Dendritic Cells CD209CD86dp_glandfront_GranzymeB
+Feature n°28,Dendritic Cells CD209CD33dp_glandfront_ERa
+Feature n°29,Dendritic Cells CD209CD33dp_glandfront_GranzymeB
+Feature n°30,Dendritic Cells CD86CD33dp_glandfront_GranzymeB
+Feature n°31,Neutrophils_glandfront_GranzymeB
+Feature n°32,Neutrophils_stromal_Ki67
+Feature n°33,NKT_glandfront_GranzymeB
+Feature n°34,aSMA-br mesenchymal_glandfront_ERa
+Feature n°35,aSMA-br mesenchymal_glandfront_GranzymeB
+Feature n°36,Gland glandular epithelium_glandfront_Ki67
+Feature n°37,Gland glandular epithelium_intragland_PR
+Feature n°38,Gland glandular epithelium_intragland_Ki67
+Feature n°39,Gland mesenchymal_intragland_GranzymeB
+Feature n°40,Gland mesenchymal_intragland_Ki67
+Feature n°41,Gland mesenchymal_stromal_Ki67
+Feature n°42,Gland fibroblast_intragland_VEGF
+Feature n°43,Gland fibroblast_intragland_GranzymeB
+Feature n°44,Gland fibroblast_stromal_GranzymeB
+Feature n°45,Gland fibroblast_stromal_HLA-DR
+Feature n°46,NA_glandfront_ERa

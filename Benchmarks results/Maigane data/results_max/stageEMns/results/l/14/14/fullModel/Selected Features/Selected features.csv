@@ -1,0 +1,44 @@
+,Feature Name
+Feature n°1,B cells
+Feature n°2,CD4 T cells FoxP3+
+Feature n°3,CD8 T cells FoxP3+
+Feature n°4,CD4 T cells HLA-DR+
+Feature n°5,CD8 T cells HLA-DR+
+Feature n°6,CD4 T cells CD80/CD86+
+Feature n°7,CD8 T cells CD80/CD86+
+Feature n°8,CD4 T cells CD11b+
+Feature n°9,CD8 T cells CD11b+
+Feature n°10,Stroma epithelial stem
+Feature n°11,Stroma mesenchymal
+Feature n°12,Stroma glandular epithelium
+Feature n°13,Stroma vascular endothelium
+Feature n°14,Stroma fibroblast
+Feature n°15,NK cells CD56brCD16-
+Feature n°16,NK cells CD56dimCD16+
+Feature n°17,NK cells CD56brCD16-NKG2Ahi
+Feature n°18,NK cells CD56brCD16-NKG2AhiTIM3hi
+Feature n°19,NK cells CD56brCD16-TIM3hi
+Feature n°20,NK cells CD56dimCD16+CD9hi
+Feature n°21,NK cells CD56brCD16-CD9hi
+Feature n°22,Macrophages M1-like
+Feature n°23,Macrophages M2-like
+Feature n°24,Macrophages M1/M2
+Feature n°25,Macrophages MDSC
+Feature n°26,Dendritic Cells CD86+
+Feature n°27,Dendritic Cells CD33+
+Feature n°28,Dendritic Cells CD209CD86dp
+Feature n°29,Dendritic Cells CD209CD33dp
+Feature n°30,Dendritic Cells CD86CD33dp
+Feature n°31,Neutrophils
+Feature n°32,NKT
+Feature n°33,aSMA-br fibroblast
+Feature n°34,aSMA-br mesenchymal
+Feature n°35,aSMA-br vascular endothelium
+Feature n°36,Gland glandular epithelium
+Feature n°37,Gland mesenchymal
+Feature n°38,Gland fibroblast
+Feature n°39,Gland vascular endothelium
+Feature n°40,Gland epithelial stem
+Feature n°41,aSMA-br epithelial stem
+Feature n°42,aSMA-br glandular epithelium
+Feature n°43,NA

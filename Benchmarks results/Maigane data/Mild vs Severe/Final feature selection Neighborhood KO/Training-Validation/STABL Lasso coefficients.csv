@@ -1,0 +1,8 @@
+Feature,Associated weight
+CD8_T_cells_FoxP3+_stromal_aggregatedNeighbors.Stroma.mesenchymal,0.9720243125861304
+CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Stroma.mesenchymal,1.4052962766375898
+CD4_T_cells_HLA-DR+_stromal_aggregatedNeighbors.Macrophages.M2.like,0.7469063081806132
+Dendritic_Cells_CD209CD33dp_glandfront_aggregatedNeighbors.Gland.mesenchymal,-0.5475420853359748
+Neutrophils_glandfront_aggregatedNeighbors.aSMA.br.fibroblast,1.06444479996883
+Gland_mesenchymal_glandfront_aggregatedNeighbors.Gland.glandular.epithelium,-1.3754501259203646
+Gland_mesenchymal_intragland_aggregatedNeighbors.Gland.glandular.epithelium,-0.16165208275010232

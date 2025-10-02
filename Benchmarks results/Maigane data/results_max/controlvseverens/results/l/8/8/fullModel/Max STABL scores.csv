@@ -1,0 +1,44 @@
+,Max Proba
+Macrophages M1-like,0.9734
+Gland fibroblast,0.9618
+CD4 T cells CD11b+,0.9498
+Gland mesenchymal,0.9354
+Macrophages M2-like,0.918
+NK cells CD56brCD16-TIM3hi,0.8962
+CD4 T cells FoxP3+,0.8928
+Gland epithelial stem,0.8844
+B cells,0.8756
+Dendritic Cells CD86CD33dp,0.8634
+NK cells CD56brCD16-NKG2AhiTIM3hi,0.8524
+aSMA-br fibroblast,0.8278
+NK cells CD56dimCD16+,0.7966
+Stroma vascular endothelium,0.792
+NKT,0.7888
+NA,0.7882
+Gland vascular endothelium,0.7824
+Stroma mesenchymal,0.7716
+Macrophages MDSC,0.7632
+Dendritic Cells CD33+,0.7594
+Gland glandular epithelium,0.7334
+aSMA-br glandular epithelium,0.73
+NK cells CD56dimCD16+CD9hi,0.7022
+Dendritic Cells CD209CD86dp,0.695
+CD8 T cells CD80/CD86+,0.682
+Macrophages M1/M2,0.675
+Neutrophils,0.6554
+Dendritic Cells CD86+,0.6544
+NK cells CD56brCD16-CD9hi,0.5902
+Stroma glandular epithelium,0.5886
+Stroma fibroblast,0.5816
+CD4 T cells HLA-DR+,0.5746
+CD4 T cells CD80/CD86+,0.5732
+CD8 T cells HLA-DR+,0.5462
+NK cells CD56brCD16-NKG2Ahi,0.4978
+aSMA-br epithelial stem,0.4808
+aSMA-br mesenchymal,0.458
+CD8 T cells FoxP3+,0.4552
+CD8 T cells CD11b+,0.4546
+NK cells CD56brCD16-,0.4308
+Dendritic Cells CD209CD33dp,0.4018
+Stroma epithelial stem,0.374
+aSMA-br vascular endothelium,0.3362

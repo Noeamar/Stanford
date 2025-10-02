@@ -1,0 +1,83 @@
+,Feature Name
+Feature n°1,CD4 T cells FoxP3+_glandfront_PR
+Feature n°2,CD4 T cells FoxP3+_stromal_Ki67
+Feature n°3,CD8 T cells FoxP3+_glandfront_VEGF
+Feature n°4,CD4 T cells HLA-DR+_glandfront_ERa
+Feature n°5,CD4 T cells HLA-DR+_glandfront_VEGF
+Feature n°6,CD4 T cells HLA-DR+_glandfront_HLA-DR
+Feature n°7,CD4 T cells HLA-DR+_stromal_PR
+Feature n°8,CD4 T cells HLA-DR+_stromal_VEGF
+Feature n°9,CD8 T cells HLA-DR+_intragland_ERa
+Feature n°10,CD8 T cells HLA-DR+_intragland_PR
+Feature n°11,CD4 T cells CD80/CD86+_intragland_PR
+Feature n°12,CD4 T cells CD80/CD86+_stromal_ERa
+Feature n°13,CD4 T cells CD80/CD86+_stromal_VEGF
+Feature n°14,CD4 T cells CD80/CD86+_stromal_Ki67
+Feature n°15,CD8 T cells CD80/CD86+_intragland_ERa
+Feature n°16,CD8 T cells CD80/CD86+_intragland_PR
+Feature n°17,CD8 T cells CD80/CD86+_stromal_GranzymeB
+Feature n°18,CD4 T cells CD11b+_glandfront_PR
+Feature n°19,CD4 T cells CD11b+_stromal_GranzymeB
+Feature n°20,CD8 T cells CD11b+_stromal_PR
+Feature n°21,Stroma vascular endothelium_glandfront_VEGF
+Feature n°22,Stroma fibroblast_glandfront_PR
+Feature n°23,Stroma fibroblast_glandfront_VEGF
+Feature n°24,NK cells CD56brCD16-_glandfront_Ki67
+Feature n°25,NK cells CD56brCD16-_stromal_GranzymeB
+Feature n°26,NK cells CD56brCD16-_stromal_Ki67
+Feature n°27,NK cells CD56brCD16-_stromal_HLA-DR
+Feature n°28,NK cells CD56dimCD16+_stromal_Ki67
+Feature n°29,NK cells CD56dimCD16+_stromal_HLA-DR
+Feature n°30,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_TIM3
+Feature n°31,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_HLA-DR
+Feature n°32,NK cells CD56brCD16-TIM3hi_glandfront_PR
+Feature n°33,NK cells CD56brCD16-TIM3hi_glandfront_VEGF
+Feature n°34,NK cells CD56brCD16-TIM3hi_glandfront_GranzymeB
+Feature n°35,NK cells CD56brCD16-TIM3hi_glandfront_Ki67
+Feature n°36,NK cells CD56brCD16-TIM3hi_stromal_PR
+Feature n°37,NK cells CD56brCD16-TIM3hi_stromal_Ki67
+Feature n°38,NK cells CD56dimCD16+CD9hi_intragland_ERa
+Feature n°39,NK cells CD56brCD16-CD9hi_stromal_Ki67
+Feature n°40,Macrophages M1/M2_glandfront_GranzymeB
+Feature n°41,Macrophages M1/M2_glandfront_HLA-DR
+Feature n°42,Macrophages M1/M2_stromal_PR
+Feature n°43,Macrophages M1/M2_stromal_GranzymeB
+Feature n°44,Macrophages MDSC_glandfront_PR
+Feature n°45,Macrophages MDSC_stromal_Ki67
+Feature n°46,Dendritic Cells CD86+_glandfront_GranzymeB
+Feature n°47,Dendritic Cells CD33+_intragland_PR
+Feature n°48,Dendritic Cells CD33+_intragland_Ki67
+Feature n°49,Dendritic Cells CD33+_stromal_PR
+Feature n°50,Dendritic Cells CD33+_stromal_VEGF
+Feature n°51,Dendritic Cells CD33+_stromal_HLA-DR
+Feature n°52,Dendritic Cells CD209CD86dp_glandfront_ERa
+Feature n°53,Dendritic Cells CD209CD86dp_glandfront_VEGF
+Feature n°54,Dendritic Cells CD209CD33dp_stromal_PR
+Feature n°55,Dendritic Cells CD86CD33dp_glandfront_PR
+Feature n°56,Dendritic Cells CD86CD33dp_glandfront_pP38
+Feature n°57,Dendritic Cells CD86CD33dp_glandfront_VEGF
+Feature n°58,Dendritic Cells CD86CD33dp_glandfront_HLA-DR
+Feature n°59,Dendritic Cells CD86CD33dp_stromal_Ki67
+Feature n°60,Neutrophils_glandfront_ERa
+Feature n°61,Neutrophils_glandfront_PR
+Feature n°62,NKT_glandfront_Ki67
+Feature n°63,aSMA-br fibroblast_glandfront_HLA-DR
+Feature n°64,aSMA-br mesenchymal_glandfront_ERa
+Feature n°65,aSMA-br mesenchymal_glandfront_Ki67
+Feature n°66,Gland mesenchymal_glandfront_ERa
+Feature n°67,Gland mesenchymal_intragland_ERa
+Feature n°68,Gland mesenchymal_intragland_PR
+Feature n°69,Gland mesenchymal_stromal_Ki67
+Feature n°70,Gland mesenchymal_stromal_HLA-DR
+Feature n°71,Gland fibroblast_glandfront_PR
+Feature n°72,Gland fibroblast_glandfront_VEGF
+Feature n°73,Gland fibroblast_intragland_PR
+Feature n°74,Gland fibroblast_intragland_VEGF
+Feature n°75,Gland fibroblast_intragland_GranzymeB
+Feature n°76,Gland fibroblast_stromal_PR
+Feature n°77,Gland fibroblast_stromal_GranzymeB
+Feature n°78,Gland fibroblast_stromal_HLA-DR
+Feature n°79,Gland vascular endothelium_stromal_GranzymeB
+Feature n°80,NA_glandfront_ERa
+Feature n°81,NA_glandfront_Ki67
+Feature n°82,NA_glandfront_HLA-DR

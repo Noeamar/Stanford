@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "/home/users/sabayev/MaiganeEM/controlvmild/./sendOut.py", line 101, in <module>
+    experiment(read_json(Path(path,"params.json")),args.idx,path)
+  File "/home/users/sabayev/MaiganeEM/controlvmild/./sendOut.py", line 81, in experiment
+    save_stabl_results(model,modelPath,data,y,override=True)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/stabl/stabl.py", line 713, in save_stabl_results
+    boxplot_features(
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/stabl/visualization.py", line 326, in boxplot_features
+    fig.savefig(Path(path, f"{feature}.{fmt}"), dpi=95)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/figure.py", line 3390, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/backend_bases.py", line 2193, in print_figure
+    result = print_method(
+             ^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/backend_bases.py", line 2043, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+                                                                 ^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/backends/backend_pdf.py", line 2800, in print_pdf
+    file = PdfFile(filename, metadata=metadata)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/backends/backend_pdf.py", line 688, in __init__
+    fh, opened = cbook.to_filehandle(filename, "wb", return_opened=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/sabayev/.local/lib/python3.12/site-packages/matplotlib/cbook.py", line 483, in to_filehandle
+    fh = open(fname, flag, encoding=encoding)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'results/l/71/71/fullModel/Selected Features/CD4 T cells CD80/CD86+_stromal_area.pdf'
+
+real	137m1.235s
+user	875m48.439s
+sys	54m41.423s

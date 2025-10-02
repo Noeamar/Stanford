@@ -1,0 +1,5 @@
+Feature,Associated weight
+Macrophages_M1-like_glandfront_area,0.21849031511883973
+Macrophages_M1-like_stromal_area,0.5094508300441566
+Macrophages_M1_M2_stromal_area,0.29928198621419483
+CD4_T_cells_FoxP3+_glandfront_celldistance,-0.456832546747968

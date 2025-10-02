@@ -1,0 +1,5 @@
+Feature,Associated weight
+CD4_T_cells_CD80_CD86+_stromal_area,1.18661244340587
+Macrophages_M1_M2_stromal_area,0.9174098266454976
+CD4_T_cells_FoxP3+_stromal_eccentricity,0.7649422077039593
+CD8_T_cells_CD80_CD86+_glandfront_eccentricity,-0.7014946146195616

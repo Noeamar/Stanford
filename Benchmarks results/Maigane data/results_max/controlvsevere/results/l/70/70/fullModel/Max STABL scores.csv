@@ -1,0 +1,581 @@
+,Max Proba
+NKT_glandfront_Ki67,0.6478
+Gland fibroblast_intragland_VEGF,0.5836
+Gland vascular endothelium_glandfront_VEGF,0.3854
+Dendritic Cells CD86CD33dp_glandfront_VEGF,0.37
+NA_glandfront_Ki67,0.3498
+CD4 T cells HLA-DR+_stromal_PR,0.332
+NA_glandfront_TIM3,0.2894
+NK cells CD56brCD16-_stromal_HLA-DR,0.2382
+Macrophages M1/M2_glandfront_GranzymeB,0.235
+CD4 T cells CD80/CD86+_stromal_HLA-DR,0.214
+Gland mesenchymal_stromal_Ki67,0.186
+Macrophages M1/M2_stromal_GranzymeB,0.1848
+NK cells CD56brCD16-TIM3hi_glandfront_pP38,0.1846
+Stroma vascular endothelium_glandfront_Ki67,0.1846
+Dendritic Cells CD209CD33dp_stromal_GranzymeB,0.1728
+NK cells CD56dimCD16+CD9hi_stromal_NKG2C,0.1594
+CD4 T cells HLA-DR+_stromal_TIM3,0.1594
+NK cells CD56brCD16-_glandfront_pP38,0.1458
+Gland fibroblast_intragland_GranzymeB,0.1398
+Gland mesenchymal_stromal_HLA-DR,0.1222
+NK cells CD56brCD16-TIM3hi_glandfront_VEGF,0.1162
+Macrophages MDSC_glandfront_GranzymeB,0.105
+NK cells CD56brCD16-TIM3hi_glandfront_CD27,0.103
+Macrophages M1/M2_stromal_HLA-DR,0.0958
+NK cells CD56dimCD16+_glandfront_HLA-DR,0.0918
+CD8 T cells CD80/CD86+_intragland_ERa,0.0916
+CD8 T cells HLA-DR+_intragland_Ki67,0.0892
+CD4 T cells CD80/CD86+_stromal_ERa,0.089
+Dendritic Cells CD209CD33dp_glandfront_GranzymeB,0.086
+CD8 T cells CD11b+_intragland_PR,0.085
+CD8 T cells CD11b+_intragland_GranzymeB,0.0812
+CD8 T cells CD11b+_intragland_ERa,0.0796
+Dendritic Cells CD86+_intragland_PR,0.0784
+CD4 T cells CD80/CD86+_glandfront_VEGF,0.0754
+Macrophages MDSC_glandfront_pP38,0.0722
+Dendritic Cells CD86+_intragland_pP38,0.072
+CD8 T cells CD80/CD86+_glandfront_VEGF,0.072
+aSMA-br mesenchymal_stromal_GranzymeB,0.07
+NK cells CD56dimCD16+CD9hi_intragland_pP38,0.0692
+Dendritic Cells CD209CD33dp_glandfront_HLA-DR,0.0678
+Neutrophils_glandfront_PR,0.0656
+NK cells CD56brCD16-_stromal_Ki67,0.0628
+NK cells CD56brCD16-CD9hi_glandfront_HLA-DR,0.061
+Dendritic Cells CD86+_stromal_HLA-DR,0.0596
+Gland mesenchymal_intragland_ERa,0.0584
+NK cells CD56dimCD16+_glandfront_GranzymeB,0.0582
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_HLA-DR,0.0576
+NK cells CD56dimCD16+CD9hi_glandfront_VEGF,0.053
+Macrophages MDSC_stromal_HLA-DR,0.0528
+CD4 T cells HLA-DR+_stromal_HLA-DR,0.0528
+CD4 T cells HLA-DR+_stromal_GranzymeB,0.0524
+CD4 T cells CD80/CD86+_intragland_ERa,0.0522
+CD4 T cells CD80/CD86+_stromal_Ki67,0.0508
+aSMA-br mesenchymal_glandfront_VEGF,0.0506
+Dendritic Cells CD209CD33dp_glandfront_Ki67,0.0496
+Macrophages M1/M2_stromal_PR,0.0474
+Gland fibroblast_glandfront_VEGF,0.045
+NKT_glandfront_TIM3,0.0438
+CD8 T cells FoxP3+_glandfront_pP38,0.0438
+Stroma mesenchymal_glandfront_HLA-DR,0.0436
+NK cells CD56brCD16-_glandfront_VEGF,0.043
+CD4 T cells CD80/CD86+_glandfront_Ki67,0.043
+CD4 T cells HLA-DR+_glandfront_HLA-DR,0.0418
+CD4 T cells CD80/CD86+_intragland_VEGF,0.0404
+Gland fibroblast_stromal_GranzymeB,0.04
+Gland mesenchymal_stromal_GranzymeB,0.0388
+Neutrophils_glandfront_ERa,0.0384
+Dendritic Cells CD209CD86dp_stromal_HLA-DR,0.037
+Dendritic Cells CD86CD33dp_stromal_GranzymeB,0.0368
+CD8 T cells HLA-DR+_intragland_VEGF,0.0368
+CD4 T cells CD80/CD86+_glandfront_ERa,0.0368
+Dendritic Cells CD33+_glandfront_GranzymeB,0.0352
+Dendritic Cells CD33+_glandfront_Ki67,0.0346
+CD4 T cells CD11b+_intragland_ERa,0.0344
+CD8 T cells HLA-DR+_intragland_GranzymeB,0.033
+Dendritic Cells CD209CD33dp_glandfront_ERa,0.0324
+Macrophages M1-like_glandfront_HLA-DR,0.0324
+Dendritic Cells CD86+_glandfront_GranzymeB,0.0296
+Dendritic Cells CD86CD33dp_glandfront_pP38,0.029
+Gland fibroblast_intragland_PR,0.029
+NK cells CD56brCD16-CD9hi_glandfront_GranzymeB,0.0286
+aSMA-br mesenchymal_stromal_HLA-DR,0.0284
+NK cells CD56brCD16-TIM3hi_glandfront_TIM3,0.0276
+Stroma fibroblast_glandfront_VEGF,0.0274
+CD4 T cells HLA-DR+_glandfront_TIM3,0.027
+Dendritic Cells CD33+_intragland_Ki67,0.027
+NA_stromal_pP38,0.0268
+CD4 T cells CD80/CD86+_intragland_Ki67,0.0266
+Gland fibroblast_stromal_PR,0.0256
+Stroma vascular endothelium_glandfront_VEGF,0.025
+Dendritic Cells CD86+_glandfront_VEGF,0.0248
+NK cells CD56brCD16-_stromal_PR,0.0246
+Dendritic Cells CD33+_stromal_pP38,0.0244
+CD8 T cells FoxP3+_intragland_ERa,0.0244
+NK cells CD56brCD16-TIM3hi_glandfront_Ki67,0.0244
+Macrophages M1/M2_stromal_ERa,0.0244
+CD8 T cells HLA-DR+_glandfront_TIM3,0.0242
+Dendritic Cells CD33+_glandfront_HLA-DR,0.023
+CD4 T cells HLA-DR+_glandfront_VEGF,0.0222
+Dendritic Cells CD209CD86dp_glandfront_pP38,0.022
+Dendritic Cells CD33+_intragland_VEGF,0.0216
+aSMA-br fibroblast_glandfront_VEGF,0.021
+CD4 T cells CD80/CD86+_intragland_GranzymeB,0.0202
+CD4 T cells CD11b+_glandfront_Ki67,0.0198
+CD4 T cells FoxP3+_glandfront_HLA-DR,0.019
+NK cells CD56brCD16-_glandfront_TIM3,0.019
+Dendritic Cells CD86+_intragland_ERa,0.0188
+CD4 T cells CD80/CD86+_stromal_GranzymeB,0.0188
+CD4 T cells CD11b+_glandfront_PR,0.0184
+CD4 T cells HLA-DR+_stromal_Ki67,0.0182
+CD4 T cells CD11b+_intragland_PR,0.017
+Macrophages M1-like_stromal_HLA-DR,0.0166
+Stroma fibroblast_stromal_GranzymeB,0.0166
+CD8 T cells FoxP3+_glandfront_VEGF,0.0164
+NK cells CD56dimCD16+_glandfront_TIM3,0.0162
+Macrophages M1-like_stromal_GranzymeB,0.016
+Neutrophils_glandfront_HLA-DR,0.0158
+NK cells CD56brCD16-TIM3hi_stromal_Ki67,0.0156
+Dendritic Cells CD209CD86dp_glandfront_HLA-DR,0.0156
+aSMA-br vascular endothelium_glandfront_GranzymeB,0.0154
+CD4 T cells FoxP3+_stromal_HLA-DR,0.0152
+Dendritic Cells CD86+_stromal_Ki67,0.0152
+Dendritic Cells CD209CD86dp_glandfront_Ki67,0.0152
+NK cells CD56dimCD16+CD9hi_intragland_HLA-DR,0.0148
+Gland mesenchymal_intragland_Ki67,0.0146
+Macrophages M1/M2_glandfront_TIM3,0.0142
+CD4 T cells CD11b+_stromal_HLA-DR,0.014
+Gland vascular endothelium_stromal_GranzymeB,0.014
+Gland mesenchymal_intragland_pP38,0.0138
+NK cells CD56dimCD16+CD9hi_intragland_ERa,0.0138
+NK cells CD56brCD16-_glandfront_Ki67,0.0136
+NK cells CD56brCD16-_stromal_GranzymeB,0.0136
+NK cells CD56dimCD16+CD9hi_intragland_GranzymeB,0.0134
+Stroma vascular endothelium_glandfront_PR,0.013
+aSMA-br vascular endothelium_stromal_GranzymeB,0.013
+Gland glandular epithelium_glandfront_Ki67,0.0126
+CD8 T cells CD11b+_glandfront_Ki67,0.0122
+Stroma vascular endothelium_stromal_Ki67,0.012
+CD8 T cells CD11b+_glandfront_HLA-DR,0.0114
+Gland fibroblast_glandfront_PR,0.0114
+Neutrophils_glandfront_Ki67,0.011
+CD8 T cells HLA-DR+_intragland_pP38,0.0108
+CD4 T cells FoxP3+_stromal_Ki67,0.0108
+Gland mesenchymal_intragland_PR,0.0106
+Gland glandular epithelium_glandfront_GranzymeB,0.0106
+Stroma fibroblast_glandfront_Ki67,0.0106
+NK cells CD56dimCD16+CD9hi_stromal_GranzymeB,0.0106
+Neutrophils_stromal_GranzymeB,0.0106
+CD8 T cells FoxP3+_intragland_HLA-DR,0.0104
+Neutrophils_stromal_Ki67,0.0104
+NK cells CD56dimCD16+_glandfront_PR,0.0102
+NA_stromal_VEGF,0.0102
+NK cells CD56dimCD16+_stromal_Ki67,0.0102
+CD4 T cells CD80/CD86+_intragland_PR,0.01
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_TIM3,0.0098
+CD4 T cells CD11b+_stromal_Ki67,0.0098
+Gland vascular endothelium_stromal_VEGF,0.0098
+Macrophages M1/M2_stromal_Ki67,0.0096
+NK cells CD56dimCD16+CD9hi_intragland_VEGF,0.0092
+CD4 T cells FoxP3+_glandfront_PR,0.009
+Macrophages M1/M2_stromal_TIM3,0.0088
+CD8 T cells CD11b+_glandfront_pP38,0.0088
+NA_stromal_TIM3,0.0082
+Gland mesenchymal_glandfront_Ki67,0.0082
+NK cells CD56dimCD16+CD9hi_intragland_Ki67,0.008
+NK cells CD56brCD16-TIM3hi_glandfront_GranzymeB,0.008
+aSMA-br mesenchymal_glandfront_ERa,0.008
+CD4 T cells HLA-DR+_stromal_ERa,0.008
+Dendritic Cells CD33+_stromal_GranzymeB,0.0078
+Stroma mesenchymal_stromal_VEGF,0.0078
+Dendritic Cells CD86CD33dp_stromal_Ki67,0.0078
+CD8 T cells FoxP3+_intragland_PR,0.0078
+Gland fibroblast_intragland_pP38,0.0078
+CD8 T cells CD11b+_stromal_TIM3,0.0078
+CD8 T cells CD80/CD86+_intragland_GranzymeB,0.0074
+Gland glandular epithelium_intragland_VEGF,0.0074
+NK cells CD56brCD16-CD9hi_stromal_Ki67,0.0074
+CD4 T cells CD11b+_glandfront_VEGF,0.0072
+Macrophages MDSC_glandfront_TIM3,0.0072
+Macrophages MDSC_stromal_TIM3,0.007
+CD8 T cells FoxP3+_intragland_VEGF,0.0066
+Dendritic Cells CD209CD33dp_stromal_Ki67,0.0062
+Dendritic Cells CD86+_glandfront_pP38,0.006
+CD8 T cells HLA-DR+_stromal_Ki67,0.006
+Gland fibroblast_stromal_VEGF,0.006
+Dendritic Cells CD33+_glandfront_ERa,0.0058
+CD8 T cells CD80/CD86+_intragland_PR,0.0058
+Dendritic Cells CD86+_stromal_GranzymeB,0.0056
+Dendritic Cells CD33+_intragland_GranzymeB,0.0056
+Gland fibroblast_glandfront_Ki67,0.0056
+CD8 T cells HLA-DR+_intragland_PR,0.0056
+NK cells CD56brCD16-TIM3hi_glandfront_HLA-DR,0.0054
+Macrophages M1-like_glandfront_GranzymeB,0.0054
+CD4 T cells FoxP3+_glandfront_Ki67,0.0054
+Dendritic Cells CD33+_intragland_ERa,0.0052
+CD4 T cells CD11b+_stromal_GranzymeB,0.005
+Stroma mesenchymal_glandfront_Ki67,0.0048
+Gland vascular endothelium_stromal_pP38,0.0048
+CD8 T cells HLA-DR+_stromal_HLA-DR,0.0048
+NK cells CD56dimCD16+_intragland_ERa,0.0048
+CD8 T cells HLA-DR+_intragland_HLA-DR,0.0048
+aSMA-br mesenchymal_stromal_PR,0.0046
+NK cells CD56brCD16-CD9hi_stromal_GranzymeB,0.0046
+CD8 T cells HLA-DR+_stromal_ERa,0.0046
+Dendritic Cells CD209CD86dp_stromal_GranzymeB,0.0046
+CD4 T cells CD11b+_stromal_PR,0.0044
+NK cells CD56dimCD16+CD9hi_intragland_PR,0.0044
+aSMA-br mesenchymal_stromal_Ki67,0.0044
+CD4 T cells CD80/CD86+_intragland_pP38,0.0044
+Gland vascular endothelium_stromal_Ki67,0.0044
+Dendritic Cells CD86CD33dp_glandfront_HLA-DR,0.0044
+NA_glandfront_pP38,0.0042
+CD8 T cells HLA-DR+_stromal_GranzymeB,0.0042
+CD4 T cells FoxP3+_stromal_pP38,0.0042
+Dendritic Cells CD86CD33dp_glandfront_ERa,0.0042
+Stroma vascular endothelium_glandfront_GranzymeB,0.0042
+Macrophages M1/M2_glandfront_Ki67,0.0042
+Neutrophils_glandfront_GranzymeB,0.004
+Dendritic Cells CD209CD86dp_glandfront_VEGF,0.004
+Stroma mesenchymal_glandfront_GranzymeB,0.004
+CD8 T cells CD11b+_stromal_Ki67,0.004
+CD4 T cells HLA-DR+_glandfront_PR,0.004
+CD8 T cells CD80/CD86+_glandfront_HLA-DR,0.0038
+NKT_glandfront_GranzymeB,0.0038
+Macrophages M1-like_stromal_Ki67,0.0038
+Dendritic Cells CD86+_stromal_VEGF,0.0036
+NK cells CD56dimCD16+_glandfront_ERa,0.0036
+CD8 T cells CD11b+_glandfront_GranzymeB,0.0036
+NK cells CD56brCD16-TIM3hi_glandfront_ERa,0.0036
+CD8 T cells HLA-DR+_glandfront_pP38,0.0036
+CD4 T cells HLA-DR+_stromal_pP38,0.0034
+NK cells CD56dimCD16+_stromal_VEGF,0.0034
+NK cells CD56brCD16-TIM3hi_stromal_VEGF,0.0034
+CD4 T cells FoxP3+_glandfront_GranzymeB,0.0034
+CD8 T cells CD11b+_stromal_VEGF,0.0034
+CD8 T cells CD11b+_stromal_GranzymeB,0.0032
+Gland vascular endothelium_stromal_PR,0.0032
+Macrophages M1/M2_glandfront_PR,0.0032
+CD8 T cells CD80/CD86+_stromal_HLA-DR,0.0032
+Dendritic Cells CD33+_glandfront_pP38,0.0032
+CD4 T cells FoxP3+_stromal_PR,0.0032
+NK cells CD56brCD16-TIM3hi_stromal_PR,0.0032
+NK cells CD56brCD16-CD9hi_glandfront_Ki67,0.003
+Dendritic Cells CD33+_intragland_pP38,0.003
+CD4 T cells CD11b+_stromal_TIM3,0.0028
+aSMA-br vascular endothelium_glandfront_HLA-DR,0.0028
+Gland vascular endothelium_glandfront_HLA-DR,0.0028
+NA_glandfront_ERa,0.0028
+CD8 T cells CD11b+_stromal_PR,0.0028
+CD8 T cells HLA-DR+_stromal_PR,0.0028
+NK cells CD56brCD16-CD9hi_glandfront_TIM3,0.0026
+Dendritic Cells CD86+_glandfront_ERa,0.0026
+Dendritic Cells CD86CD33dp_glandfront_Ki67,0.0026
+CD4 T cells FoxP3+_glandfront_pP38,0.0026
+NK cells CD56brCD16-_glandfront_GranzymeB,0.0026
+Stroma vascular endothelium_stromal_VEGF,0.0026
+Gland fibroblast_intragland_HLA-DR,0.0024
+CD8 T cells HLA-DR+_intragland_ERa,0.0024
+CD4 T cells CD80/CD86+_glandfront_GranzymeB,0.0024
+Macrophages M2-like_glandfront_TIM3,0.0024
+NK cells CD56dimCD16+CD9hi_glandfront_GranzymeB,0.0024
+Gland glandular epithelium_intragland_Ki67,0.0024
+CD4 T cells CD80/CD86+_glandfront_HLA-DR,0.0024
+CD8 T cells HLA-DR+_glandfront_VEGF,0.0024
+Macrophages M1-like_glandfront_TIM3,0.0022
+NK cells CD56brCD16-CD9hi_stromal_PR,0.0022
+CD8 T cells FoxP3+_intragland_GranzymeB,0.0022
+Dendritic Cells CD86+_glandfront_HLA-DR,0.0022
+Macrophages M2-like_glandfront_pP38,0.0022
+aSMA-br mesenchymal_glandfront_Ki67,0.0022
+aSMA-br vascular endothelium_glandfront_Ki67,0.0022
+Stroma vascular endothelium_glandfront_HLA-DR,0.0022
+CD4 T cells CD11b+_glandfront_HLA-DR,0.0022
+NK cells CD56dimCD16+CD9hi_stromal_PR,0.0022
+CD8 T cells CD11b+_stromal_pP38,0.0022
+Macrophages M1-like_stromal_PR,0.002
+CD8 T cells CD80/CD86+_intragland_VEGF,0.002
+NK cells CD56dimCD16+_stromal_PR,0.002
+Gland vascular endothelium_glandfront_ERa,0.002
+Dendritic Cells CD86CD33dp_stromal_VEGF,0.002
+aSMA-br vascular endothelium_stromal_HLA-DR,0.002
+Macrophages M1/M2_glandfront_HLA-DR,0.0018
+aSMA-br fibroblast_glandfront_pP38,0.0018
+CD8 T cells HLA-DR+_glandfront_Ki67,0.0018
+CD4 T cells CD11b+_glandfront_TIM3,0.0018
+Gland mesenchymal_intragland_VEGF,0.0018
+CD8 T cells CD80/CD86+_intragland_HLA-DR,0.0018
+CD8 T cells CD80/CD86+_glandfront_pP38,0.0018
+CD8 T cells CD80/CD86+_glandfront_GranzymeB,0.0018
+Gland vascular endothelium_glandfront_Ki67,0.0018
+Dendritic Cells CD86CD33dp_stromal_HLA-DR,0.0018
+CD8 T cells FoxP3+_glandfront_Ki67,0.0018
+CD4 T cells FoxP3+_glandfront_VEGF,0.0016
+Neutrophils_stromal_VEGF,0.0016
+Macrophages M1/M2_glandfront_pP38,0.0016
+Gland vascular endothelium_stromal_HLA-DR,0.0016
+Macrophages M2-like_stromal_VEGF,0.0016
+Dendritic Cells CD209CD86dp_glandfront_ERa,0.0016
+CD4 T cells HLA-DR+_glandfront_ERa,0.0016
+Dendritic Cells CD86CD33dp_glandfront_PR,0.0016
+CD4 T cells HLA-DR+_stromal_VEGF,0.0016
+Gland mesenchymal_glandfront_VEGF,0.0016
+CD8 T cells CD11b+_glandfront_PR,0.0016
+Neutrophils_glandfront_pP38,0.0014
+Dendritic Cells CD209CD33dp_stromal_VEGF,0.0014
+CD8 T cells CD80/CD86+_stromal_GranzymeB,0.0014
+CD8 T cells CD80/CD86+_intragland_pP38,0.0014
+CD4 T cells CD80/CD86+_glandfront_pP38,0.0014
+Dendritic Cells CD86CD33dp_stromal_pP38,0.0014
+Dendritic Cells CD33+_stromal_Ki67,0.0014
+NK cells CD56dimCD16+CD9hi_glandfront_pP38,0.0014
+NK cells CD56brCD16-_stromal_ERa,0.0014
+NK cells CD56brCD16-_glandfront_HLA-DR,0.0014
+CD8 T cells HLA-DR+_stromal_VEGF,0.0014
+CD8 T cells HLA-DR+_glandfront_HLA-DR,0.0014
+NK cells CD56brCD16-_glandfront_ERa,0.0014
+Dendritic Cells CD33+_glandfront_VEGF,0.0014
+Stroma fibroblast_stromal_Ki67,0.0014
+Dendritic Cells CD209CD33dp_stromal_HLA-DR,0.0014
+Dendritic Cells CD33+_stromal_VEGF,0.0012
+Dendritic Cells CD33+_stromal_HLA-DR,0.0012
+Dendritic Cells CD33+_intragland_HLA-DR,0.0012
+Dendritic Cells CD86+_glandfront_PR,0.0012
+NA_stromal_HLA-DR,0.0012
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_PR,0.0012
+Stroma mesenchymal_stromal_HLA-DR,0.0012
+CD4 T cells CD11b+_glandfront_pP38,0.0012
+CD8 T cells CD80/CD86+_glandfront_Ki67,0.0012
+Stroma fibroblast_glandfront_GranzymeB,0.0012
+CD8 T cells HLA-DR+_glandfront_ERa,0.0012
+CD8 T cells FoxP3+_stromal_VEGF,0.0012
+CD4 T cells FoxP3+_glandfront_ERa,0.001
+Dendritic Cells CD33+_glandfront_PR,0.001
+NK cells CD56brCD16-CD9hi_glandfront_pP38,0.001
+Dendritic Cells CD33+_intragland_PR,0.001
+Gland fibroblast_stromal_pP38,0.001
+CD8 T cells HLA-DR+_glandfront_GranzymeB,0.001
+NK cells CD56dimCD16+_glandfront_Ki67,0.001
+NK cells CD56dimCD16+_intragland_pP38,0.001
+NK cells CD56dimCD16+_intragland_PR,0.001
+Neutrophils_glandfront_VEGF,0.001
+CD8 T cells CD80/CD86+_stromal_PR,0.001
+Stroma vascular endothelium_stromal_GranzymeB,0.001
+Gland glandular epithelium_intragland_pP38,0.001
+Dendritic Cells CD86+_stromal_PR,0.001
+CD8 T cells HLA-DR+_stromal_TIM3,0.001
+Macrophages M1/M2_stromal_VEGF,0.001
+Dendritic Cells CD86+_stromal_ERa,0.0008
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_pP38,0.0008
+Macrophages MDSC_glandfront_HLA-DR,0.0008
+Dendritic Cells CD209CD33dp_glandfront_PR,0.0008
+CD4 T cells CD80/CD86+_stromal_PR,0.0008
+NK cells CD56dimCD16+_stromal_GranzymeB,0.0008
+Dendritic Cells CD86CD33dp_stromal_ERa,0.0008
+CD4 T cells FoxP3+_stromal_GranzymeB,0.0008
+CD8 T cells FoxP3+_stromal_HLA-DR,0.0008
+CD8 T cells CD80/CD86+_stromal_ERa,0.0008
+NA_glandfront_HLA-DR,0.0008
+Dendritic Cells CD86CD33dp_glandfront_GranzymeB,0.0008
+Dendritic Cells CD209CD86dp_glandfront_GranzymeB,0.0008
+CD8 T cells FoxP3+_glandfront_HLA-DR,0.0008
+aSMA-br mesenchymal_glandfront_GranzymeB,0.0008
+Gland mesenchymal_glandfront_ERa,0.0008
+aSMA-br fibroblast_glandfront_HLA-DR,0.0008
+NA_glandfront_PR,0.0008
+NK cells CD56brCD16-TIM3hi_glandfront_PR,0.0006
+Dendritic Cells CD209CD86dp_stromal_ERa,0.0006
+CD8 T cells CD11b+_stromal_HLA-DR,0.0006
+CD8 T cells CD11b+_glandfront_ERa,0.0006
+aSMA-br vascular endothelium_glandfront_PR,0.0006
+Dendritic Cells CD209CD33dp_glandfront_VEGF,0.0006
+Stroma vascular endothelium_glandfront_ERa,0.0006
+Macrophages MDSC_glandfront_PR,0.0006
+aSMA-br mesenchymal_stromal_ERa,0.0006
+Gland fibroblast_glandfront_GranzymeB,0.0006
+CD4 T cells FoxP3+_stromal_ERa,0.0006
+CD4 T cells CD11b+_glandfront_ERa,0.0006
+Gland mesenchymal_intragland_GranzymeB,0.0006
+CD8 T cells CD80/CD86+_stromal_VEGF,0.0006
+NA_glandfront_VEGF,0.0006
+Macrophages MDSC_stromal_GranzymeB,0.0006
+Gland vascular endothelium_stromal_ERa,0.0006
+Gland vascular endothelium_glandfront_pP38,0.0006
+Dendritic Cells CD86+_glandfront_Ki67,0.0006
+NK cells CD56brCD16-CD9hi_stromal_pP38,0.0006
+NK cells CD56brCD16-CD9hi_stromal_ERa,0.0006
+Gland glandular epithelium_glandfront_PR,0.0006
+Dendritic Cells CD33+_stromal_ERa,0.0004
+Stroma mesenchymal_glandfront_VEGF,0.0004
+CD4 T cells CD80/CD86+_glandfront_PR,0.0004
+Gland glandular epithelium_intragland_GranzymeB,0.0004
+aSMA-br mesenchymal_glandfront_HLA-DR,0.0004
+Macrophages MDSC_glandfront_ERa,0.0004
+NK cells CD56dimCD16+_glandfront_pP38,0.0004
+CD4 T cells CD80/CD86+_stromal_VEGF,0.0004
+Macrophages M2-like_stromal_TIM3,0.0004
+Dendritic Cells CD86CD33dp_stromal_PR,0.0004
+Gland mesenchymal_glandfront_GranzymeB,0.0004
+CD4 T cells CD11b+_glandfront_GranzymeB,0.0004
+CD8 T cells CD80/CD86+_glandfront_ERa,0.0004
+Stroma fibroblast_stromal_ERa,0.0004
+CD4 T cells FoxP3+_stromal_VEGF,0.0004
+Stroma fibroblast_glandfront_pP38,0.0004
+CD8 T cells CD80/CD86+_stromal_Ki67,0.0004
+NA_glandfront_GranzymeB,0.0004
+Neutrophils_stromal_HLA-DR,0.0004
+NK cells CD56dimCD16+_stromal_HLA-DR,0.0004
+Gland mesenchymal_stromal_PR,0.0004
+aSMA-br vascular endothelium_glandfront_ERa,0.0004
+Gland fibroblast_stromal_Ki67,0.0004
+CD8 T cells FoxP3+_glandfront_GranzymeB,0.0004
+CD4 T cells HLA-DR+_glandfront_Ki67,0.0004
+Macrophages M2-like_stromal_HLA-DR,0.0004
+Dendritic Cells CD209CD86dp_glandfront_PR,0.0004
+Dendritic Cells CD209CD86dp_stromal_pP38,0.0004
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_GranzymeB,0.0004
+Dendritic Cells CD209CD86dp_stromal_Ki67,0.0004
+CD8 T cells FoxP3+_stromal_GranzymeB,0.0002
+aSMA-br fibroblast_glandfront_Ki67,0.0002
+CD8 T cells CD11b+_glandfront_VEGF,0.0002
+CD8 T cells FoxP3+_stromal_Ki67,0.0002
+Gland glandular epithelium_glandfront_VEGF,0.0002
+Macrophages MDSC_stromal_VEGF,0.0002
+Stroma vascular endothelium_glandfront_pP38,0.0002
+Macrophages M2-like_glandfront_GranzymeB,0.0002
+Macrophages M1/M2_glandfront_ERa,0.0002
+Dendritic Cells CD86+_stromal_pP38,0.0002
+Stroma vascular endothelium_stromal_PR,0.0002
+Gland mesenchymal_intragland_HLA-DR,0.0002
+aSMA-br vascular endothelium_stromal_PR,0.0002
+Macrophages M2-like_glandfront_VEGF,0.0002
+CD8 T cells FoxP3+_stromal_pP38,0.0002
+Stroma mesenchymal_stromal_ERa,0.0002
+CD4 T cells CD11b+_stromal_ERa,0.0002
+Gland glandular epithelium_glandfront_HLA-DR,0.0002
+Gland glandular epithelium_intragland_ERa,0.0002
+aSMA-br mesenchymal_glandfront_PR,0.0002
+Stroma mesenchymal_stromal_Ki67,0.0002
+Gland glandular epithelium_intragland_PR,0.0002
+NK cells CD56dimCD16+CD9hi_glandfront_Ki67,0.0002
+NKT_glandfront_pP38,0.0002
+aSMA-br vascular endothelium_glandfront_VEGF,0.0002
+Gland glandular epithelium_intragland_HLA-DR,0.0002
+CD4 T cells CD11b+_stromal_pP38,0.0002
+CD4 T cells CD11b+_stromal_VEGF,0.0002
+CD8 T cells FoxP3+_stromal_PR,0.0002
+Stroma fibroblast_glandfront_ERa,0.0002
+Gland vascular endothelium_glandfront_GranzymeB,0.0002
+NK cells CD56brCD16-_glandfront_PR,0.0002
+NK cells CD56dimCD16+_stromal_TIM3,0.0002
+CD8 T cells FoxP3+_glandfront_ERa,0.0002
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_ERa,0.0002
+Macrophages MDSC_glandfront_VEGF,0.0002
+Gland fibroblast_intragland_ERa,0.0002
+CD4 T cells HLA-DR+_glandfront_GranzymeB,0.0002
+Gland mesenchymal_stromal_pP38,0.0002
+Gland fibroblast_glandfront_HLA-DR,0.0002
+Dendritic Cells CD209CD33dp_glandfront_pP38,0.0002
+NK cells CD56dimCD16+CD9hi_glandfront_HLA-DR,0.0002
+CD8 T cells FoxP3+_glandfront_PR,0.0002
+NK cells CD56brCD16-TIM3hi_stromal_HLA-DR,0.0002
+CD8 T cells HLA-DR+_glandfront_PR,0.0002
+Stroma fibroblast_stromal_HLA-DR,0.0002
+Gland vascular endothelium_glandfront_PR,0.0002
+Dendritic Cells CD209CD86dp_stromal_VEGF,0.0002
+Dendritic Cells CD209CD86dp_stromal_PR,0.0002
+CD4 T cells HLA-DR+_glandfront_pP38,0.0002
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_Ki67,0.0002
+Macrophages M2-like_glandfront_Ki67,0.0002
+Neutrophils_stromal_PR,0.0002
+CD8 T cells HLA-DR+_stromal_pP38,0.0002
+NK cells CD56brCD16-TIM3hi_stromal_pP38,0.0002
+Macrophages M1-like_glandfront_PR,0.0002
+NK cells CD56brCD16-CD9hi_glandfront_PR,0.0002
+Gland glandular epithelium_glandfront_ERa,0.0
+Gland fibroblast_intragland_Ki67,0.0
+Gland fibroblast_stromal_HLA-DR,0.0
+Gland glandular epithelium_glandfront_pP38,0.0
+Gland mesenchymal_stromal_ERa,0.0
+CD4 T cells CD80/CD86+_stromal_pP38,0.0
+CD8 T cells FoxP3+_stromal_ERa,0.0
+NA_stromal_PR,0.0
+Gland mesenchymal_glandfront_PR,0.0
+Gland mesenchymal_glandfront_pP38,0.0
+Gland mesenchymal_glandfront_HLA-DR,0.0
+Gland fibroblast_glandfront_pP38,0.0
+CD8 T cells CD80/CD86+_glandfront_PR,0.0
+Gland fibroblast_glandfront_ERa,0.0
+NA_stromal_GranzymeB,0.0
+NA_stromal_Ki67,0.0
+Gland fibroblast_stromal_ERa,0.0
+Gland mesenchymal_stromal_VEGF,0.0
+CD8 T cells CD80/CD86+_stromal_pP38,0.0
+NA_stromal_ERa,0.0
+Macrophages M1/M2_glandfront_VEGF,0.0
+CD8 T cells CD11b+_stromal_ERa,0.0
+NK cells CD56dimCD16+CD9hi_stromal_pP38,0.0
+Macrophages M1-like_glandfront_ERa,0.0
+NK cells CD56brCD16-CD9hi_stromal_HLA-DR,0.0
+NK cells CD56brCD16-CD9hi_stromal_VEGF,0.0
+NK cells CD56brCD16-CD9hi_glandfront_VEGF,0.0
+NK cells CD56brCD16-CD9hi_glandfront_ERa,0.0
+NK cells CD56dimCD16+CD9hi_stromal_HLA-DR,0.0
+NK cells CD56dimCD16+CD9hi_stromal_Ki67,0.0
+NK cells CD56dimCD16+CD9hi_stromal_VEGF,0.0
+NK cells CD56dimCD16+CD9hi_stromal_ERa,0.0
+Dendritic Cells CD209CD33dp_stromal_pP38,0.0
+Dendritic Cells CD33+_stromal_PR,0.0
+NK cells CD56dimCD16+CD9hi_glandfront_PR,0.0
+NK cells CD56dimCD16+CD9hi_glandfront_ERa,0.0
+NK cells CD56brCD16-TIM3hi_stromal_TIM3,0.0
+NK cells CD56brCD16-TIM3hi_stromal_GranzymeB,0.0
+NK cells CD56brCD16-TIM3hi_stromal_ERa,0.0
+NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_VEGF,0.0
+Dendritic Cells CD209CD33dp_stromal_ERa,0.0
+Macrophages M1-like_glandfront_pP38,0.0
+Macrophages M1-like_glandfront_VEGF,0.0
+Macrophages M1-like_glandfront_Ki67,0.0
+Macrophages M1-like_stromal_ERa,0.0
+Macrophages M1/M2_stromal_pP38,0.0
+Macrophages M2-like_stromal_Ki67,0.0
+Macrophages M2-like_stromal_GranzymeB,0.0
+Macrophages M2-like_stromal_pP38,0.0
+Macrophages M2-like_stromal_PR,0.0
+Macrophages M2-like_stromal_ERa,0.0
+Macrophages M2-like_glandfront_HLA-DR,0.0
+Macrophages MDSC_glandfront_Ki67,0.0
+Macrophages MDSC_stromal_ERa,0.0
+Macrophages MDSC_stromal_PR,0.0
+Macrophages MDSC_stromal_pP38,0.0
+Macrophages MDSC_stromal_Ki67,0.0
+Macrophages M2-like_glandfront_PR,0.0
+Macrophages M2-like_glandfront_ERa,0.0
+Macrophages M1-like_stromal_TIM3,0.0
+Macrophages M1-like_stromal_VEGF,0.0
+Macrophages M1-like_stromal_pP38,0.0
+Dendritic Cells CD209CD33dp_stromal_PR,0.0
+NK cells CD56dimCD16+_stromal_pP38,0.0
+aSMA-br vascular endothelium_stromal_Ki67,0.0
+aSMA-br mesenchymal_stromal_pP38,0.0
+aSMA-br fibroblast_stromal_pP38,0.0
+aSMA-br fibroblast_stromal_VEGF,0.0
+aSMA-br fibroblast_stromal_GranzymeB,0.0
+aSMA-br fibroblast_stromal_Ki67,0.0
+aSMA-br fibroblast_stromal_HLA-DR,0.0
+aSMA-br mesenchymal_glandfront_pP38,0.0
+Stroma mesenchymal_stromal_GranzymeB,0.0
+Stroma mesenchymal_stromal_pP38,0.0
+aSMA-br mesenchymal_stromal_VEGF,0.0
+NK cells CD56dimCD16+_stromal_ERa,0.0
+Stroma mesenchymal_stromal_PR,0.0
+aSMA-br vascular endothelium_glandfront_pP38,0.0
+Stroma mesenchymal_glandfront_pP38,0.0
+Stroma mesenchymal_glandfront_PR,0.0
+Stroma mesenchymal_glandfront_ERa,0.0
+aSMA-br vascular endothelium_stromal_ERa,0.0
+aSMA-br vascular endothelium_stromal_pP38,0.0
+aSMA-br vascular endothelium_stromal_VEGF,0.0
+aSMA-br fibroblast_stromal_PR,0.0
+aSMA-br fibroblast_stromal_ERa,0.0
+aSMA-br fibroblast_glandfront_GranzymeB,0.0
+aSMA-br fibroblast_glandfront_PR,0.0
+NK cells CD56dimCD16+_glandfront_VEGF,0.0
+NK cells CD56brCD16-_stromal_VEGF,0.0
+NK cells CD56brCD16-_stromal_pP38,0.0
+Stroma fibroblast_stromal_VEGF,0.0
+Stroma fibroblast_stromal_pP38,0.0
+Stroma fibroblast_stromal_PR,0.0
+Stroma fibroblast_glandfront_HLA-DR,0.0
+Stroma fibroblast_glandfront_PR,0.0
+Neutrophils_stromal_ERa,0.0
+Neutrophils_stromal_pP38,0.0
+Stroma vascular endothelium_stromal_HLA-DR,0.0
+NKT_glandfront_ERa,0.0
+NKT_glandfront_PR,0.0
+NKT_glandfront_VEGF,0.0
+Stroma vascular endothelium_stromal_pP38,0.0
+Stroma vascular endothelium_stromal_ERa,0.0
+NKT_glandfront_HLA-DR,0.0
+aSMA-br fibroblast_glandfront_ERa,0.0

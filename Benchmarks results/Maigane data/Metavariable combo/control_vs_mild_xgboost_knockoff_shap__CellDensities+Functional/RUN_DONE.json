@@ -1,0 +1,15 @@
+{
+  "label_mode": "control_vs_mild",
+  "artificial_type": "knockoff",
+  "importance": "shap",
+  "model_chosen": "xgboost",
+  "n_splits": 25,
+  "test_size": 0.2,
+  "timestamp_start": "2025-08-28 16:16:51",
+  "combo_name": "CellDensities+Functional",
+  "omics_in_combo": [
+    "CellDensities",
+    "Functional"
+  ],
+  "timestamp_end": "2025-08-29 08:34:49"
+}

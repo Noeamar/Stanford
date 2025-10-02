@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,[],0
+Fold 1,['CD4_T_cells_FoxP3+_glandfront_TIM3'],1
+Fold 2,['Dendritic_Cells_CD86CD33dp_glandfront_GranzymeB'],1
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,[],0
+Fold 6,[],0
+Fold 7,[],0
+Fold 8,[],0
+Fold 9,[],0
+Fold 10,[],0
+Fold 11,[],0
+Fold 12,[],0
+Fold 13,"['CD4_T_cells_FoxP3+_glandfront_TIM3', 'Gland_glandular_epithelium_intragland_Ki67']",2
+Fold 14,[],0
+Fold 15,[],0
+Fold 16,"['CD4_T_cells_FoxP3+_glandfront_VEGF', 'aSMA-br_mesenchymal_glandfront_ERa', 'Gland_glandular_epithelium_intragland_Ki67']",3
+Fold 17,[],0
+Fold 18,[],0
+Fold 19,[],0
+Fold 20,"['CD8_T_cells_HLA-DR+_glandfront_PR', 'Gland_glandular_epithelium_intragland_Ki67']",2
+Fold 21,['CD4_T_cells_HLA-DR+_stromal_HLA-DR'],1
+Fold 22,[],0
+Fold 23,['Gland_glandular_epithelium_intragland_Ki67'],1
+Fold 24,[],0
+Fold 25,[],0
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,[],0

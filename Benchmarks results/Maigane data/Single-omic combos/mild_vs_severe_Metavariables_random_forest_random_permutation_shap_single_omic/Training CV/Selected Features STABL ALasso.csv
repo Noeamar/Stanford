@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,[],0
+Fold 1,['CD4_T_cells_FoxP3+_glandfront_eccentricity'],1
+Fold 2,[],0
+Fold 3,"['CD4_T_cells_HLA-DR+_stromal_area', 'CD8_T_cells_HLA-DR+_stromal_area', 'CD4_T_cells_FoxP3+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_celldistance', 'aSMA-br_vascular_endothelium_glandfront_celldistance']",7
+Fold 4,[],0
+Fold 5,['CD4_T_cells_HLA-DR+_stromal_area'],1
+Fold 6,[],0
+Fold 7,[],0
+Fold 8,[],0
+Fold 9,"['Gland_fibroblast_intragland_area', 'CD4_T_cells_HLA-DR+_stromal_eccentricity']",2
+Fold 10,[],0
+Fold 11,"['CD4_T_cells_HLA-DR+_glandfront_celldistance', 'CD8_T_cells_HLA-DR+_glandfront_celldistance']",2
+Fold 12,[],0
+Fold 13,"['CD4_T_cells_FoxP3+_glandfront_eccentricity', 'aSMA-br_vascular_endothelium_glandfront_celldistance']",2
+Fold 14,[],0
+Fold 15,[],0
+Fold 16,"['CD4_T_cells_FoxP3+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity']",2
+Fold 17,[],0
+Fold 18,[],0
+Fold 19,"['CD4_T_cells_HLA-DR+_glandfront_area', 'CD4_T_cells_CD80_CD86+_stromal_area', 'Macrophages_M1-like_stromal_area', 'Macrophages_M2-like_stromal_area', 'aSMA-br_mesenchymal_stromal_area', 'Gland_mesenchymal_stromal_area', 'CD8_T_cells_FoxP3+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_stromal_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD4_T_cells_HLA-DR+_glandfront_celldistance', 'CD8_T_cells_HLA-DR+_glandfront_celldistance', 'NK_cells_CD56brCD16-TIM3hi_glandfront_celldistance']",12
+Fold 20,"['CD8_T_cells_HLA-DR+_glandfront_eccentricity', 'CD8_T_cells_HLA-DR+_glandfront_celldistance']",2
+Fold 21,['CD4_T_cells_HLA-DR+_stromal_eccentricity'],1
+Fold 22,[],0
+Fold 23,['CD4_T_cells_FoxP3+_glandfront_eccentricity'],1
+Fold 24,[],0
+Fold 25,['Dendritic_Cells_CD209CD86dp_glandfront_celldistance'],1
+Fold 26,['CD4_T_cells_HLA-DR+_stromal_area'],1
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,[],0

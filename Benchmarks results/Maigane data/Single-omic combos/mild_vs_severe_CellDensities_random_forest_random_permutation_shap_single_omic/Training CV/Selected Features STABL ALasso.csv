@@ -1,0 +1,31 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",2
+Fold 1,[],0
+Fold 2,[],0
+Fold 3,[],0
+Fold 4,[],0
+Fold 5,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",4
+Fold 6,[],0
+Fold 7,"['CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency']",2
+Fold 8,[],0
+Fold 9,[],0
+Fold 10,[],0
+Fold 11,"['B_cells_intragland_cellfrequency', 'CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_CD80_CD86+_stromal_cellfrequency', 'Stroma_fibroblast_glandfront_cellfrequency', 'Macrophages_M2-like_glandfront_cellfrequency', 'Macrophages_MDSC_intragland_cellfrequency', 'Gland_glandular_epithelium_glandfront_cellfrequency']",9
+Fold 12,[],0
+Fold 13,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",3
+Fold 14,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'CD4_T_cells_CD80_CD86+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",3
+Fold 15,['CD8_T_cells_HLA-DR+_stromal_cellfrequency'],1
+Fold 16,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",2
+Fold 17,[],0
+Fold 18,[],0
+Fold 19,"['CD4_T_cells_HLA-DR+_stromal_cellfrequency', 'CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Stroma_fibroblast_glandfront_cellfrequency', 'Stroma_fibroblast_intragland_cellfrequency', 'Macrophages_M2-like_intragland_cellfrequency', 'Neutrophils_glandfront_cellfrequency']",6
+Fold 20,[],0
+Fold 21,[],0
+Fold 22,"['CD8_T_cells_HLA-DR+_stromal_cellfrequency', 'Macrophages_MDSC_intragland_cellfrequency']",2
+Fold 23,"['CD4_T_cells_FoxP3+_glandfront_cellfrequency', 'Dendritic_Cells_CD209CD33dp_stromal_cellfrequency']",2
+Fold 24,['CD8_T_cells_HLA-DR+_stromal_cellfrequency'],1
+Fold 25,[],0
+Fold 26,[],0
+Fold 27,[],0
+Fold 28,[],0
+Fold 29,[],0

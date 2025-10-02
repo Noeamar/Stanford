@@ -1,0 +1,13 @@
+,0
+ROC AUC,0.481
+ROC AUC LB,0.403
+ROC AUC UB,0.559
+Average Precision,0.507
+Average Precision LB,0.432
+Average Precision UB,0.605
+N features,6.000
+N features LB,3.000
+N features UB,9.250
+CVS,0.083
+CVS LB,0.000
+CVS UB,0.167

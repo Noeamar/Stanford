@@ -1,0 +1,137 @@
+,Feature Name
+Feature n°1,CD4 T cells FoxP3+_glandfront_PR
+Feature n°2,CD4 T cells FoxP3+_stromal_PR
+Feature n°3,CD4 T cells FoxP3+_stromal_Ki67
+Feature n°4,CD4 T cells FoxP3+_stromal_HLA-DR
+Feature n°5,CD8 T cells FoxP3+_glandfront_ERa
+Feature n°6,CD8 T cells FoxP3+_glandfront_PR
+Feature n°7,CD4 T cells HLA-DR+_glandfront_ERa
+Feature n°8,CD4 T cells HLA-DR+_glandfront_VEGF
+Feature n°9,CD4 T cells HLA-DR+_glandfront_Ki67
+Feature n°10,CD4 T cells HLA-DR+_stromal_PR
+Feature n°11,CD4 T cells HLA-DR+_stromal_VEGF
+Feature n°12,CD8 T cells HLA-DR+_glandfront_ERa
+Feature n°13,CD8 T cells HLA-DR+_intragland_ERa
+Feature n°14,CD8 T cells HLA-DR+_intragland_PR
+Feature n°15,CD8 T cells HLA-DR+_intragland_HLA-DR
+Feature n°16,CD8 T cells HLA-DR+_stromal_VEGF
+Feature n°17,CD4 T cells CD80/CD86+_intragland_PR
+Feature n°18,CD4 T cells CD80/CD86+_stromal_ERa
+Feature n°19,CD4 T cells CD80/CD86+_stromal_Ki67
+Feature n°20,CD8 T cells CD80/CD86+_intragland_ERa
+Feature n°21,CD8 T cells CD80/CD86+_intragland_PR
+Feature n°22,CD8 T cells CD80/CD86+_stromal_ERa
+Feature n°23,CD8 T cells CD80/CD86+_stromal_GranzymeB
+Feature n°24,CD4 T cells CD11b+_glandfront_PR
+Feature n°25,CD4 T cells CD11b+_glandfront_Ki67
+Feature n°26,CD4 T cells CD11b+_stromal_GranzymeB
+Feature n°27,CD4 T cells CD11b+_stromal_Ki67
+Feature n°28,CD4 T cells CD11b+_stromal_HLA-DR
+Feature n°29,CD8 T cells CD11b+_glandfront_GranzymeB
+Feature n°30,CD8 T cells CD11b+_glandfront_HLA-DR
+Feature n°31,CD8 T cells CD11b+_stromal_GranzymeB
+Feature n°32,Stroma mesenchymal_glandfront_GranzymeB
+Feature n°33,Stroma mesenchymal_stromal_ERa
+Feature n°34,Stroma vascular endothelium_glandfront_VEGF
+Feature n°35,Stroma vascular endothelium_glandfront_Ki67
+Feature n°36,Stroma fibroblast_glandfront_PR
+Feature n°37,Stroma fibroblast_stromal_GranzymeB
+Feature n°38,NK cells CD56brCD16-_glandfront_GranzymeB
+Feature n°39,NK cells CD56brCD16-_glandfront_Ki67
+Feature n°40,NK cells CD56brCD16-_glandfront_HLA-DR
+Feature n°41,NK cells CD56brCD16-_stromal_PR
+Feature n°42,NK cells CD56brCD16-_stromal_GranzymeB
+Feature n°43,NK cells CD56brCD16-_stromal_Ki67
+Feature n°44,NK cells CD56brCD16-_stromal_HLA-DR
+Feature n°45,NK cells CD56dimCD16+_glandfront_GranzymeB
+Feature n°46,NK cells CD56dimCD16+_glandfront_Ki67
+Feature n°47,NK cells CD56dimCD16+_glandfront_HLA-DR
+Feature n°48,NK cells CD56dimCD16+_stromal_Ki67
+Feature n°49,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_PR
+Feature n°50,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_HLA-DR
+Feature n°51,NK cells CD56brCD16-TIM3hi_glandfront_PR
+Feature n°52,NK cells CD56dimCD16+CD9hi_glandfront_GranzymeB
+Feature n°53,NK cells CD56dimCD16+CD9hi_intragland_VEGF
+Feature n°54,NK cells CD56dimCD16+CD9hi_stromal_GranzymeB
+Feature n°55,NK cells CD56brCD16-CD9hi_glandfront_PR
+Feature n°56,NK cells CD56brCD16-CD9hi_stromal_ERa
+Feature n°57,NK cells CD56brCD16-CD9hi_stromal_Ki67
+Feature n°58,Macrophages M1-like_glandfront_HLA-DR
+Feature n°59,Macrophages M1-like_stromal_GranzymeB
+Feature n°60,Macrophages M1-like_stromal_Ki67
+Feature n°61,Macrophages M1-like_stromal_HLA-DR
+Feature n°62,Macrophages M2-like_glandfront_ERa
+Feature n°63,Macrophages M2-like_glandfront_PR
+Feature n°64,Macrophages M2-like_glandfront_HLA-DR
+Feature n°65,Macrophages M1/M2_glandfront_GranzymeB
+Feature n°66,Macrophages M1/M2_glandfront_HLA-DR
+Feature n°67,Macrophages M1/M2_stromal_PR
+Feature n°68,Macrophages M1/M2_stromal_VEGF
+Feature n°69,Macrophages M1/M2_stromal_GranzymeB
+Feature n°70,Macrophages M1/M2_stromal_HLA-DR
+Feature n°71,Macrophages MDSC_glandfront_PR
+Feature n°72,Macrophages MDSC_glandfront_HLA-DR
+Feature n°73,Macrophages MDSC_stromal_GranzymeB
+Feature n°74,Macrophages MDSC_stromal_HLA-DR
+Feature n°75,Dendritic Cells CD86+_glandfront_GranzymeB
+Feature n°76,Dendritic Cells CD86+_stromal_VEGF
+Feature n°77,Dendritic Cells CD33+_glandfront_pP38
+Feature n°78,Dendritic Cells CD33+_glandfront_Ki67
+Feature n°79,Dendritic Cells CD33+_intragland_ERa
+Feature n°80,Dendritic Cells CD33+_intragland_PR
+Feature n°81,Dendritic Cells CD33+_intragland_Ki67
+Feature n°82,Dendritic Cells CD33+_stromal_ERa
+Feature n°83,Dendritic Cells CD33+_stromal_PR
+Feature n°84,Dendritic Cells CD33+_stromal_VEGF
+Feature n°85,Dendritic Cells CD33+_stromal_HLA-DR
+Feature n°86,Dendritic Cells CD209CD86dp_glandfront_VEGF
+Feature n°87,Dendritic Cells CD209CD86dp_glandfront_Ki67
+Feature n°88,Dendritic Cells CD209CD86dp_stromal_HLA-DR
+Feature n°89,Dendritic Cells CD209CD33dp_glandfront_ERa
+Feature n°90,Dendritic Cells CD209CD33dp_glandfront_GranzymeB
+Feature n°91,Dendritic Cells CD209CD33dp_stromal_PR
+Feature n°92,Dendritic Cells CD209CD33dp_stromal_GranzymeB
+Feature n°93,Dendritic Cells CD86CD33dp_glandfront_pP38
+Feature n°94,Dendritic Cells CD86CD33dp_glandfront_HLA-DR
+Feature n°95,Dendritic Cells CD86CD33dp_stromal_GranzymeB
+Feature n°96,Dendritic Cells CD86CD33dp_stromal_Ki67
+Feature n°97,Neutrophils_glandfront_ERa
+Feature n°98,Neutrophils_glandfront_PR
+Feature n°99,Neutrophils_stromal_GranzymeB
+Feature n°100,NKT_glandfront_Ki67
+Feature n°101,aSMA-br fibroblast_glandfront_HLA-DR
+Feature n°102,aSMA-br mesenchymal_glandfront_ERa
+Feature n°103,aSMA-br mesenchymal_glandfront_Ki67
+Feature n°104,aSMA-br mesenchymal_stromal_PR
+Feature n°105,aSMA-br mesenchymal_stromal_GranzymeB
+Feature n°106,aSMA-br vascular endothelium_glandfront_GranzymeB
+Feature n°107,Gland glandular epithelium_glandfront_Ki67
+Feature n°108,Gland glandular epithelium_intragland_ERa
+Feature n°109,Gland glandular epithelium_intragland_VEGF
+Feature n°110,Gland mesenchymal_glandfront_ERa
+Feature n°111,Gland mesenchymal_intragland_ERa
+Feature n°112,Gland mesenchymal_intragland_PR
+Feature n°113,Gland mesenchymal_intragland_pP38
+Feature n°114,Gland mesenchymal_intragland_Ki67
+Feature n°115,Gland mesenchymal_stromal_ERa
+Feature n°116,Gland mesenchymal_stromal_Ki67
+Feature n°117,Gland mesenchymal_stromal_HLA-DR
+Feature n°118,Gland fibroblast_glandfront_ERa
+Feature n°119,Gland fibroblast_glandfront_PR
+Feature n°120,Gland fibroblast_glandfront_VEGF
+Feature n°121,Gland fibroblast_intragland_PR
+Feature n°122,Gland fibroblast_intragland_VEGF
+Feature n°123,Gland fibroblast_intragland_GranzymeB
+Feature n°124,Gland fibroblast_intragland_HLA-DR
+Feature n°125,Gland fibroblast_stromal_PR
+Feature n°126,Gland fibroblast_stromal_HLA-DR
+Feature n°127,Gland vascular endothelium_glandfront_PR
+Feature n°128,Gland vascular endothelium_glandfront_VEGF
+Feature n°129,Gland vascular endothelium_glandfront_Ki67
+Feature n°130,Gland vascular endothelium_glandfront_HLA-DR
+Feature n°131,Gland vascular endothelium_stromal_GranzymeB
+Feature n°132,Gland vascular endothelium_stromal_Ki67
+Feature n°133,NA_glandfront_GranzymeB
+Feature n°134,NA_glandfront_Ki67
+Feature n°135,NA_glandfront_HLA-DR
+Feature n°136,NA_stromal_Ki67

@@ -1,0 +1,26 @@
+,Feature Name
+Feature n°1,CD8 T cells FoxP3+_intragland_HLA-DR
+Feature n°2,CD8 T cells FoxP3+_stromal_HLA-DR
+Feature n°3,CD4 T cells HLA-DR+_glandfront_Ki67
+Feature n°4,CD4 T cells HLA-DR+_stromal_TIM3
+Feature n°5,CD4 T cells HLA-DR+_stromal_HLA-DR
+Feature n°6,CD8 T cells HLA-DR+_glandfront_ERa
+Feature n°7,CD8 T cells HLA-DR+_stromal_TIM3
+Feature n°8,CD8 T cells CD11b+_glandfront_pP38
+Feature n°9,NK cells CD56brCD16-_stromal_GranzymeB
+Feature n°10,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_ERa
+Feature n°11,NK cells CD56brCD16-NKG2AhiTIM3hi_stromal_TIM3
+Feature n°12,NK cells CD56brCD16-TIM3hi_stromal_Ki67
+Feature n°13,Macrophages M2-like_glandfront_HLA-DR
+Feature n°14,Macrophages MDSC_glandfront_GranzymeB
+Feature n°15,Dendritic Cells CD209CD33dp_glandfront_GranzymeB
+Feature n°16,Neutrophils_glandfront_GranzymeB
+Feature n°17,NKT_glandfront_pP38
+Feature n°18,aSMA-br mesenchymal_glandfront_ERa
+Feature n°19,Gland glandular epithelium_glandfront_Ki67
+Feature n°20,Gland glandular epithelium_intragland_PR
+Feature n°21,Gland glandular epithelium_intragland_Ki67
+Feature n°22,Gland glandular epithelium_intragland_HLA-DR
+Feature n°23,Gland mesenchymal_intragland_Ki67
+Feature n°24,Gland fibroblast_intragland_VEGF
+Feature n°25,Gland fibroblast_intragland_GranzymeB

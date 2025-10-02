@@ -1,0 +1,8 @@
+,Feature Name
+Feature n°1,CD4 T cells CD80/CD86+_stromal_area
+Feature n°2,Macrophages M1/M2_stromal_area
+Feature n°3,CD4 T cells FoxP3+_stromal_eccentricity
+Feature n°4,CD8 T cells HLA-DR+_glandfront_eccentricity
+Feature n°5,CD8 T cells CD80/CD86+_glandfront_eccentricity
+Feature n°6,CD4 T cells FoxP3+_glandfront_celldistance
+Feature n°7,Dendritic Cells CD209CD86dp_glandfront_celldistance

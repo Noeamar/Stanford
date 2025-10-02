@@ -1,0 +1,16 @@
+{
+  "label_mode": "control_vs_mild",
+  "artificial_type": "random_permutation",
+  "importance": "shap",
+  "model_chosen": "random_forest",
+  "n_splits": 30,
+  "test_size": 0.2,
+  "timestamp_start": "2025-09-19 17:45:25",
+  "omics_in_combo": [
+    "CellDensities",
+    "Functional",
+    "Metavariables",
+    "Neighborhood"
+  ],
+  "fusion": "late_fusion_multi_omic"
+}

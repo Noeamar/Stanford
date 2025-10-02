@@ -1,0 +1,10 @@
+{
+  "label_mode": "control_vs_mild",
+  "artificial_type": "knockoff",
+  "importance": "shap",
+  "model_chosen": "xgboost",
+  "n_splits": 25,
+  "test_size": 0.2,
+  "timestamp_start": "2025-08-26 22:13:32",
+  "timestamp_end": "2025-08-27 02:20:24"
+}

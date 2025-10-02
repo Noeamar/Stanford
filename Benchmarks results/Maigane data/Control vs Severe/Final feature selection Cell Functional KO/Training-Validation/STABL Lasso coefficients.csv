@@ -1,0 +1,14 @@
+Feature,Associated weight
+CD8_T_cells_FoxP3+_glandfront_pP38,-0.558063716664471
+CD4_T_cells_HLA-DR+_stromal_PR,0.5060876052294168
+CD4_T_cells_HLA-DR+_stromal_TIM3,0.46912024171768857
+CD4_T_cells_CD80_CD86+_stromal_HLA-DR,0.3660618159646046
+NK_cells_CD56brCD16-_stromal_HLA-DR,0.4029475758154048
+Macrophages_M1_M2_glandfront_GranzymeB,0.1120821647185025
+Macrophages_MDSC_glandfront_pP38,-0.39748515089553715
+Dendritic_Cells_CD86+_intragland_PR,-2.0023340122922746
+NKT_glandfront_Ki67,0.6210809826545702
+Gland_mesenchymal_stromal_Ki67,0.472708286485263
+Gland_fibroblast_glandfront_VEGF,-1.1388899450948828
+NA_glandfront_Ki67,0.5944315207040547
+NA_glandfront_TIM3,-0.47619644305926395

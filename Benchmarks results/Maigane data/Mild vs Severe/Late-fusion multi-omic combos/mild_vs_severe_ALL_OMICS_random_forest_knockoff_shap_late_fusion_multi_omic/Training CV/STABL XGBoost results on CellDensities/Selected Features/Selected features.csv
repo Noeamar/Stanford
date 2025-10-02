@@ -1,0 +1,8 @@
+,Feature Name
+Feature n°1,CD4_T_cells_HLA-DR+_glandfront_cellfrequency
+Feature n°2,CD4_T_cells_HLA-DR+_stromal_cellfrequency
+Feature n°3,CD8_T_cells_HLA-DR+_glandfront_cellfrequency
+Feature n°4,NK_cells_CD56brCD16-TIM3hi_stromal_cellfrequency
+Feature n°5,NK_cells_CD56brCD16-CD9hi_glandfront_cellfrequency
+Feature n°6,Macrophages_M2-like_glandfront_cellfrequency
+Feature n°7,aSMA-br_vascular_endothelium_glandfront_cellfrequency
