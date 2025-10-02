@@ -1,0 +1,101 @@
+,Fold selected features,Fold nb of features
+Fold 0,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 1,['Siglec.6'],1
+Fold 2,"['Siglec.6', 'discoidin.domain.receptor.1', 'IL.1.R4', 'PLXB2']",4
+Fold 3,['Siglec.6'],1
+Fold 4,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 5,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",5
+Fold 6,"['NK_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",4
+Fold 7,[],0
+Fold 8,"['CD4posTnaive_STAT3_unstim', 'Siglec.6', 'Activin.A', 'IL.1.R4']",4
+Fold 9,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",5
+Fold 10,"['Bcells_STAT1_IFNa', 'mDCs_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'discoidin.domain.receptor.1', 'IL.1.R4']",7
+Fold 11,"['Siglec.6', 'IL.1.R4']",2
+Fold 12,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa']",2
+Fold 13,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa']",2
+Fold 14,"['Activin.A', 'IL.1.R4']",2
+Fold 15,"['Siglec.6', 'Activin.A']",2
+Fold 16,"['CD4posTnaive_STAT3_unstim', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'CD8Tem_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 17,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 18,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Cystatin.C', 'Siglec.6']",4
+Fold 19,"['Siglec.6', 'Activin.A']",2
+Fold 20,"['pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD8Tem_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",6
+Fold 21,"['pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 22,"['Siglec.6', 'IL.1.R4']",2
+Fold 23,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4', 'PLXB2']",5
+Fold 24,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa']",2
+Fold 25,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'discoidin.domain.receptor.1', 'IL.1.R4']",5
+Fold 26,"['Siglec.6', 'Activin.A', 'IL.1.R4']",3
+Fold 27,"['Bcells_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6']",5
+Fold 28,"['CD4posTnaive_STAT3_unstim', 'Bcells_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'IL.1.R4']",6
+Fold 29,"['CD4posTnaive_STAT3_unstim', 'Bcells_STAT1_IFNa', 'mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'Activin.A']",6
+Fold 30,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'intMCs_STAT1_IFNa', 'Siglec.6', 'Activin.A']",5
+Fold 31,"['CD4posTnaive_STAT3_unstim', 'NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6']",5
+Fold 32,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",7
+Fold 33,"['mDCs_STAT1_IFNa', 'Cystatin.C', 'Siglec.6', 'IL.1.R4']",4
+Fold 34,"['mDCs_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",3
+Fold 35,[],0
+Fold 36,"['pDCs_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Cystatin.C', 'Siglec.6', 'Activin.A', 'discoidin.domain.receptor.1']",6
+Fold 37,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 38,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa']",2
+Fold 39,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'PLXB2']",5
+Fold 40,"['CD69posCD56loCD16negNK_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 41,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'Cystatin.C', 'Siglec.6', 'Activin.A', 'IL.1.R4']",6
+Fold 42,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 43,"['CD4posTnaive_STAT3_unstim', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'PLXB2']",4
+Fold 44,"['CD4posTnaive_STAT3_unstim', 'Bcells_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa']",5
+Fold 45,"['mDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'discoidin.domain.receptor.1']",4
+Fold 46,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa']",2
+Fold 47,['NK_STAT1_IFNa'],1
+Fold 48,"['Siglec.6', 'Activin.A', 'IL.1.R4']",3
+Fold 49,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4', 'PLXB2']",6
+Fold 50,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4', 'PLXB2']",5
+Fold 51,"['mDCs_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'IL.1.R4', 'PLXB2']",5
+Fold 52,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'discoidin.domain.receptor.1']",6
+Fold 53,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",6
+Fold 54,"['Siglec.6', 'Activin.A']",2
+Fold 55,"['Siglec.6', 'Activin.A', 'IL.1.R4']",3
+Fold 56,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",7
+Fold 57,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Cystatin.C', 'Siglec.6']",4
+Fold 58,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 59,"['NK_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 60,"['Cystatin.C', 'Siglec.6', 'IL.1.R4']",3
+Fold 61,"['CD4posTnaive_STAT3_unstim', 'Siglec.6', 'IL.1.R4', 'PLXB2']",4
+Fold 62,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa']",2
+Fold 63,[],0
+Fold 64,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6']",4
+Fold 65,"['Cystatin.C', 'Siglec.6']",2
+Fold 66,"['NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 67,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'PLXB2']",5
+Fold 68,"['NK_STAT1_IFNa', 'Cystatin.C', 'Siglec.6']",3
+Fold 69,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 70,"['CD4posTnaive_STAT3_unstim', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",7
+Fold 71,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",6
+Fold 72,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",5
+Fold 73,"['Activin.A', 'discoidin.domain.receptor.1', 'IL.1.R4']",3
+Fold 74,"['Bcells_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 75,"['CD4posTnaive_STAT3_unstim', 'pDCs_STAT1_IFNa']",2
+Fold 76,"['mDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A']",3
+Fold 77,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 78,"['CD4posTnaive_STAT3_unstim', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",6
+Fold 79,"['NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 80,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa']",2
+Fold 81,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 82,"['NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'Activin.A']",4
+Fold 83,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa']",3
+Fold 84,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD56loCD16negNK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",6
+Fold 85,"['NK_STAT1_IFNa', 'CD69posCD8Tmem_STAT1_IFNa', 'NKT_STAT1_IFNa', 'Siglec.6', 'Activin.A']",5
+Fold 86,"['Siglec.6', 'discoidin.domain.receptor.1', 'IL.1.R4']",3
+Fold 87,"['pDCs_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'discoidin.domain.receptor.1', 'IL.1.R4', 'PLXB2']",7
+Fold 88,"['mDCs_STAT1_IFNa', 'intMCs_STAT1_IFNa']",2
+Fold 89,"['CD4posTnaive_STAT3_unstim', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'PLXB2']",4
+Fold 90,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'IL.1.R4', 'PLXB2']",5
+Fold 91,"['CD4posTnaive_STAT3_unstim', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",4
+Fold 92,"['NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",3
+Fold 93,"['CD4posTnaive_STAT3_unstim', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4', 'PLXB2']",6
+Fold 94,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",6
+Fold 95,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6', 'Activin.A', 'IL.1.R4']",5
+Fold 96,"['Siglec.6', 'IL.1.R4']",2
+Fold 97,"['mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'CD62LposCD8Tnaive_STAT1_IFNa', 'Cystatin.C', 'Siglec.6']",5
+Fold 98,"['mDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'CD69posCD56loCD16negNK_STAT1_IFNa', 'Siglec.6', 'IL.1.R4']",5
+Fold 99,"['CD4posTnaive_STAT3_unstim', 'mDCs_STAT1_IFNa', 'pDCs_STAT1_IFNa', 'NK_STAT1_IFNa', 'Siglec.6']",5

@@ -1,0 +1,8 @@
+run_dir,name,B,A,n_folds,union_n_features,artificial_prop,mean_intra_jaccard,avg_features_per_fold
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B200_A0.5,results_stabl_OOL_xgboost_knockoff_gain_B200_A0.5,200,0.5,100,159,0.0,0.4076252251203354,20.16
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B50_A1,results_stabl_OOL_xgboost_knockoff_gain_B50_A1,50,1.0,100,355,0.0,0.34476729797910494,20.97
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B100_A1,results_stabl_OOL_xgboost_knockoff_gain_B100_A1,100,1.0,100,258,0.0,0.3744333744441,19.96
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B200_A1,results_stabl_OOL_xgboost_knockoff_gain_B200_A1,200,1.0,100,180,0.0,0.3990024757321755,19.61
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B500_A1,results_stabl_OOL_xgboost_knockoff_gain_B500_A1,500,1.0,100,29,0.0,0.4508339989877423,7.95
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B200_A2,results_stabl_OOL_xgboost_knockoff_gain_B200_A2,200,2.0,100,139,0.0,0.41537569476995717,17.83
+/Users/noeamar/Documents/Stanford/OOL Test Bootstraps et Artifical features/results_stabl_OOL_xgboost_knockoff_gain_B200_A5,results_stabl_OOL_xgboost_knockoff_gain_B200_A5,200,5.0,100,18,0.0,0.2753032125001822,4.03

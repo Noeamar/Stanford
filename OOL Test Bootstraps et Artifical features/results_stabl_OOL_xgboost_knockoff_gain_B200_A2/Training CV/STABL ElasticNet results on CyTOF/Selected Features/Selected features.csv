@@ -1,0 +1,9 @@
+,Feature Name
+Feature n°1,Bcells_STAT1_IFNa
+Feature n°2,NK_STAT1_IFNa
+Feature n°3,CD56hiCD16negNK_STAT1_IFNa
+Feature n°4,CD56loCD16negNK_STAT1_IFNa
+Feature n°5,CD69negCD56loCD16negNK_STAT1_IFNa
+Feature n°6,CD69posCD56loCD16negNK_STAT1_IFNa
+Feature n°7,CCR5posCCR2posCD4Tcm_STAT1_IFNa
+Feature n°8,NKT_STAT1_IFNa
